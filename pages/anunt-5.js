@@ -368,7 +368,7 @@ const Anunt5 = (props) => {
             justify-content: space-between;
           }
           .anunt5-iframe {
-            width: 1200px;
+            width: 1124px;
             height: var(--dl-size-size-maxwidth);
           }
           .anunt5-container2 {
