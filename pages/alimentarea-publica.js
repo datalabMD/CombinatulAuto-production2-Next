@@ -10,7 +10,7 @@ import Footer from '../components/footer'
 const AlimentareaPublica = (props) => {
   return (
     <>
-      <div className="alimentarea-publica-container">
+      <div className="alimentarea-publica-container1">
         <Head>
           <title>
             Alimentarea-publica - SA Combinatul Auto Nr.4 din Chișinău
@@ -29,18 +29,18 @@ const AlimentareaPublica = (props) => {
           />
           <meta
             property="og:image"
-            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80"
+            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80&amp;force_format=original"
           />
         </Head>
         <Navigation
-          image_src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
-          rootClassName="navigation-root-class-name11"
+          imageSrc="navigationhttps://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+          rootClassName="navigationroot-class-name11"
         ></Navigation>
         <main className="alimentarea-publica-main">
           <div className="alimentarea-publica-hero section-container">
-            <div className="alimentarea-publica-max-width max-content-container">
-              <div className="alimentarea-publica-content-container">
-                <h1 className="alimentarea-publica-text">
+            <div className="alimentarea-publica-max-width1 max-content-container">
+              <div className="alimentarea-publica-content-container1">
+                <h1 className="alimentarea-publica-text10">
                   <span>
                     COMBINATUL AUTO
                     <span
@@ -49,10 +49,10 @@ const AlimentareaPublica = (props) => {
                       }}
                     />
                   </span>
-                  <span className="alimentarea-publica-text02">nr.4</span>
+                  <span className="alimentarea-publica-text12">nr.4</span>
                   <br></br>
-                  <span className="alimentarea-publica-text04">s</span>
-                  <span className="alimentarea-publica-text05">
+                  <span className="alimentarea-publica-text14">s</span>
+                  <span className="alimentarea-publica-text15">
                     ervicii de
                     <span
                       dangerouslySetInnerHTML={{
@@ -61,22 +61,22 @@ const AlimentareaPublica = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="alimentarea-publica-text07">calitate</span>
+                  <span className="alimentarea-publica-text17">calitate</span>
                   <br></br>
-                  <span className="alimentarea-publica-text08">IN</span>
-                  <span className="alimentarea-publica-text09">
+                  <span className="alimentarea-publica-text18">IN</span>
+                  <span className="alimentarea-publica-text19">
                     <span
                       dangerouslySetInnerHTML={{
                         __html: ' ',
                       }}
                     />
                   </span>
-                  <span className="alimentarea-publica-text10">Moldova</span>
+                  <span className="alimentarea-publica-text20">Moldova</span>
                   <span></span>
                 </h1>
-                <span className="alimentarea-publica-text12">
+                <span className="alimentarea-publica-text22">
                   <span>N</span>
-                  <span className="alimentarea-publica-text14">
+                  <span className="alimentarea-publica-text24">
                     oi garantam executarea rapida i la un nivel
                     <span
                       dangerouslySetInnerHTML={{
@@ -85,7 +85,7 @@ const AlimentareaPublica = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="alimentarea-publica-text16">
+                  <span className="alimentarea-publica-text26">
                     inalt a comenzilor Dvs.
                     <span
                       dangerouslySetInnerHTML={{
@@ -94,7 +94,7 @@ const AlimentareaPublica = (props) => {
                     />
                   </span>
                 </span>
-                <div className="alimentarea-publica-btns-container">
+                <div className="alimentarea-publica-btns-container1">
                   <a
                     href="#servicii"
                     className="alimentarea-publica-primary button-primary button-lg button"
@@ -110,15 +110,15 @@ const AlimentareaPublica = (props) => {
                 </div>
               </div>
               <div className="alimentarea-publica-video-container">
-                <div className="alimentarea-publica-container1"></div>
+                <div className="alimentarea-publica-container2"></div>
               </div>
             </div>
             <div className="alimentarea-publica-blue-background"></div>
           </div>
           <div className="alimentarea-publica-text-content">
-            <h1 className="alimentarea-publica-text17">Alimentarea publica</h1>
-            <span className="alimentarea-publica-text18">
-              <span className="alimentarea-publica-text19">
+            <h1 className="alimentarea-publica-text27">Alimentarea publica</h1>
+            <span className="alimentarea-publica-text28">
+              <span className="alimentarea-publica-text29">
                 Intreprinderea
                 <span
                   dangerouslySetInnerHTML={{
@@ -135,18 +135,18 @@ const AlimentareaPublica = (props) => {
           <div className="alimentarea-publica-speakers section-container">
             <div
               id="servicii"
-              className="alimentarea-publica-max-width1 max-content-container"
+              className="alimentarea-publica-max-width2 max-content-container"
             >
               <div className="alimentarea-publica-speakers-container">
                 <Link href="/transport">
                   <a>
                     <SpeakerCard
-                      role="livrare National"
-                      lastName="marfuri"
-                      firstName="Transport"
-                      image_src="/15-300h.webp"
-                      rootClassName="speaker-card-root-class-name18"
-                      className="alimentarea-publica-component01"
+                      role="speaker-cardlivrare national"
+                      lastName="speaker-cardmarfuri"
+                      firstName="speaker-card-transport"
+                      imageSrc="speaker-card/15-300h.webp"
+                      rootClassName="speaker-cardroot-class-name18"
+                      className="alimentarea-publica-component11"
                     ></SpeakerCard>
                   </a>
                 </Link>
@@ -156,8 +156,8 @@ const AlimentareaPublica = (props) => {
                       role="servicii electrice si mecanice"
                       lastName="auto"
                       firstName="reparatii"
-                      image_src="/16-300h-300h.webp"
-                      className="alimentarea-publica-component02"
+                      imageSrc="/16-300h-300h.webp"
+                      className="alimentarea-publica-component12"
                     ></SpeakerCard>
                   </a>
                 </Link>
@@ -165,7 +165,7 @@ const AlimentareaPublica = (props) => {
                   role="rapid si calitativ"
                   lastName="auto"
                   firstName="spalatorie"
-                  image_src="/14-300h.webp"
+                  imageSrc="/14-300h.webp"
                 ></SpeakerCard>
                 <Link href="/parcare-auto">
                   <a>
@@ -173,8 +173,8 @@ const AlimentareaPublica = (props) => {
                       role="siguranta maxima"
                       lastName="auto"
                       firstName="parcare"
-                      image_src="/13-300h.webp"
-                      className="alimentarea-publica-component04"
+                      imageSrc="/13-300h.webp"
+                      className="alimentarea-publica-component14"
                     ></SpeakerCard>
                   </a>
                 </Link>
@@ -184,8 +184,8 @@ const AlimentareaPublica = (props) => {
                       role="siguranta maxima"
                       lastName="spatiilor"
                       firstName="arenda"
-                      image_src="/12-300h.webp"
-                      className="alimentarea-publica-component05"
+                      imageSrc="/12-300h.webp"
+                      className="alimentarea-publica-component15"
                     ></SpeakerCard>
                   </a>
                 </Link>
@@ -193,29 +193,29 @@ const AlimentareaPublica = (props) => {
                   role="servicii de alimentatie (cantina)"
                   lastName="publica"
                   firstName="alimentatie"
-                  image_src="/cantina-300w.webp"
+                  imageSrc="/cantina-300w.webp"
                 ></SpeakerCard>
                 <SpeakerCard
-                  role="in curind"
-                  lastName="noi"
-                  firstName="servicii "
-                  image_src="/rm-300h.webp"
-                  rootClassName="speaker-card-root-class-name19"
+                  role="speaker-cardin curind"
+                  lastName="speaker-cardnoi"
+                  firstName="speaker-cardservicii "
+                  imageSrc="speaker-card/rm-300h.webp"
+                  rootClassName="speaker-cardroot-class-name19"
                 ></SpeakerCard>
                 <SpeakerCard
-                  role="in curind ..."
-                  lastName="noi"
-                  firstName="servicii"
-                  image_src="/rm-300h.webp"
-                  rootClassName="speaker-card-root-class-name20"
+                  role="speaker-cardin curind ..."
+                  lastName="speaker-cardnoi"
+                  firstName="speaker-cardservicii"
+                  imageSrc="speaker-card/rm-300h.webp"
+                  rootClassName="speaker-cardroot-class-name20"
                 ></SpeakerCard>
               </div>
             </div>
           </div>
           <div className="alimentarea-publica-numbers-banner section-container">
-            <div className="alimentarea-publica-container2 max-content-container">
-              <div className="alimentarea-publica-heading-container">
-                <span className="alimentarea-publica-text21">
+            <div className="alimentarea-publica-container3 max-content-container">
+              <div className="alimentarea-publica-heading-container1">
+                <span className="alimentarea-publica-text31">
                   Personalul intreprinderii reprezinta o echipa profesionista,
                   cu experienta vasta in domeniu.
                   <span
@@ -224,7 +224,7 @@ const AlimentareaPublica = (props) => {
                     }}
                   />
                 </span>
-                <h1 className="alimentarea-publica-text22 Heading2">
+                <h1 className="alimentarea-publica-text32 Heading2">
                   <span>
                     {' '}
                     servicii la preturi accesibile
@@ -241,27 +241,27 @@ const AlimentareaPublica = (props) => {
                 <NumbersCard
                   text="ani"
                   number="12"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="evenimente"
                   number="64"
-                  image_src="/interface%20calendar%20favorite-200h.png"
+                  imageSrc="/interface%20calendar%20favorite-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="companii"
                   number="234"
-                  image_src="/shopping%20bag%20suit%20case-200h.png"
+                  imageSrc="/shopping%20bag%20suit%20case-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="orase"
                   number="14"
-                  image_src="/travel%20map%20location%20pin-200h.png"
+                  imageSrc="/travel%20map%20location%20pin-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="diagnosticari"
                   number="1,071"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
               </div>
             </div>
@@ -273,28 +273,28 @@ const AlimentareaPublica = (props) => {
               src="https://images.unsplash.com/photo-1618312980096-873bd19759a0?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fGF1dG8lMjByZXBhaXJ8ZW58MHx8fHwxNjUwMzA4OTI0&amp;ixlib=rb-1.2.1&amp;w=1500"
               className="alimentarea-publica-image"
             />
-            <div className="alimentarea-publica-content-container1 section-container">
-              <div className="alimentarea-publica-container3">
-                <span className="alimentarea-publica-text24">
+            <div className="alimentarea-publica-content-container2 section-container">
+              <div className="alimentarea-publica-container4">
+                <span className="alimentarea-publica-text34">
                   REPARAtIE AUTO
                 </span>
-                <span className="alimentarea-publica-text25">Calitativ</span>
-                <div className="alimentarea-publica-container4">
-                  <span className="alimentarea-publica-text26">
+                <span className="alimentarea-publica-text35">Calitativ</span>
+                <div className="alimentarea-publica-container5">
+                  <span className="alimentarea-publica-text36">
                     <span>motoare</span>
                   </span>
-                  <span className="alimentarea-publica-text28">
+                  <span className="alimentarea-publica-text38">
                     <span>caroserii</span>
                   </span>
-                  <span className="alimentarea-publica-text30">
+                  <span className="alimentarea-publica-text40">
                     <span>diagnosticare</span>
                   </span>
                 </div>
-                <div className="alimentarea-publica-container5">
-                  <span className="alimentarea-publica-text32">
+                <div className="alimentarea-publica-container6">
+                  <span className="alimentarea-publica-text42">
                     oferim servicii de reparație auto
                   </span>
-                  <span className="alimentarea-publica-text33">
+                  <span className="alimentarea-publica-text43">
                     <span>
                       {' '}
                       la toate tipurile de mașini, secția reparații este dotată
@@ -320,7 +320,7 @@ const AlimentareaPublica = (props) => {
                       />
                     </span>
                   </span>
-                  <div className="alimentarea-publica-btns-container1">
+                  <div className="alimentarea-publica-btns-container2">
                     <a
                       href="#contacts"
                       className="alimentarea-publica-register button-secondary button button-md"
@@ -341,28 +341,28 @@ const AlimentareaPublica = (props) => {
           <div className="alimentarea-publica-agenda section-container">
             <div
               id="contacts"
-              className="alimentarea-publica-max-width2 max-content-container"
+              className="alimentarea-publica-max-width3 max-content-container"
             >
-              <div className="alimentarea-publica-heading-container1">
+              <div className="alimentarea-publica-heading-container2">
                 <h1
                   id="contact"
-                  className="alimentarea-publica-text37 Heading2"
+                  className="alimentarea-publica-text47 Heading2"
                 >
                   <span>ADRESA NOASTRA</span>
                 </h1>
-                <span className="alimentarea-publica-text39">
+                <span className="alimentarea-publica-text49">
                   te asteptam sa testezi serviciile noastre
                 </span>
               </div>
             </div>
           </div>
           <div className="alimentarea-publica-workshops">
-            <div className="alimentarea-publica-content-container2">
-              <div className="alimentarea-publica-container6">
-                <h1 className="alimentarea-publica-text40 Heading2">
+            <div className="alimentarea-publica-content-container3">
+              <div className="alimentarea-publica-container7">
+                <h1 className="alimentarea-publica-text50 Heading2">
                   <span>contacte</span>
                   <br></br>
-                  <span className="alimentarea-publica-text43">
+                  <span className="alimentarea-publica-text53">
                     MD-2002
                     <span
                       dangerouslySetInnerHTML={{
@@ -379,21 +379,21 @@ const AlimentareaPublica = (props) => {
                   </span>
                   <span>MUN.CHIsINaU, STR.PaDURII 13</span>
                 </h1>
-                <span className="alimentarea-publica-text46">
+                <span className="alimentarea-publica-text56">
                   ----------------------------------------------
                 </span>
-                <span className="alimentarea-publica-text47">
+                <span className="alimentarea-publica-text57">
                   <span></span>
                   <br></br>
                   <span>MobILE:</span>
-                  <span className="alimentarea-publica-text50">
+                  <span className="alimentarea-publica-text60">
                     <span
                       dangerouslySetInnerHTML={{
                         __html: ' ',
                       }}
                     />
                   </span>
-                  <span className="alimentarea-publica-text51">
+                  <span className="alimentarea-publica-text61">
                     (+373)
                     <span
                       dangerouslySetInnerHTML={{
@@ -402,9 +402,9 @@ const AlimentareaPublica = (props) => {
                     />
                   </span>
                   <a href="tel:37369322886">
-                    <span className="alimentarea-publica-text52">69322886</span>
+                    <span className="alimentarea-publica-text62">69322886</span>
                   </a>
-                  <span className="alimentarea-publica-text53"></span>
+                  <span className="alimentarea-publica-text63"></span>
                   <br></br>
                   <span>
                     Tel/Fax: (+373)
@@ -415,20 +415,20 @@ const AlimentareaPublica = (props) => {
                     />
                   </span>
                   <a href="tel:37322521144">
-                    <span className="alimentarea-publica-text55">22521144</span>
+                    <span className="alimentarea-publica-text65">22521144</span>
                   </a>
                   <br></br>
                   <span></span>
                   <br></br>
                   <span></span>
                   <a href="mailto:COMBINATAUTO@GMAIL.COM?subject=email">
-                    <span className="alimentarea-publica-text59">
+                    <span className="alimentarea-publica-text69">
                       Combinatauto@gmail.com
                     </span>
                   </a>
-                  <span className="alimentarea-publica-text60"></span>
-                  <span className="alimentarea-publica-text61"></span>
-                  <span className="alimentarea-publica-text62"></span>
+                  <span className="alimentarea-publica-text70"></span>
+                  <span className="alimentarea-publica-text71"></span>
+                  <span className="alimentarea-publica-text72"></span>
                   <span>
                     <span
                       dangerouslySetInnerHTML={{
@@ -439,10 +439,10 @@ const AlimentareaPublica = (props) => {
                   <br></br>
                   <span></span>
                   <a href="mailto:DSACA4@MAIL.RU?subject=">
-                    <span className="alimentarea-publica-text65">
+                    <span className="alimentarea-publica-text75">
                       dsaca4@mail.ru
                     </span>
-                    <br className="alimentarea-publica-br5"></br>
+                    <br className="alimentarea-publica-br6"></br>
                   </a>
                 </span>
               </div>
@@ -454,12 +454,12 @@ const AlimentareaPublica = (props) => {
             ></iframe>
           </div>
           <div className="alimentarea-publica-previous-events section-container">
-            <div className="alimentarea-publica-max-width3 max-content-container">
-              <div className="alimentarea-publica-heading-container2">
-                <h1 className="alimentarea-publica-text66 Heading2">
+            <div className="alimentarea-publica-max-width4 max-content-container">
+              <div className="alimentarea-publica-heading-container3">
+                <h1 className="alimentarea-publica-text76 Heading2">
                   <span>PARTENERUL TAU DE INCREDERE</span>
                 </h1>
-                <span className="alimentarea-publica-text68">
+                <span className="alimentarea-publica-text78">
                   {' '}
                   garantam executarea rapida si calitativa a comenzilor
                   Dumneavoastra
@@ -468,11 +468,11 @@ const AlimentareaPublica = (props) => {
             </div>
           </div>
         </main>
-        <Footer rootClassName="footer-root-class-name11"></Footer>
+        <Footer rootClassName="footerroot-class-name11"></Footer>
       </div>
       <style jsx>
         {`
-          .alimentarea-publica-container {
+          .alimentarea-publica-container1 {
             width: 100%;
             display: flex;
             position: relative;
@@ -492,11 +492,11 @@ const AlimentareaPublica = (props) => {
             position: relative;
             padding-top: 128px;
           }
-          .alimentarea-publica-max-width {
+          .alimentarea-publica-max-width1 {
             z-index: 1;
             align-items: stretch;
           }
-          .alimentarea-publica-content-container {
+          .alimentarea-publica-content-container1 {
             flex: 1;
             display: flex;
             max-width: 45%;
@@ -504,7 +504,7 @@ const AlimentareaPublica = (props) => {
             flex-direction: column;
             justify-content: center;
           }
-          .alimentarea-publica-text {
+          .alimentarea-publica-text10 {
             font-size: 60px;
             font-style: normal;
             font-family: IBM Plex Sans Condensed;
@@ -514,43 +514,43 @@ const AlimentareaPublica = (props) => {
             text-transform: uppercase;
             text-decoration: none;
           }
-          .alimentarea-publica-text02 {
+          .alimentarea-publica-text12 {
             text-transform: lowercase;
           }
-          .alimentarea-publica-text04 {
+          .alimentarea-publica-text14 {
             color: var(--dl-color-scheme-pink);
           }
-          .alimentarea-publica-text05 {
-            color: var(--dl-color-scheme-pink);
-            text-transform: lowercase;
-          }
-          .alimentarea-publica-text07 {
+          .alimentarea-publica-text15 {
             color: var(--dl-color-scheme-pink);
             text-transform: lowercase;
           }
-          .alimentarea-publica-text08 {
+          .alimentarea-publica-text17 {
+            color: var(--dl-color-scheme-pink);
+            text-transform: lowercase;
+          }
+          .alimentarea-publica-text18 {
             font-weight: 500;
             text-transform: lowercase;
           }
-          .alimentarea-publica-text09 {
+          .alimentarea-publica-text19 {
             font-weight: 500;
           }
-          .alimentarea-publica-text10 {
+          .alimentarea-publica-text20 {
             font-weight: 500;
             text-transform: capitalize;
           }
-          .alimentarea-publica-text12 {
+          .alimentarea-publica-text22 {
             font-style: normal;
             font-weight: 500;
             margin-bottom: 42px;
           }
-          .alimentarea-publica-text14 {
+          .alimentarea-publica-text24 {
             text-transform: lowercase;
           }
-          .alimentarea-publica-text16 {
+          .alimentarea-publica-text26 {
             text-transform: lowercase;
           }
-          .alimentarea-publica-btns-container {
+          .alimentarea-publica-btns-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: flex-start;
@@ -570,7 +570,7 @@ const AlimentareaPublica = (props) => {
             flex-direction: column;
             justify-content: flex-start;
           }
-          .alimentarea-publica-container1 {
+          .alimentarea-publica-container2 {
             width: 100%;
             height: 511px;
             display: flex;
@@ -600,18 +600,18 @@ const AlimentareaPublica = (props) => {
             padding-bottom: var(--dl-space-space-oneandhalfunits);
             justify-content: space-between;
           }
-          .alimentarea-publica-text17 {
+          .alimentarea-publica-text27 {
             font-size: 3rem;
             text-align: center;
           }
-          .alimentarea-publica-text18 {
+          .alimentarea-publica-text28 {
             max-width: var(--dl-size-size-maxwidth);
             margin-top: var(--dl-space-space-twounits);
             text-align: center;
             margin-bottom: var(--dl-space-space-twounits);
             text-transform: lowercase;
           }
-          .alimentarea-publica-text19 {
+          .alimentarea-publica-text29 {
             text-transform: capitalize;
           }
           .alimentarea-publica-speakers {
@@ -619,7 +619,7 @@ const AlimentareaPublica = (props) => {
             padding-top: var(--dl-space-space-threeunits);
             flex-direction: column;
           }
-          .alimentarea-publica-max-width1 {
+          .alimentarea-publica-max-width2 {
             flex-direction: column;
           }
           .alimentarea-publica-speakers-container {
@@ -629,16 +629,16 @@ const AlimentareaPublica = (props) => {
             grid-column-gap: 30px;
             grid-template-columns: 1fr 1fr 1fr 1fr;
           }
-          .alimentarea-publica-component01 {
+          .alimentarea-publica-component11 {
             text-decoration: none;
           }
-          .alimentarea-publica-component02 {
+          .alimentarea-publica-component12 {
             text-decoration: none;
           }
-          .alimentarea-publica-component04 {
+          .alimentarea-publica-component14 {
             text-decoration: none;
           }
-          .alimentarea-publica-component05 {
+          .alimentarea-publica-component15 {
             text-decoration: none;
           }
           .alimentarea-publica-numbers-banner {
@@ -648,23 +648,23 @@ const AlimentareaPublica = (props) => {
             background-size: cover;
             background-image: url('/29bg-1500w.webp');
           }
-          .alimentarea-publica-container2 {
+          .alimentarea-publica-container3 {
             flex-direction: column;
           }
-          .alimentarea-publica-heading-container {
+          .alimentarea-publica-heading-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .alimentarea-publica-text21 {
+          .alimentarea-publica-text31 {
             color: var(--dl-color-scheme-white);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
-          .alimentarea-publica-text22 {
+          .alimentarea-publica-text32 {
             color: var(--dl-color-scheme-white);
             text-align: center;
           }
@@ -686,7 +686,7 @@ const AlimentareaPublica = (props) => {
             max-height: 950px;
             object-fit: cover;
           }
-          .alimentarea-publica-content-container1 {
+          .alimentarea-publica-content-container2 {
             flex: 1;
             display: flex;
             align-items: stretch;
@@ -695,14 +695,14 @@ const AlimentareaPublica = (props) => {
             flex-direction: row;
             background-color: var(--dl-color-scheme-black);
           }
-          .alimentarea-publica-container3 {
+          .alimentarea-publica-container4 {
             flex: 0 0 auto;
             width: 100%;
             display: flex;
             align-items: flex-start;
             flex-direction: column;
           }
-          .alimentarea-publica-text24 {
+          .alimentarea-publica-text34 {
             color: var(--dl-color-scheme-white);
             font-size: 56px;
             font-style: normal;
@@ -716,20 +716,20 @@ const AlimentareaPublica = (props) => {
             padding-bottom: 6px;
             background-color: var(--dl-color-scheme-lightblue);
           }
-          .alimentarea-publica-text25 {
+          .alimentarea-publica-text35 {
             color: var(--dl-color-scheme-white);
             font-size: 56px;
             font-style: normal;
             font-weight: 300;
             line-height: 1.1;
           }
-          .alimentarea-publica-container4 {
+          .alimentarea-publica-container5 {
             display: flex;
             align-items: flex-end;
             margin-bottom: var(--dl-space-space-twounits);
             flex-direction: column;
           }
-          .alimentarea-publica-text26 {
+          .alimentarea-publica-text36 {
             color: var(--dl-color-scheme-pink);
             font-size: 56px;
             font-style: normal;
@@ -737,7 +737,7 @@ const AlimentareaPublica = (props) => {
             line-height: 1.1;
             margin-left: var(--dl-space-space-fiveunits);
           }
-          .alimentarea-publica-text28 {
+          .alimentarea-publica-text38 {
             color: var(--dl-color-scheme-pink);
             font-size: 56px;
             font-style: normal;
@@ -745,7 +745,7 @@ const AlimentareaPublica = (props) => {
             line-height: 1.1;
             margin-left: -36px;
           }
-          .alimentarea-publica-text30 {
+          .alimentarea-publica-text40 {
             color: var(--dl-color-scheme-pink);
             font-size: 56px;
             font-style: normal;
@@ -753,7 +753,7 @@ const AlimentareaPublica = (props) => {
             line-height: 1.1;
             margin-left: var(--dl-space-space-fiveunits);
           }
-          .alimentarea-publica-container5 {
+          .alimentarea-publica-container6 {
             flex: 1;
             width: 100%;
             display: flex;
@@ -762,20 +762,20 @@ const AlimentareaPublica = (props) => {
             margin-left: 124px;
             flex-direction: column;
           }
-          .alimentarea-publica-text32 {
+          .alimentarea-publica-text42 {
             color: var(--dl-color-scheme-white);
             font-size: 18px;
             font-style: normal;
             font-weight: 600;
             margin-bottom: var(--dl-space-space-halfunit);
           }
-          .alimentarea-publica-text33 {
+          .alimentarea-publica-text43 {
             color: var(--dl-color-scheme-white);
             text-align: justify;
             margin-bottom: var(--dl-space-space-twounits);
             text-transform: none;
           }
-          .alimentarea-publica-btns-container1 {
+          .alimentarea-publica-btns-container2 {
             flex: 0 0 auto;
             display: flex;
             align-items: flex-start;
@@ -798,20 +798,20 @@ const AlimentareaPublica = (props) => {
             flex-direction: column;
             padding-bottom: 0px;
           }
-          .alimentarea-publica-max-width2 {
+          .alimentarea-publica-max-width3 {
             flex-direction: column;
           }
-          .alimentarea-publica-heading-container1 {
+          .alimentarea-publica-heading-container2 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .alimentarea-publica-text37 {
+          .alimentarea-publica-text47 {
             text-align: center;
           }
-          .alimentarea-publica-text39 {
+          .alimentarea-publica-text49 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
@@ -823,7 +823,7 @@ const AlimentareaPublica = (props) => {
             display: flex;
             flex-direction: row;
           }
-          .alimentarea-publica-content-container2 {
+          .alimentarea-publica-content-container3 {
             flex: 1;
             display: flex;
             align-items: flex-end;
@@ -831,7 +831,7 @@ const AlimentareaPublica = (props) => {
             justify-content: center;
             background-color: rgba(144, 149, 167, 0.08);
           }
-          .alimentarea-publica-container6 {
+          .alimentarea-publica-container7 {
             flex: 0 0 auto;
             display: flex;
             max-width: 366px;
@@ -839,19 +839,19 @@ const AlimentareaPublica = (props) => {
             margin-right: 107px;
             flex-direction: column;
           }
-          .alimentarea-publica-text40 {
+          .alimentarea-publica-text50 {
             margin-bottom: 42px;
           }
-          .alimentarea-publica-text43 {
+          .alimentarea-publica-text53 {
             color: var(--dl-color-scheme-pink);
           }
-          .alimentarea-publica-text46 {
+          .alimentarea-publica-text56 {
             font-size: 18px;
             font-style: normal;
             font-weight: 600;
             margin-bottom: var(--dl-space-space-halfunit);
           }
-          .alimentarea-publica-text47 {
+          .alimentarea-publica-text57 {
             font-size: 20px;
             font-style: normal;
             text-align: justify;
@@ -863,39 +863,39 @@ const AlimentareaPublica = (props) => {
             text-transform: uppercase;
             text-decoration: none;
           }
-          .alimentarea-publica-text50 {
-            font-weight: 700;
-          }
-          .alimentarea-publica-text51 {
-            font-weight: 700;
-          }
-          .alimentarea-publica-text52 {
-            font-weight: 700;
-            text-decoration: underline;
-          }
-          .alimentarea-publica-text53 {
-            font-weight: 700;
-            text-decoration: underline;
-          }
-          .alimentarea-publica-text55 {
-            text-decoration: underline;
-          }
-          .alimentarea-publica-text59 {
-            text-decoration: underline;
-          }
           .alimentarea-publica-text60 {
-            text-decoration: underline;
+            font-weight: 700;
           }
           .alimentarea-publica-text61 {
-            text-decoration: underline;
+            font-weight: 700;
           }
           .alimentarea-publica-text62 {
+            font-weight: 700;
+            text-decoration: underline;
+          }
+          .alimentarea-publica-text63 {
+            font-weight: 700;
             text-decoration: underline;
           }
           .alimentarea-publica-text65 {
             text-decoration: underline;
           }
-          .alimentarea-publica-br5 {
+          .alimentarea-publica-text69 {
+            text-decoration: underline;
+          }
+          .alimentarea-publica-text70 {
+            text-decoration: underline;
+          }
+          .alimentarea-publica-text71 {
+            text-decoration: underline;
+          }
+          .alimentarea-publica-text72 {
+            text-decoration: underline;
+          }
+          .alimentarea-publica-text75 {
+            text-decoration: underline;
+          }
+          .alimentarea-publica-br6 {
             text-decoration: underline;
           }
           .alimentarea-publica-iframe {
@@ -908,34 +908,34 @@ const AlimentareaPublica = (props) => {
             flex-direction: column;
             padding-bottom: 150px;
           }
-          .alimentarea-publica-max-width3 {
+          .alimentarea-publica-max-width4 {
             flex-direction: column;
           }
-          .alimentarea-publica-heading-container2 {
+          .alimentarea-publica-heading-container3 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .alimentarea-publica-text66 {
+          .alimentarea-publica-text76 {
             text-align: center;
           }
-          .alimentarea-publica-text68 {
+          .alimentarea-publica-text78 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
           @media (max-width: 991px) {
-            .alimentarea-publica-max-width {
+            .alimentarea-publica-max-width1 {
               flex-direction: column;
             }
-            .alimentarea-publica-content-container {
+            .alimentarea-publica-content-container1 {
               max-width: 100%;
               margin-bottom: 42px;
             }
-            .alimentarea-publica-container1 {
+            .alimentarea-publica-container2 {
               width: 583px;
             }
             .alimentarea-publica-blue-background {
@@ -944,7 +944,7 @@ const AlimentareaPublica = (props) => {
               bottom: 0px;
               min-height: 40%;
             }
-            .alimentarea-publica-text18 {
+            .alimentarea-publica-text28 {
               max-width: 100%;
             }
             .alimentarea-publica-speakers-container {
@@ -959,19 +959,19 @@ const AlimentareaPublica = (props) => {
             .alimentarea-publica-image {
               width: 100%;
             }
-            .alimentarea-publica-content-container1 {
+            .alimentarea-publica-content-container2 {
               padding-top: 0px;
               padding-left: var(--dl-space-space-threeunits);
             }
-            .alimentarea-publica-container3 {
+            .alimentarea-publica-container4 {
               margin-top: -100px;
               align-items: center;
             }
-            .alimentarea-publica-container5 {
+            .alimentarea-publica-container6 {
               max-width: 100%;
               margin-left: 0px;
             }
-            .alimentarea-publica-container6 {
+            .alimentarea-publica-container7 {
               margin-right: var(--dl-space-space-unit);
             }
             .alimentarea-publica-iframe {
@@ -980,14 +980,14 @@ const AlimentareaPublica = (props) => {
             }
           }
           @media (max-width: 767px) {
-            .alimentarea-publica-container1 {
+            .alimentarea-publica-container2 {
               width: 505px;
             }
             .alimentarea-publica-text-content {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
-            .alimentarea-publica-text18 {
+            .alimentarea-publica-text28 {
               padding-left: var(--dl-space-space-unit);
               padding-right: var(--dl-space-space-unit);
             }
@@ -1000,14 +1000,14 @@ const AlimentareaPublica = (props) => {
             .alimentarea-publica-image {
               max-height: 100%;
             }
-            .alimentarea-publica-content-container1 {
+            .alimentarea-publica-content-container2 {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
-            .alimentarea-publica-text24 {
+            .alimentarea-publica-text34 {
               margin-left: -24px;
             }
-            .alimentarea-publica-btns-container1 {
+            .alimentarea-publica-btns-container2 {
               width: 100%;
               align-items: stretch;
               flex-direction: column;
@@ -1016,7 +1016,7 @@ const AlimentareaPublica = (props) => {
               flex-direction: column-reverse;
               padding-bottom: var(--dl-space-space-twounits);
             }
-            .alimentarea-publica-container6 {
+            .alimentarea-publica-container7 {
               max-width: 100%;
               padding-top: var(--dl-space-space-twounits);
               margin-right: 0px;
@@ -1032,10 +1032,10 @@ const AlimentareaPublica = (props) => {
             }
           }
           @media (max-width: 479px) {
-            .alimentarea-publica-text {
+            .alimentarea-publica-text10 {
               font-size: 60px;
             }
-            .alimentarea-publica-container1 {
+            .alimentarea-publica-container2 {
               width: 424px;
             }
             .alimentarea-publica-text-content {
@@ -1047,20 +1047,20 @@ const AlimentareaPublica = (props) => {
             .alimentarea-publica-speakers-container {
               grid-template-columns: 1fr;
             }
-            .alimentarea-publica-text26 {
+            .alimentarea-publica-text36 {
               font-size: 50px;
               margin-right: var(--dl-space-space-oneandhalfunits);
             }
-            .alimentarea-publica-text28 {
+            .alimentarea-publica-text38 {
               font-size: 50px;
               margin-right: var(--dl-space-space-oneandhalfunits);
             }
-            .alimentarea-publica-text30 {
+            .alimentarea-publica-text40 {
               font-size: 50px;
               margin-left: var(--dl-space-space-oneandhalfunits);
               margin-right: var(--dl-space-space-oneandhalfunits);
             }
-            .alimentarea-publica-text33 {
+            .alimentarea-publica-text43 {
               text-align: justify;
             }
           }

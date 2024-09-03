@@ -7,8 +7,8 @@ const NumbersCard = (props) => {
     <>
       <div className="numbers-card-numbers-card">
         <img
-          alt={props.image_alt}
-          src={props.image_src}
+          alt={props.imageAlt}
+          src={props.imageSrc}
           className="numbers-card-image"
         />
         <span className="numbers-card-number">{props.number}</span>
@@ -46,16 +46,16 @@ const NumbersCard = (props) => {
 }
 
 NumbersCard.defaultProps = {
-  image_src: '/message-200h.png',
+  imageSrc: '/message-200h.png',
   text: 'sessions',
-  image_alt: 'image',
+  imageAlt: 'image',
   number: '2,148',
 }
 
 NumbersCard.propTypes = {
-  image_src: PropTypes.string,
+  imageSrc: PropTypes.string,
   text: PropTypes.string,
-  image_alt: PropTypes.string,
+  imageAlt: PropTypes.string,
   number: PropTypes.string,
 }
 

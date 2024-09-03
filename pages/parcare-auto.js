@@ -8,7 +8,7 @@ import Footer from '../components/footer'
 const ParcareAuto = (props) => {
   return (
     <>
-      <div className="parcare-auto-container">
+      <div className="parcare-auto-container10">
         <Head>
           <title>Parcare-Auto - SA Combinatul Auto Nr.4 din Chișinău</title>
           <meta
@@ -25,18 +25,18 @@ const ParcareAuto = (props) => {
           />
           <meta
             property="og:image"
-            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80"
+            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80&amp;force_format=original"
           />
         </Head>
         <Navigation
-          image_src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
-          rootClassName="navigation-root-class-name9"
+          imageSrc="navigationhttps://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+          rootClassName="navigationroot-class-name9"
         ></Navigation>
         <main className="parcare-auto-main">
           <div id="transport" className="parcare-auto-hero section-container">
-            <div className="parcare-auto-max-width max-content-container">
+            <div className="parcare-auto-max-width1 max-content-container">
               <div className="parcare-auto-content-container">
-                <h1 className="parcare-auto-text">
+                <h1 className="parcare-auto-text10">
                   <span>
                     COMBINATUL AUTO
                     <span
@@ -45,14 +45,14 @@ const ParcareAuto = (props) => {
                       }}
                     />
                   </span>
-                  <span className="parcare-auto-text02">nr.4</span>
+                  <span className="parcare-auto-text12">nr.4</span>
                   <br></br>
-                  <span className="parcare-auto-text04">s</span>
-                  <span className="parcare-auto-text05">ervicii de</span>
+                  <span className="parcare-auto-text14">s</span>
+                  <span className="parcare-auto-text15">ervicii de</span>
                   <br></br>
-                  <span className="parcare-auto-text07">calitate</span>
+                  <span className="parcare-auto-text17">calitate</span>
                   <br></br>
-                  <span className="parcare-auto-text08">
+                  <span className="parcare-auto-text18">
                     IN
                     <span
                       dangerouslySetInnerHTML={{
@@ -60,15 +60,15 @@ const ParcareAuto = (props) => {
                       }}
                     />
                   </span>
-                  <span className="parcare-auto-text09">Moldova</span>
+                  <span className="parcare-auto-text19">Moldova</span>
                 </h1>
-                <span className="parcare-auto-text10">
+                <span className="parcare-auto-text20">
                   <span>N</span>
-                  <span className="parcare-auto-text12">
+                  <span className="parcare-auto-text22">
                     oi garantam executarea rapida si la un nivel
                   </span>
                   <br></br>
-                  <span className="parcare-auto-text14">
+                  <span className="parcare-auto-text24">
                     inalt a comenzilor Dvs.
                     <span
                       dangerouslySetInnerHTML={{
@@ -97,17 +97,17 @@ const ParcareAuto = (props) => {
                 </div>
               </div>
               <div className="parcare-auto-video-container">
-                <div className="parcare-auto-container01"></div>
+                <div className="parcare-auto-container11"></div>
               </div>
             </div>
             <div className="parcare-auto-blue-background"></div>
           </div>
           <div className="parcare-auto-text-content">
-            <h1 className="parcare-auto-text15">parcare auto</h1>
-            <span className="parcare-auto-text16">
+            <h1 className="parcare-auto-text25">parcare auto</h1>
+            <span className="parcare-auto-text26">
               livrare in toata republica moldova
             </span>
-            <span className="parcare-auto-text17">
+            <span className="parcare-auto-text27">
               <span>
                 SA „Combinatul Auto Nr.4 din Chișinău”
                 <span
@@ -116,7 +116,7 @@ const ParcareAuto = (props) => {
                   }}
                 />
               </span>
-              <span className="parcare-auto-text19">
+              <span className="parcare-auto-text29">
                 dispune de mai multe camioane pentru transportarea marfurilor
                 atit pe teritoriul Mun.
                 <span
@@ -125,8 +125,8 @@ const ParcareAuto = (props) => {
                   }}
                 />
               </span>
-              <span className="parcare-auto-text20">Chisinau</span>
-              <span className="parcare-auto-text21">
+              <span className="parcare-auto-text30">Chisinau</span>
+              <span className="parcare-auto-text31">
                 {' '}
                 cat si prin
                 <span
@@ -135,11 +135,11 @@ const ParcareAuto = (props) => {
                   }}
                 />
               </span>
-              <span className="parcare-auto-text22">republica</span>
-              <span className="parcare-auto-text23">.</span>
+              <span className="parcare-auto-text32">republica</span>
+              <span className="parcare-auto-text33">.</span>
               <br></br>
               <span></span>
-              <span className="parcare-auto-text26">
+              <span className="parcare-auto-text36">
                 Pe
                 <span
                   dangerouslySetInnerHTML={{
@@ -147,7 +147,7 @@ const ParcareAuto = (props) => {
                   }}
                 />
               </span>
-              <span className="parcare-auto-text27">
+              <span className="parcare-auto-text37">
                 teritoriul Combinatului Auto Nr. 4
                 <span
                   dangerouslySetInnerHTML={{
@@ -155,7 +155,7 @@ const ParcareAuto = (props) => {
                   }}
                 />
               </span>
-              <span className="parcare-auto-text28">
+              <span className="parcare-auto-text38">
                 Chisinau
                 <span
                   dangerouslySetInnerHTML={{
@@ -163,11 +163,11 @@ const ParcareAuto = (props) => {
                   }}
                 />
               </span>
-              <span className="parcare-auto-text29">
+              <span className="parcare-auto-text39">
                 sunt mai multe zone de parcare care pot fi inchiriate.
               </span>
               <br></br>
-              <span className="parcare-auto-text30">
+              <span className="parcare-auto-text40">
                 Intrarea
                 <span
                   dangerouslySetInnerHTML={{
@@ -175,12 +175,12 @@ const ParcareAuto = (props) => {
                   }}
                 />
               </span>
-              <span className="parcare-auto-text31">
+              <span className="parcare-auto-text41">
                 pe teritoriul intreprinderii este verificata de paznic 24/24.
               </span>
               <br></br>
-              <span className="parcare-auto-text32">Teritoriul</span>
-              <span className="parcare-auto-text33">
+              <span className="parcare-auto-text42">Teritoriul</span>
+              <span className="parcare-auto-text43">
                 {' '}
                 intreprinderii este monitorizat de camere de monitorizare video.
               </span>
@@ -190,29 +190,29 @@ const ParcareAuto = (props) => {
             </span>
           </div>
           <div className="parcare-auto-gallery">
-            <div className="parcare-auto-container02">
-              <div className="parcare-auto-container03"></div>
-            </div>
-            <div className="parcare-auto-container04">
-              <div className="parcare-auto-container05"></div>
-            </div>
-            <div className="parcare-auto-container06">
-              <div className="parcare-auto-container07"></div>
-            </div>
-            <div className="parcare-auto-container08">
-              <div className="parcare-auto-container09"></div>
-            </div>
-            <div className="parcare-auto-container10">
-              <div className="parcare-auto-container11"></div>
-            </div>
             <div className="parcare-auto-container12">
               <div className="parcare-auto-container13"></div>
             </div>
+            <div className="parcare-auto-container14">
+              <div className="parcare-auto-container15"></div>
+            </div>
+            <div className="parcare-auto-container16">
+              <div className="parcare-auto-container17"></div>
+            </div>
+            <div className="parcare-auto-container18">
+              <div className="parcare-auto-container19"></div>
+            </div>
+            <div className="parcare-auto-container20">
+              <div className="parcare-auto-container21"></div>
+            </div>
+            <div className="parcare-auto-container22">
+              <div className="parcare-auto-container23"></div>
+            </div>
           </div>
           <div className="parcare-auto-numbers-banner section-container">
-            <div className="parcare-auto-container14 max-content-container">
-              <div className="parcare-auto-heading-container">
-                <span className="parcare-auto-text36">
+            <div className="parcare-auto-container24 max-content-container">
+              <div className="parcare-auto-heading-container1">
+                <span className="parcare-auto-text46">
                   Personalul intreprinderii reprezinta o echipa profesionista,
                   cu experienta vasta in domeniu.
                   <span
@@ -221,7 +221,7 @@ const ParcareAuto = (props) => {
                     }}
                   />
                 </span>
-                <h1 className="parcare-auto-text37 Heading2">
+                <h1 className="parcare-auto-text47 Heading2">
                   <span>
                     {' '}
                     servicii la preturi accesibile
@@ -238,38 +238,38 @@ const ParcareAuto = (props) => {
                 <NumbersCard
                   text="ani"
                   number="12"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="evenimente"
                   number="64"
-                  image_src="/interface%20calendar%20favorite-200h.png"
+                  imageSrc="/interface%20calendar%20favorite-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="companii"
                   number="234"
-                  image_src="/shopping%20bag%20suit%20case-200h.png"
+                  imageSrc="/shopping%20bag%20suit%20case-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="orase"
                   number="14"
-                  image_src="/travel%20map%20location%20pin-200h.png"
+                  imageSrc="/travel%20map%20location%20pin-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="diagnosticari"
                   number="1,071"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
               </div>
             </div>
           </div>
           <div className="parcare-auto-previous-events section-container">
-            <div className="parcare-auto-max-width1 max-content-container">
-              <div className="parcare-auto-heading-container1">
-                <h1 className="parcare-auto-text39 Heading2">
+            <div className="parcare-auto-max-width2 max-content-container">
+              <div className="parcare-auto-heading-container2">
+                <h1 className="parcare-auto-text49 Heading2">
                   <span>PARTENERUL TAU DE INCREDERE</span>
                 </h1>
-                <span className="parcare-auto-text41">
+                <span className="parcare-auto-text51">
                   {' '}
                   garantam executarea rapida si calitativa a comenzilor
                   Dumneavoastra
@@ -278,11 +278,11 @@ const ParcareAuto = (props) => {
             </div>
           </div>
         </main>
-        <Footer rootClassName="footer-root-class-name9"></Footer>
+        <Footer rootClassName="footerroot-class-name9"></Footer>
       </div>
       <style jsx>
         {`
-          .parcare-auto-container {
+          .parcare-auto-container10 {
             width: 100%;
             display: flex;
             position: relative;
@@ -302,7 +302,7 @@ const ParcareAuto = (props) => {
             position: relative;
             padding-top: 128px;
           }
-          .parcare-auto-max-width {
+          .parcare-auto-max-width1 {
             z-index: 1;
             align-items: stretch;
           }
@@ -314,7 +314,7 @@ const ParcareAuto = (props) => {
             flex-direction: column;
             justify-content: center;
           }
-          .parcare-auto-text {
+          .parcare-auto-text10 {
             font-size: 60px;
             font-style: normal;
             font-family: IBM Plex Sans Condensed;
@@ -324,39 +324,39 @@ const ParcareAuto = (props) => {
             text-transform: uppercase;
             text-decoration: none;
           }
-          .parcare-auto-text02 {
-            text-transform: lowercase;
-          }
-          .parcare-auto-text04 {
-            color: var(--dl-color-scheme-pink);
-          }
-          .parcare-auto-text05 {
-            color: var(--dl-color-scheme-pink);
-            text-transform: lowercase;
-          }
-          .parcare-auto-text07 {
-            color: var(--dl-color-scheme-pink);
-            text-transform: lowercase;
-          }
-          .parcare-auto-text08 {
-            font-style: normal;
-            font-weight: 600;
-            text-transform: lowercase;
-          }
-          .parcare-auto-text09 {
-            font-style: normal;
-            font-weight: 600;
-            text-transform: capitalize;
-          }
-          .parcare-auto-text10 {
-            font-style: normal;
-            font-weight: 500;
-            margin-bottom: 42px;
-          }
           .parcare-auto-text12 {
             text-transform: lowercase;
           }
           .parcare-auto-text14 {
+            color: var(--dl-color-scheme-pink);
+          }
+          .parcare-auto-text15 {
+            color: var(--dl-color-scheme-pink);
+            text-transform: lowercase;
+          }
+          .parcare-auto-text17 {
+            color: var(--dl-color-scheme-pink);
+            text-transform: lowercase;
+          }
+          .parcare-auto-text18 {
+            font-style: normal;
+            font-weight: 600;
+            text-transform: lowercase;
+          }
+          .parcare-auto-text19 {
+            font-style: normal;
+            font-weight: 600;
+            text-transform: capitalize;
+          }
+          .parcare-auto-text20 {
+            font-style: normal;
+            font-weight: 500;
+            margin-bottom: 42px;
+          }
+          .parcare-auto-text22 {
+            text-transform: lowercase;
+          }
+          .parcare-auto-text24 {
             text-transform: lowercase;
           }
           .parcare-auto-btns-container {
@@ -379,7 +379,7 @@ const ParcareAuto = (props) => {
             flex-direction: column;
             justify-content: flex-start;
           }
-          .parcare-auto-container01 {
+          .parcare-auto-container11 {
             width: 100%;
             height: 511px;
             display: flex;
@@ -388,7 +388,7 @@ const ParcareAuto = (props) => {
             background-image: url('/home-600h.webp');
             background-position: center;
           }
-          .parcare-auto-container01:hover {
+          .parcare-auto-container11:hover {
             transform: scale(1.02);
             box-shadow: 5px 5px 10px 0px rgba(111, 102, 102, 0.31);
           }
@@ -414,46 +414,22 @@ const ParcareAuto = (props) => {
             padding-bottom: var(--dl-space-space-oneandhalfunits);
             justify-content: space-between;
           }
-          .parcare-auto-text15 {
+          .parcare-auto-text25 {
             font-size: 3rem;
             text-align: center;
           }
-          .parcare-auto-text16 {
+          .parcare-auto-text26 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
-          .parcare-auto-text17 {
+          .parcare-auto-text27 {
             max-width: var(--dl-size-size-maxwidth);
             margin-top: var(--dl-space-space-twounits);
             text-align: center;
             margin-bottom: var(--dl-space-space-twounits);
             text-transform: uppercase;
-          }
-          .parcare-auto-text19 {
-            text-transform: lowercase;
-          }
-          .parcare-auto-text20 {
-            text-transform: capitalize;
-          }
-          .parcare-auto-text21 {
-            text-transform: lowercase;
-          }
-          .parcare-auto-text22 {
-            text-transform: capitalize;
-          }
-          .parcare-auto-text23 {
-            text-transform: lowercase;
-          }
-          .parcare-auto-text26 {
-            text-transform: capitalize;
-          }
-          .parcare-auto-text27 {
-            text-transform: lowercase;
-          }
-          .parcare-auto-text28 {
-            text-transform: capitalize;
           }
           .parcare-auto-text29 {
             text-transform: lowercase;
@@ -468,6 +444,30 @@ const ParcareAuto = (props) => {
             text-transform: capitalize;
           }
           .parcare-auto-text33 {
+            text-transform: lowercase;
+          }
+          .parcare-auto-text36 {
+            text-transform: capitalize;
+          }
+          .parcare-auto-text37 {
+            text-transform: lowercase;
+          }
+          .parcare-auto-text38 {
+            text-transform: capitalize;
+          }
+          .parcare-auto-text39 {
+            text-transform: lowercase;
+          }
+          .parcare-auto-text40 {
+            text-transform: capitalize;
+          }
+          .parcare-auto-text41 {
+            text-transform: lowercase;
+          }
+          .parcare-auto-text42 {
+            text-transform: capitalize;
+          }
+          .parcare-auto-text43 {
             text-transform: lowercase;
           }
           .parcare-auto-gallery {
@@ -486,7 +486,7 @@ const ParcareAuto = (props) => {
             grid-template-areas: 'a b b' 'a b b' 'a c d' 'a c d' 'e e d' 'e e f' 'e e f';
             grid-template-columns: 1fr 1fr 1fr;
           }
-          .parcare-auto-container02 {
+          .parcare-auto-container12 {
             flex: 0 0 auto;
             width: 100%;
             height: 100%;
@@ -497,10 +497,10 @@ const ParcareAuto = (props) => {
             align-items: flex-start;
             flex-direction: column;
           }
-          .parcare-auto-container02:hover {
+          .parcare-auto-container12:hover {
             transform: scale(0.98);
           }
-          .parcare-auto-container03 {
+          .parcare-auto-container13 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -511,7 +511,7 @@ const ParcareAuto = (props) => {
             background-image: url('/13-1200h.webp');
             background-position: left;
           }
-          .parcare-auto-container04 {
+          .parcare-auto-container14 {
             flex: 0 0 auto;
             width: 100%;
             height: 100%;
@@ -524,10 +524,10 @@ const ParcareAuto = (props) => {
             background-image: url('/22-1200h.webp');
             background-position: center;
           }
-          .parcare-auto-container04:hover {
+          .parcare-auto-container14:hover {
             transform: scale(0.98);
           }
-          .parcare-auto-container05 {
+          .parcare-auto-container15 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -535,7 +535,7 @@ const ParcareAuto = (props) => {
             align-items: flex-start;
             flex-direction: column;
           }
-          .parcare-auto-container06 {
+          .parcare-auto-container16 {
             flex: 0 0 auto;
             width: 100%;
             height: 100%;
@@ -548,10 +548,10 @@ const ParcareAuto = (props) => {
             background-image: url('/15-1200h.webp');
             background-position: left;
           }
-          .parcare-auto-container06:hover {
+          .parcare-auto-container16:hover {
             transform: scale(0.98);
           }
-          .parcare-auto-container07 {
+          .parcare-auto-container17 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -559,7 +559,7 @@ const ParcareAuto = (props) => {
             align-items: flex-start;
             flex-direction: column;
           }
-          .parcare-auto-container08 {
+          .parcare-auto-container18 {
             flex: 0 0 auto;
             width: 100%;
             height: 100%;
@@ -573,10 +573,10 @@ const ParcareAuto = (props) => {
             background-repeat: no-repeat;
             background-position: left;
           }
-          .parcare-auto-container08:hover {
+          .parcare-auto-container18:hover {
             transform: scale(0.98);
           }
-          .parcare-auto-container09 {
+          .parcare-auto-container19 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -584,7 +584,7 @@ const ParcareAuto = (props) => {
             align-items: flex-start;
             flex-direction: column;
           }
-          .parcare-auto-container10 {
+          .parcare-auto-container20 {
             flex: 0 0 auto;
             width: 100%;
             height: 100%;
@@ -597,10 +597,10 @@ const ParcareAuto = (props) => {
             background-image: url('/20-1200h.webp');
             background-position: center;
           }
-          .parcare-auto-container10:hover {
+          .parcare-auto-container20:hover {
             transform: scale(0.98);
           }
-          .parcare-auto-container11 {
+          .parcare-auto-container21 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -608,7 +608,7 @@ const ParcareAuto = (props) => {
             align-items: flex-start;
             flex-direction: column;
           }
-          .parcare-auto-container12 {
+          .parcare-auto-container22 {
             flex: 0 0 auto;
             width: 100%;
             height: 100%;
@@ -621,12 +621,12 @@ const ParcareAuto = (props) => {
             background-image: url('/24-1200h.webp');
             background-position: center;
           }
-          .parcare-auto-container12:hover {
+          .parcare-auto-container22:hover {
             width: 100%;
             height: 100%;
             transform: scale(0.98);
           }
-          .parcare-auto-container13 {
+          .parcare-auto-container23 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -641,23 +641,23 @@ const ParcareAuto = (props) => {
             background-size: cover;
             background-image: url('/29bg-1500w.webp');
           }
-          .parcare-auto-container14 {
+          .parcare-auto-container24 {
             flex-direction: column;
           }
-          .parcare-auto-heading-container {
+          .parcare-auto-heading-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .parcare-auto-text36 {
+          .parcare-auto-text46 {
             color: var(--dl-color-scheme-white);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
-          .parcare-auto-text37 {
+          .parcare-auto-text47 {
             color: var(--dl-color-scheme-white);
             text-align: center;
           }
@@ -674,34 +674,34 @@ const ParcareAuto = (props) => {
             flex-direction: column;
             padding-bottom: 150px;
           }
-          .parcare-auto-max-width1 {
+          .parcare-auto-max-width2 {
             flex-direction: column;
           }
-          .parcare-auto-heading-container1 {
+          .parcare-auto-heading-container2 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .parcare-auto-text39 {
+          .parcare-auto-text49 {
             text-align: center;
           }
-          .parcare-auto-text41 {
+          .parcare-auto-text51 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
           @media (max-width: 991px) {
-            .parcare-auto-max-width {
+            .parcare-auto-max-width1 {
               flex-direction: column;
             }
             .parcare-auto-content-container {
               max-width: 100%;
               margin-bottom: 42px;
             }
-            .parcare-auto-container01 {
+            .parcare-auto-container11 {
               width: 583px;
             }
             .parcare-auto-blue-background {
@@ -710,7 +710,7 @@ const ParcareAuto = (props) => {
               bottom: 0px;
               min-height: 40%;
             }
-            .parcare-auto-text17 {
+            .parcare-auto-text27 {
               max-width: 100%;
             }
             .parcare-auto-gallery {
@@ -721,14 +721,14 @@ const ParcareAuto = (props) => {
             }
           }
           @media (max-width: 767px) {
-            .parcare-auto-container01 {
+            .parcare-auto-container11 {
               width: 505px;
             }
             .parcare-auto-text-content {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
-            .parcare-auto-text17 {
+            .parcare-auto-text27 {
               padding-left: var(--dl-space-space-unit);
               padding-right: var(--dl-space-space-unit);
             }
@@ -738,22 +738,22 @@ const ParcareAuto = (props) => {
               padding: var(--dl-space-space-twounits);
               flex-direction: column;
             }
-            .parcare-auto-container03 {
-              height: var(--dl-size-size-xxlarge);
-            }
-            .parcare-auto-container05 {
-              height: var(--dl-size-size-xxlarge);
-            }
-            .parcare-auto-container07 {
-              height: var(--dl-size-size-xxlarge);
-            }
-            .parcare-auto-container09 {
-              height: var(--dl-size-size-xxlarge);
-            }
-            .parcare-auto-container11 {
-              height: var(--dl-size-size-xxlarge);
-            }
             .parcare-auto-container13 {
+              height: var(--dl-size-size-xxlarge);
+            }
+            .parcare-auto-container15 {
+              height: var(--dl-size-size-xxlarge);
+            }
+            .parcare-auto-container17 {
+              height: var(--dl-size-size-xxlarge);
+            }
+            .parcare-auto-container19 {
+              height: var(--dl-size-size-xxlarge);
+            }
+            .parcare-auto-container21 {
+              height: var(--dl-size-size-xxlarge);
+            }
+            .parcare-auto-container23 {
               height: var(--dl-size-size-xxlarge);
             }
             .parcare-auto-numbers-container {
@@ -764,10 +764,10 @@ const ParcareAuto = (props) => {
             }
           }
           @media (max-width: 479px) {
-            .parcare-auto-text {
+            .parcare-auto-text10 {
               font-size: 60px;
             }
-            .parcare-auto-container01 {
+            .parcare-auto-container11 {
               width: 424px;
             }
             .parcare-auto-text-content {
@@ -780,23 +780,23 @@ const ParcareAuto = (props) => {
               width: 100%;
               padding: var(--dl-space-space-unit);
             }
-            .parcare-auto-container03 {
+            .parcare-auto-container13 {
               width: 100%;
               height: var(--dl-size-size-xxlarge);
             }
-            .parcare-auto-container05 {
+            .parcare-auto-container15 {
               height: var(--dl-size-size-xxlarge);
             }
-            .parcare-auto-container07 {
+            .parcare-auto-container17 {
               height: var(--dl-size-size-xxlarge);
             }
-            .parcare-auto-container09 {
+            .parcare-auto-container19 {
               height: var(--dl-size-size-xxlarge);
             }
-            .parcare-auto-container11 {
+            .parcare-auto-container21 {
               height: var(--dl-size-size-xxlarge);
             }
-            .parcare-auto-container13 {
+            .parcare-auto-container23 {
               height: var(--dl-size-size-xxlarge);
             }
           }

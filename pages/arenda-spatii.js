@@ -10,7 +10,7 @@ import Footer from '../components/footer'
 const ArendaSpatii = (props) => {
   return (
     <>
-      <div className="arenda-spatii-container">
+      <div className="arenda-spatii-container1">
         <Head>
           <title>Arenda-spatii - SA Combinatul Auto Nr.4 din Chișinău</title>
           <meta
@@ -27,18 +27,18 @@ const ArendaSpatii = (props) => {
           />
           <meta
             property="og:image"
-            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80"
+            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80&amp;force_format=original"
           />
         </Head>
         <Navigation
-          image_src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
-          rootClassName="navigation-root-class-name10"
+          imageSrc="navigationhttps://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+          rootClassName="navigationroot-class-name10"
         ></Navigation>
         <main className="arenda-spatii-main">
           <div className="arenda-spatii-hero section-container">
-            <div className="arenda-spatii-max-width max-content-container">
-              <div className="arenda-spatii-content-container">
-                <h1 className="arenda-spatii-text">
+            <div className="arenda-spatii-max-width1 max-content-container">
+              <div className="arenda-spatii-content-container1">
+                <h1 className="arenda-spatii-text10">
                   <span>
                     COMBINATUL AUTO
                     <span
@@ -47,10 +47,10 @@ const ArendaSpatii = (props) => {
                       }}
                     />
                   </span>
-                  <span className="arenda-spatii-text02">nr.4</span>
+                  <span className="arenda-spatii-text12">nr.4</span>
                   <br></br>
-                  <span className="arenda-spatii-text04">s</span>
-                  <span className="arenda-spatii-text05">
+                  <span className="arenda-spatii-text14">s</span>
+                  <span className="arenda-spatii-text15">
                     ervicii de
                     <span
                       dangerouslySetInnerHTML={{
@@ -59,22 +59,22 @@ const ArendaSpatii = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="arenda-spatii-text07">calitate</span>
+                  <span className="arenda-spatii-text17">calitate</span>
                   <br></br>
-                  <span className="arenda-spatii-text08">IN</span>
-                  <span className="arenda-spatii-text09">
+                  <span className="arenda-spatii-text18">IN</span>
+                  <span className="arenda-spatii-text19">
                     <span
                       dangerouslySetInnerHTML={{
                         __html: ' ',
                       }}
                     />
                   </span>
-                  <span className="arenda-spatii-text10">Moldova</span>
-                  <span className="arenda-spatii-text11"></span>
+                  <span className="arenda-spatii-text20">Moldova</span>
+                  <span className="arenda-spatii-text21"></span>
                 </h1>
-                <span className="arenda-spatii-text12">
+                <span className="arenda-spatii-text22">
                   <span>N</span>
-                  <span className="arenda-spatii-text14">
+                  <span className="arenda-spatii-text24">
                     oi garantam executarea rapida și la un nivel
                     <span
                       dangerouslySetInnerHTML={{
@@ -83,7 +83,7 @@ const ArendaSpatii = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="arenda-spatii-text16">
+                  <span className="arenda-spatii-text26">
                     inalt a comenzilor Dvs.
                     <span
                       dangerouslySetInnerHTML={{
@@ -92,7 +92,7 @@ const ArendaSpatii = (props) => {
                     />
                   </span>
                 </span>
-                <div className="arenda-spatii-btns-container">
+                <div className="arenda-spatii-btns-container1">
                   <a
                     href="#servicii"
                     className="arenda-spatii-primary button-primary button-lg button"
@@ -108,14 +108,14 @@ const ArendaSpatii = (props) => {
                 </div>
               </div>
               <div className="arenda-spatii-video-container">
-                <div className="arenda-spatii-container1"></div>
+                <div className="arenda-spatii-container2"></div>
               </div>
             </div>
             <div className="arenda-spatii-blue-background"></div>
           </div>
           <div className="arenda-spatii-text-content">
-            <h1 className="arenda-spatii-text17">Arenda Spatiilor</h1>
-            <span className="arenda-spatii-text18">
+            <h1 className="arenda-spatii-text27">Arenda Spatiilor</h1>
+            <span className="arenda-spatii-text28">
               <span>
                 Combinatul Auto Nr.4 din Chisinau
                 <span
@@ -126,7 +126,7 @@ const ArendaSpatii = (props) => {
               </span>
               <br></br>
               <span></span>
-              <span className="arenda-spatii-text22">
+              <span className="arenda-spatii-text32">
                 ofera in locatiune, la preturi avantajoase:
                 <span
                   dangerouslySetInnerHTML={{
@@ -135,19 +135,19 @@ const ArendaSpatii = (props) => {
                 />
               </span>
               <br></br>
-              <span className="arenda-spatii-text23">
+              <span className="arenda-spatii-text33">
                 -spatii pentru oficii
               </span>
               <br></br>
-              <span className="arenda-spatii-text24">
+              <span className="arenda-spatii-text34">
                 -spatii pentru depozit
               </span>
               <br></br>
-              <span className="arenda-spatii-text25">
+              <span className="arenda-spatii-text35">
                 -spatii pentru ateliere de service Auto
               </span>
               <br></br>
-              <span className="arenda-spatii-text26">
+              <span className="arenda-spatii-text36">
                 -spatii pentru parcari auto
               </span>
               <br></br>
@@ -157,18 +157,18 @@ const ArendaSpatii = (props) => {
           <div className="arenda-spatii-speakers section-container">
             <div
               id="servicii"
-              className="arenda-spatii-max-width1 max-content-container"
+              className="arenda-spatii-max-width2 max-content-container"
             >
               <div className="arenda-spatii-speakers-container">
                 <Link href="/transport">
                   <a>
                     <SpeakerCard
-                      role="livrare National"
-                      lastName="marfuri"
-                      firstName="Transport"
-                      image_src="/15-300h.webp"
-                      rootClassName="speaker-card-root-class-name15"
-                      className="arenda-spatii-component01"
+                      role="speaker-cardlivrare national"
+                      lastName="speaker-cardmarfuri"
+                      firstName="speaker-card-transport"
+                      imageSrc="speaker-card/15-300h.webp"
+                      rootClassName="speaker-cardroot-class-name15"
+                      className="arenda-spatii-component11"
                     ></SpeakerCard>
                   </a>
                 </Link>
@@ -178,8 +178,8 @@ const ArendaSpatii = (props) => {
                       role="servicii electrice si mecanice"
                       lastName="auto"
                       firstName="reparatii"
-                      image_src="/16-300h-300h.webp"
-                      className="arenda-spatii-component02"
+                      imageSrc="/16-300h-300h.webp"
+                      className="arenda-spatii-component12"
                     ></SpeakerCard>
                   </a>
                 </Link>
@@ -187,7 +187,7 @@ const ArendaSpatii = (props) => {
                   role="rapid si calitativ"
                   lastName="auto"
                   firstName="spalatorie"
-                  image_src="/14-300h.webp"
+                  imageSrc="/14-300h.webp"
                 ></SpeakerCard>
                 <Link href="/parcare-auto">
                   <a>
@@ -195,8 +195,8 @@ const ArendaSpatii = (props) => {
                       role="siguranta maxima"
                       lastName="auto"
                       firstName="parcare"
-                      image_src="/13-300h.webp"
-                      className="arenda-spatii-component04"
+                      imageSrc="/13-300h.webp"
+                      className="arenda-spatii-component14"
                     ></SpeakerCard>
                   </a>
                 </Link>
@@ -206,8 +206,8 @@ const ArendaSpatii = (props) => {
                       role="siguranta maxima"
                       lastName="spatiilor"
                       firstName="arenda"
-                      image_src="/12-300h.webp"
-                      className="arenda-spatii-component05"
+                      imageSrc="/12-300h.webp"
+                      className="arenda-spatii-component15"
                     ></SpeakerCard>
                   </a>
                 </Link>
@@ -217,32 +217,32 @@ const ArendaSpatii = (props) => {
                       role="servicii de alimentatie (cantina)"
                       lastName="publica"
                       firstName="alimentatie"
-                      image_src="/cantina-300w.webp"
-                      className="arenda-spatii-component06"
+                      imageSrc="/cantina-300w.webp"
+                      className="arenda-spatii-component16"
                     ></SpeakerCard>
                   </a>
                 </Link>
                 <SpeakerCard
-                  role="in curind"
-                  lastName="noi"
-                  firstName="servicii "
-                  image_src="https://images.unsplash.com/photo-1620673504048-d2899f20de1c?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDF8fG1vbGRvdmF8ZW58MHx8fHwxNjUwMzExNzE3&amp;ixlib=rb-1.2.1&amp;h=300"
-                  rootClassName="speaker-card-root-class-name16"
+                  role="speaker-cardin curind"
+                  lastName="speaker-cardnoi"
+                  firstName="speaker-cardservicii "
+                  imageSrc="speaker-cardhttps://images.unsplash.com/photo-1620673504048-d2899f20de1c?ixid=mnw5mt-my-m-xwwf-df8c2-vhcm-nof-df8f-g1vb-g-rvdm-f8zw58m-hx8f-hwx-nj-uw-mz-ex-nz-e3&amp;ixlib=rb-1.2.1&amp;h=300"
+                  rootClassName="speaker-cardroot-class-name16"
                 ></SpeakerCard>
                 <SpeakerCard
-                  role="in curind ..."
-                  lastName="noi"
-                  firstName="servicii"
-                  image_src="/rm-300h.webp"
-                  rootClassName="speaker-card-root-class-name17"
+                  role="speaker-cardin curind ..."
+                  lastName="speaker-cardnoi"
+                  firstName="speaker-cardservicii"
+                  imageSrc="speaker-card/rm-300h.webp"
+                  rootClassName="speaker-cardroot-class-name17"
                 ></SpeakerCard>
               </div>
             </div>
           </div>
           <div className="arenda-spatii-numbers-banner section-container">
-            <div className="arenda-spatii-container2 max-content-container">
-              <div className="arenda-spatii-heading-container">
-                <span className="arenda-spatii-text28">
+            <div className="arenda-spatii-container3 max-content-container">
+              <div className="arenda-spatii-heading-container1">
+                <span className="arenda-spatii-text38">
                   Personalul intreprinderii reprezinta o echipa profesionista,
                   cu experienta vasta in domeniu.
                   <span
@@ -251,7 +251,7 @@ const ArendaSpatii = (props) => {
                     }}
                   />
                 </span>
-                <h1 className="arenda-spatii-text29 Heading2">
+                <h1 className="arenda-spatii-text39 Heading2">
                   <span>
                     {' '}
                     servicii la preturi accesibile
@@ -268,27 +268,27 @@ const ArendaSpatii = (props) => {
                 <NumbersCard
                   text="ani"
                   number="12"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="evenimente"
                   number="64"
-                  image_src="/interface%20calendar%20favorite-200h.png"
+                  imageSrc="/interface%20calendar%20favorite-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="companii"
                   number="234"
-                  image_src="/shopping%20bag%20suit%20case-200h.png"
+                  imageSrc="/shopping%20bag%20suit%20case-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="orase"
                   number="14"
-                  image_src="/travel%20map%20location%20pin-200h.png"
+                  imageSrc="/travel%20map%20location%20pin-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="diagnosticari"
                   number="1,071"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
               </div>
             </div>
@@ -300,26 +300,26 @@ const ArendaSpatii = (props) => {
               src="https://images.unsplash.com/photo-1618312980096-873bd19759a0?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fGF1dG8lMjByZXBhaXJ8ZW58MHx8fHwxNjUwMzA4OTI0&amp;ixlib=rb-1.2.1&amp;w=1500"
               className="arenda-spatii-image"
             />
-            <div className="arenda-spatii-content-container1 section-container">
-              <div className="arenda-spatii-container3">
-                <span className="arenda-spatii-text31">REPARAtIE AUTO</span>
-                <span className="arenda-spatii-text32">Calitativ</span>
-                <div className="arenda-spatii-container4">
-                  <span className="arenda-spatii-text33">
+            <div className="arenda-spatii-content-container2 section-container">
+              <div className="arenda-spatii-container4">
+                <span className="arenda-spatii-text41">REPARAtIE AUTO</span>
+                <span className="arenda-spatii-text42">Calitativ</span>
+                <div className="arenda-spatii-container5">
+                  <span className="arenda-spatii-text43">
                     <span>motoare</span>
                   </span>
-                  <span className="arenda-spatii-text35">
+                  <span className="arenda-spatii-text45">
                     <span>caroserii</span>
                   </span>
-                  <span className="arenda-spatii-text37">
+                  <span className="arenda-spatii-text47">
                     <span>diagnosticare</span>
                   </span>
                 </div>
-                <div className="arenda-spatii-container5">
-                  <span className="arenda-spatii-text39">
+                <div className="arenda-spatii-container6">
+                  <span className="arenda-spatii-text49">
                     oferim servicii de reparație auto
                   </span>
-                  <span className="arenda-spatii-text40">
+                  <span className="arenda-spatii-text50">
                     <span>
                       {' '}
                       la toate tipurile de mașini, secția reparații este dotată
@@ -345,7 +345,7 @@ const ArendaSpatii = (props) => {
                       />
                     </span>
                   </span>
-                  <div className="arenda-spatii-btns-container1">
+                  <div className="arenda-spatii-btns-container2">
                     <a
                       href="#contacts"
                       className="arenda-spatii-register button-secondary button button-md"
@@ -366,25 +366,25 @@ const ArendaSpatii = (props) => {
           <div className="arenda-spatii-agenda section-container">
             <div
               id="contacts"
-              className="arenda-spatii-max-width2 max-content-container"
+              className="arenda-spatii-max-width3 max-content-container"
             >
-              <div className="arenda-spatii-heading-container1">
-                <h1 id="contact" className="arenda-spatii-text44 Heading2">
+              <div className="arenda-spatii-heading-container2">
+                <h1 id="contact" className="arenda-spatii-text54 Heading2">
                   <span>ADRESA NOASTRA</span>
                 </h1>
-                <span className="arenda-spatii-text46">
+                <span className="arenda-spatii-text56">
                   te asteptam sa testezi serviciile noastre
                 </span>
               </div>
             </div>
           </div>
           <div className="arenda-spatii-workshops">
-            <div className="arenda-spatii-content-container2">
-              <div className="arenda-spatii-container6">
-                <h1 className="arenda-spatii-text47 Heading2">
+            <div className="arenda-spatii-content-container3">
+              <div className="arenda-spatii-container7">
+                <h1 className="arenda-spatii-text57 Heading2">
                   <span>contacte</span>
                   <br></br>
-                  <span className="arenda-spatii-text50">
+                  <span className="arenda-spatii-text60">
                     MD-2002
                     <span
                       dangerouslySetInnerHTML={{
@@ -401,21 +401,21 @@ const ArendaSpatii = (props) => {
                   </span>
                   <span>MUN.CHIsINaU, STR.PaDURII 13</span>
                 </h1>
-                <span className="arenda-spatii-text53">
+                <span className="arenda-spatii-text63">
                   ----------------------------------------------
                 </span>
-                <span className="arenda-spatii-text54">
+                <span className="arenda-spatii-text64">
                   <span></span>
                   <br></br>
                   <span>MobILE:</span>
-                  <span className="arenda-spatii-text57">
+                  <span className="arenda-spatii-text67">
                     <span
                       dangerouslySetInnerHTML={{
                         __html: ' ',
                       }}
                     />
                   </span>
-                  <span className="arenda-spatii-text58">
+                  <span className="arenda-spatii-text68">
                     (+373)
                     <span
                       dangerouslySetInnerHTML={{
@@ -424,9 +424,9 @@ const ArendaSpatii = (props) => {
                     />
                   </span>
                   <a href="tel:37369322886">
-                    <span className="arenda-spatii-text59">69322886</span>
+                    <span className="arenda-spatii-text69">69322886</span>
                   </a>
-                  <span className="arenda-spatii-text60"></span>
+                  <span className="arenda-spatii-text70"></span>
                   <br></br>
                   <span>
                     Tel/Fax: (+373)
@@ -437,20 +437,20 @@ const ArendaSpatii = (props) => {
                     />
                   </span>
                   <a href="tel:37322521144">
-                    <span className="arenda-spatii-text62">22521144</span>
+                    <span className="arenda-spatii-text72">22521144</span>
                   </a>
                   <br></br>
                   <span></span>
                   <br></br>
                   <span></span>
                   <a href="mailto:COMBINATAUTO@GMAIL.COM?subject=email">
-                    <span className="arenda-spatii-text66">
+                    <span className="arenda-spatii-text76">
                       Combinatauto@gmail.com
                     </span>
                   </a>
-                  <span className="arenda-spatii-text67"></span>
-                  <span className="arenda-spatii-text68"></span>
-                  <span className="arenda-spatii-text69"></span>
+                  <span className="arenda-spatii-text77"></span>
+                  <span className="arenda-spatii-text78"></span>
+                  <span className="arenda-spatii-text79"></span>
                   <span>
                     <span
                       dangerouslySetInnerHTML={{
@@ -461,8 +461,8 @@ const ArendaSpatii = (props) => {
                   <br></br>
                   <span></span>
                   <a href="mailto:DSACA4@MAIL.RU?subject=">
-                    <span className="arenda-spatii-text72">dsaca4@mail.ru</span>
-                    <br className="arenda-spatii-br10"></br>
+                    <span className="arenda-spatii-text82">dsaca4@mail.ru</span>
+                    <br className="arenda-spatii-br20"></br>
                   </a>
                 </span>
               </div>
@@ -474,12 +474,12 @@ const ArendaSpatii = (props) => {
             ></iframe>
           </div>
           <div className="arenda-spatii-previous-events section-container">
-            <div className="arenda-spatii-max-width3 max-content-container">
-              <div className="arenda-spatii-heading-container2">
-                <h1 className="arenda-spatii-text73 Heading2">
+            <div className="arenda-spatii-max-width4 max-content-container">
+              <div className="arenda-spatii-heading-container3">
+                <h1 className="arenda-spatii-text83 Heading2">
                   <span>PARTENERUL TAU DE INCREDERE</span>
                 </h1>
-                <span className="arenda-spatii-text75">
+                <span className="arenda-spatii-text85">
                   {' '}
                   garantam executarea rapida si calitativa a comenzilor
                   Dumneavoastra
@@ -488,11 +488,11 @@ const ArendaSpatii = (props) => {
             </div>
           </div>
         </main>
-        <Footer rootClassName="footer-root-class-name10"></Footer>
+        <Footer rootClassName="footerroot-class-name10"></Footer>
       </div>
       <style jsx>
         {`
-          .arenda-spatii-container {
+          .arenda-spatii-container1 {
             width: 100%;
             display: flex;
             position: relative;
@@ -512,11 +512,11 @@ const ArendaSpatii = (props) => {
             position: relative;
             padding-top: 128px;
           }
-          .arenda-spatii-max-width {
+          .arenda-spatii-max-width1 {
             z-index: 1;
             align-items: stretch;
           }
-          .arenda-spatii-content-container {
+          .arenda-spatii-content-container1 {
             flex: 1;
             display: flex;
             max-width: 45%;
@@ -524,7 +524,7 @@ const ArendaSpatii = (props) => {
             flex-direction: column;
             justify-content: center;
           }
-          .arenda-spatii-text {
+          .arenda-spatii-text10 {
             font-size: 60px;
             font-style: normal;
             font-family: IBM Plex Sans Condensed;
@@ -534,50 +534,50 @@ const ArendaSpatii = (props) => {
             text-transform: uppercase;
             text-decoration: none;
           }
-          .arenda-spatii-text02 {
+          .arenda-spatii-text12 {
             text-transform: lowercase;
           }
-          .arenda-spatii-text04 {
+          .arenda-spatii-text14 {
             color: var(--dl-color-scheme-pink);
           }
-          .arenda-spatii-text05 {
-            color: var(--dl-color-scheme-pink);
-            text-transform: lowercase;
-          }
-          .arenda-spatii-text07 {
+          .arenda-spatii-text15 {
             color: var(--dl-color-scheme-pink);
             text-transform: lowercase;
           }
-          .arenda-spatii-text08 {
+          .arenda-spatii-text17 {
+            color: var(--dl-color-scheme-pink);
+            text-transform: lowercase;
+          }
+          .arenda-spatii-text18 {
             font-style: normal;
             font-weight: 600;
             text-transform: lowercase;
           }
-          .arenda-spatii-text09 {
+          .arenda-spatii-text19 {
             font-style: normal;
             font-weight: 600;
           }
-          .arenda-spatii-text10 {
+          .arenda-spatii-text20 {
             font-style: normal;
             font-weight: 600;
             text-transform: capitalize;
           }
-          .arenda-spatii-text11 {
+          .arenda-spatii-text21 {
             font-style: normal;
             font-weight: 600;
           }
-          .arenda-spatii-text12 {
+          .arenda-spatii-text22 {
             font-style: normal;
             font-weight: 500;
             margin-bottom: 42px;
           }
-          .arenda-spatii-text14 {
+          .arenda-spatii-text24 {
             text-transform: lowercase;
           }
-          .arenda-spatii-text16 {
+          .arenda-spatii-text26 {
             text-transform: lowercase;
           }
-          .arenda-spatii-btns-container {
+          .arenda-spatii-btns-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: flex-start;
@@ -597,7 +597,7 @@ const ArendaSpatii = (props) => {
             flex-direction: column;
             justify-content: flex-start;
           }
-          .arenda-spatii-container1 {
+          .arenda-spatii-container2 {
             width: 100%;
             height: 511px;
             display: flex;
@@ -606,7 +606,7 @@ const ArendaSpatii = (props) => {
             background-image: url('/home-600h.webp');
             background-position: center;
           }
-          .arenda-spatii-container1:hover {
+          .arenda-spatii-container2:hover {
             transform: scale(1.02);
             box-shadow: 5px 5px 10px 0px rgba(111, 102, 102, 0.31);
           }
@@ -632,29 +632,29 @@ const ArendaSpatii = (props) => {
             padding-bottom: var(--dl-space-space-oneandhalfunits);
             justify-content: space-between;
           }
-          .arenda-spatii-text17 {
+          .arenda-spatii-text27 {
             font-size: 3rem;
             text-align: center;
           }
-          .arenda-spatii-text18 {
+          .arenda-spatii-text28 {
             max-width: var(--dl-size-size-maxwidth);
             margin-top: var(--dl-space-space-twounits);
             text-align: center;
             margin-bottom: var(--dl-space-space-twounits);
           }
-          .arenda-spatii-text22 {
+          .arenda-spatii-text32 {
             text-transform: lowercase;
           }
-          .arenda-spatii-text23 {
+          .arenda-spatii-text33 {
             text-transform: lowercase;
           }
-          .arenda-spatii-text24 {
+          .arenda-spatii-text34 {
             text-transform: lowercase;
           }
-          .arenda-spatii-text25 {
+          .arenda-spatii-text35 {
             text-transform: lowercase;
           }
-          .arenda-spatii-text26 {
+          .arenda-spatii-text36 {
             text-transform: lowercase;
           }
           .arenda-spatii-speakers {
@@ -662,7 +662,7 @@ const ArendaSpatii = (props) => {
             padding-top: var(--dl-space-space-threeunits);
             flex-direction: column;
           }
-          .arenda-spatii-max-width1 {
+          .arenda-spatii-max-width2 {
             flex-direction: column;
           }
           .arenda-spatii-speakers-container {
@@ -672,19 +672,19 @@ const ArendaSpatii = (props) => {
             grid-column-gap: 30px;
             grid-template-columns: 1fr 1fr 1fr 1fr;
           }
-          .arenda-spatii-component01 {
+          .arenda-spatii-component11 {
             text-decoration: none;
           }
-          .arenda-spatii-component02 {
+          .arenda-spatii-component12 {
             text-decoration: none;
           }
-          .arenda-spatii-component04 {
+          .arenda-spatii-component14 {
             text-decoration: none;
           }
-          .arenda-spatii-component05 {
+          .arenda-spatii-component15 {
             text-decoration: none;
           }
-          .arenda-spatii-component06 {
+          .arenda-spatii-component16 {
             text-decoration: none;
           }
           .arenda-spatii-numbers-banner {
@@ -694,23 +694,23 @@ const ArendaSpatii = (props) => {
             background-size: cover;
             background-image: url('/29bg-1500w.webp');
           }
-          .arenda-spatii-container2 {
+          .arenda-spatii-container3 {
             flex-direction: column;
           }
-          .arenda-spatii-heading-container {
+          .arenda-spatii-heading-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .arenda-spatii-text28 {
+          .arenda-spatii-text38 {
             color: var(--dl-color-scheme-white);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
-          .arenda-spatii-text29 {
+          .arenda-spatii-text39 {
             color: var(--dl-color-scheme-white);
             text-align: center;
           }
@@ -732,7 +732,7 @@ const ArendaSpatii = (props) => {
             max-height: 950px;
             object-fit: cover;
           }
-          .arenda-spatii-content-container1 {
+          .arenda-spatii-content-container2 {
             flex: 1;
             display: flex;
             align-items: stretch;
@@ -741,14 +741,14 @@ const ArendaSpatii = (props) => {
             flex-direction: row;
             background-color: var(--dl-color-scheme-black);
           }
-          .arenda-spatii-container3 {
+          .arenda-spatii-container4 {
             flex: 0 0 auto;
             width: 100%;
             display: flex;
             align-items: flex-start;
             flex-direction: column;
           }
-          .arenda-spatii-text31 {
+          .arenda-spatii-text41 {
             color: var(--dl-color-scheme-white);
             font-size: 56px;
             font-style: normal;
@@ -762,20 +762,20 @@ const ArendaSpatii = (props) => {
             padding-bottom: 6px;
             background-color: var(--dl-color-scheme-lightblue);
           }
-          .arenda-spatii-text32 {
+          .arenda-spatii-text42 {
             color: var(--dl-color-scheme-white);
             font-size: 56px;
             font-style: normal;
             font-weight: 300;
             line-height: 1.1;
           }
-          .arenda-spatii-container4 {
+          .arenda-spatii-container5 {
             display: flex;
             align-items: flex-end;
             margin-bottom: var(--dl-space-space-twounits);
             flex-direction: column;
           }
-          .arenda-spatii-text33 {
+          .arenda-spatii-text43 {
             color: var(--dl-color-scheme-pink);
             font-size: 56px;
             font-style: normal;
@@ -783,7 +783,7 @@ const ArendaSpatii = (props) => {
             line-height: 1.1;
             margin-left: var(--dl-space-space-fiveunits);
           }
-          .arenda-spatii-text35 {
+          .arenda-spatii-text45 {
             color: var(--dl-color-scheme-pink);
             font-size: 56px;
             font-style: normal;
@@ -791,7 +791,7 @@ const ArendaSpatii = (props) => {
             line-height: 1.1;
             margin-left: -36px;
           }
-          .arenda-spatii-text37 {
+          .arenda-spatii-text47 {
             color: var(--dl-color-scheme-pink);
             font-size: 56px;
             font-style: normal;
@@ -799,7 +799,7 @@ const ArendaSpatii = (props) => {
             line-height: 1.1;
             margin-left: var(--dl-space-space-fiveunits);
           }
-          .arenda-spatii-container5 {
+          .arenda-spatii-container6 {
             flex: 1;
             width: 100%;
             display: flex;
@@ -808,20 +808,20 @@ const ArendaSpatii = (props) => {
             margin-left: 124px;
             flex-direction: column;
           }
-          .arenda-spatii-text39 {
+          .arenda-spatii-text49 {
             color: var(--dl-color-scheme-white);
             font-size: 18px;
             font-style: normal;
             font-weight: 600;
             margin-bottom: var(--dl-space-space-halfunit);
           }
-          .arenda-spatii-text40 {
+          .arenda-spatii-text50 {
             color: var(--dl-color-scheme-white);
             text-align: justify;
             margin-bottom: var(--dl-space-space-twounits);
             text-transform: none;
           }
-          .arenda-spatii-btns-container1 {
+          .arenda-spatii-btns-container2 {
             flex: 0 0 auto;
             display: flex;
             align-items: flex-start;
@@ -844,20 +844,20 @@ const ArendaSpatii = (props) => {
             flex-direction: column;
             padding-bottom: 0px;
           }
-          .arenda-spatii-max-width2 {
+          .arenda-spatii-max-width3 {
             flex-direction: column;
           }
-          .arenda-spatii-heading-container1 {
+          .arenda-spatii-heading-container2 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .arenda-spatii-text44 {
+          .arenda-spatii-text54 {
             text-align: center;
           }
-          .arenda-spatii-text46 {
+          .arenda-spatii-text56 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
@@ -869,7 +869,7 @@ const ArendaSpatii = (props) => {
             display: flex;
             flex-direction: row;
           }
-          .arenda-spatii-content-container2 {
+          .arenda-spatii-content-container3 {
             flex: 1;
             display: flex;
             align-items: flex-end;
@@ -877,7 +877,7 @@ const ArendaSpatii = (props) => {
             justify-content: center;
             background-color: rgba(144, 149, 167, 0.08);
           }
-          .arenda-spatii-container6 {
+          .arenda-spatii-container7 {
             flex: 0 0 auto;
             display: flex;
             max-width: 366px;
@@ -885,19 +885,19 @@ const ArendaSpatii = (props) => {
             margin-right: 107px;
             flex-direction: column;
           }
-          .arenda-spatii-text47 {
+          .arenda-spatii-text57 {
             margin-bottom: 42px;
           }
-          .arenda-spatii-text50 {
+          .arenda-spatii-text60 {
             color: var(--dl-color-scheme-pink);
           }
-          .arenda-spatii-text53 {
+          .arenda-spatii-text63 {
             font-size: 18px;
             font-style: normal;
             font-weight: 600;
             margin-bottom: var(--dl-space-space-halfunit);
           }
-          .arenda-spatii-text54 {
+          .arenda-spatii-text64 {
             font-size: 20px;
             font-style: normal;
             text-align: justify;
@@ -909,39 +909,39 @@ const ArendaSpatii = (props) => {
             text-transform: uppercase;
             text-decoration: none;
           }
-          .arenda-spatii-text57 {
-            font-weight: 700;
-          }
-          .arenda-spatii-text58 {
-            font-weight: 700;
-          }
-          .arenda-spatii-text59 {
-            font-weight: 700;
-            text-decoration: underline;
-          }
-          .arenda-spatii-text60 {
-            font-weight: 700;
-            text-decoration: underline;
-          }
-          .arenda-spatii-text62 {
-            text-decoration: underline;
-          }
-          .arenda-spatii-text66 {
-            text-decoration: underline;
-          }
           .arenda-spatii-text67 {
-            text-decoration: underline;
+            font-weight: 700;
           }
           .arenda-spatii-text68 {
-            text-decoration: underline;
+            font-weight: 700;
           }
           .arenda-spatii-text69 {
+            font-weight: 700;
+            text-decoration: underline;
+          }
+          .arenda-spatii-text70 {
+            font-weight: 700;
             text-decoration: underline;
           }
           .arenda-spatii-text72 {
             text-decoration: underline;
           }
-          .arenda-spatii-br10 {
+          .arenda-spatii-text76 {
+            text-decoration: underline;
+          }
+          .arenda-spatii-text77 {
+            text-decoration: underline;
+          }
+          .arenda-spatii-text78 {
+            text-decoration: underline;
+          }
+          .arenda-spatii-text79 {
+            text-decoration: underline;
+          }
+          .arenda-spatii-text82 {
+            text-decoration: underline;
+          }
+          .arenda-spatii-br20 {
             text-decoration: underline;
           }
           .arenda-spatii-iframe {
@@ -954,34 +954,34 @@ const ArendaSpatii = (props) => {
             flex-direction: column;
             padding-bottom: 150px;
           }
-          .arenda-spatii-max-width3 {
+          .arenda-spatii-max-width4 {
             flex-direction: column;
           }
-          .arenda-spatii-heading-container2 {
+          .arenda-spatii-heading-container3 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .arenda-spatii-text73 {
+          .arenda-spatii-text83 {
             text-align: center;
           }
-          .arenda-spatii-text75 {
+          .arenda-spatii-text85 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
           @media (max-width: 991px) {
-            .arenda-spatii-max-width {
+            .arenda-spatii-max-width1 {
               flex-direction: column;
             }
-            .arenda-spatii-content-container {
+            .arenda-spatii-content-container1 {
               max-width: 100%;
               margin-bottom: 42px;
             }
-            .arenda-spatii-container1 {
+            .arenda-spatii-container2 {
               width: 583px;
             }
             .arenda-spatii-blue-background {
@@ -990,7 +990,7 @@ const ArendaSpatii = (props) => {
               bottom: 0px;
               min-height: 40%;
             }
-            .arenda-spatii-text18 {
+            .arenda-spatii-text28 {
               max-width: 100%;
             }
             .arenda-spatii-speakers-container {
@@ -1005,19 +1005,19 @@ const ArendaSpatii = (props) => {
             .arenda-spatii-image {
               width: 100%;
             }
-            .arenda-spatii-content-container1 {
+            .arenda-spatii-content-container2 {
               padding-top: 0px;
               padding-left: var(--dl-space-space-threeunits);
             }
-            .arenda-spatii-container3 {
+            .arenda-spatii-container4 {
               margin-top: -100px;
               align-items: center;
             }
-            .arenda-spatii-container5 {
+            .arenda-spatii-container6 {
               max-width: 100%;
               margin-left: 0px;
             }
-            .arenda-spatii-container6 {
+            .arenda-spatii-container7 {
               margin-right: var(--dl-space-space-unit);
             }
             .arenda-spatii-iframe {
@@ -1026,14 +1026,14 @@ const ArendaSpatii = (props) => {
             }
           }
           @media (max-width: 767px) {
-            .arenda-spatii-container1 {
+            .arenda-spatii-container2 {
               width: 505px;
             }
             .arenda-spatii-text-content {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
-            .arenda-spatii-text18 {
+            .arenda-spatii-text28 {
               padding-left: var(--dl-space-space-unit);
               padding-right: var(--dl-space-space-unit);
             }
@@ -1046,14 +1046,14 @@ const ArendaSpatii = (props) => {
             .arenda-spatii-image {
               max-height: 100%;
             }
-            .arenda-spatii-content-container1 {
+            .arenda-spatii-content-container2 {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
-            .arenda-spatii-text31 {
+            .arenda-spatii-text41 {
               margin-left: -24px;
             }
-            .arenda-spatii-btns-container1 {
+            .arenda-spatii-btns-container2 {
               width: 100%;
               align-items: stretch;
               flex-direction: column;
@@ -1062,7 +1062,7 @@ const ArendaSpatii = (props) => {
               flex-direction: column-reverse;
               padding-bottom: var(--dl-space-space-twounits);
             }
-            .arenda-spatii-container6 {
+            .arenda-spatii-container7 {
               max-width: 100%;
               padding-top: var(--dl-space-space-twounits);
               margin-right: 0px;
@@ -1078,10 +1078,10 @@ const ArendaSpatii = (props) => {
             }
           }
           @media (max-width: 479px) {
-            .arenda-spatii-text {
+            .arenda-spatii-text10 {
               font-size: 60px;
             }
-            .arenda-spatii-container1 {
+            .arenda-spatii-container2 {
               width: 424px;
             }
             .arenda-spatii-text-content {
@@ -1093,20 +1093,20 @@ const ArendaSpatii = (props) => {
             .arenda-spatii-speakers-container {
               grid-template-columns: 1fr;
             }
-            .arenda-spatii-text33 {
+            .arenda-spatii-text43 {
               font-size: 50px;
               margin-right: var(--dl-space-space-oneandhalfunits);
             }
-            .arenda-spatii-text35 {
+            .arenda-spatii-text45 {
               font-size: 50px;
               margin-right: var(--dl-space-space-oneandhalfunits);
             }
-            .arenda-spatii-text37 {
+            .arenda-spatii-text47 {
               font-size: 50px;
               margin-left: var(--dl-space-space-oneandhalfunits);
               margin-right: var(--dl-space-space-oneandhalfunits);
             }
-            .arenda-spatii-text40 {
+            .arenda-spatii-text50 {
               text-align: justify;
             }
           }

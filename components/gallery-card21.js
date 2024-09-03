@@ -6,16 +6,16 @@ const GalleryCard21 = (props) => {
   return (
     <>
       <div className={`gallery-card21-gallery-card ${props.rootClassName} `}>
-        <div className="gallery-card21-container">
-          <div className="gallery-card21-container1">
-            <h2 className="gallery-card21-text">{props.new_prop}</h2>
-            <span className="gallery-card21-text1">{props.description}</span>
-            <span className="gallery-card21-text2">SHOW MORE</span>
+        <div className="gallery-card21-container1">
+          <div className="gallery-card21-container2">
+            <h2 className="gallery-card21-text1">{props.newProp}</h2>
+            <span className="gallery-card21-text2">{props.description}</span>
+            <span className="gallery-card21-text3">SHOW MORE</span>
           </div>
         </div>
         <img
-          alt={props.image_alt}
-          src={props.image_src}
+          alt={props.imageAlt}
+          src={props.imageSrc}
           className="gallery-card21-image"
         />
       </div>
@@ -30,7 +30,7 @@ const GalleryCard21 = (props) => {
             flex-direction: column;
             justify-content: center;
           }
-          .gallery-card21-container {
+          .gallery-card21-container1 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -42,10 +42,10 @@ const GalleryCard21 = (props) => {
             justify-content: center;
             background-color: #00000096;
           }
-          .gallery-card21-container:hover {
+          .gallery-card21-container1:hover {
             opacity: 1;
           }
-          .gallery-card21-container1 {
+          .gallery-card21-container2 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -54,19 +54,19 @@ const GalleryCard21 = (props) => {
             flex-direction: column;
             justify-content: center;
           }
-          .gallery-card21-text {
+          .gallery-card21-text1 {
             color: var(--dl-color-scheme-white);
             font-style: normal;
             text-align: center;
             font-weight: 500;
             margin-bottom: var(--dl-space-space-oneandhalfunits);
           }
-          .gallery-card21-text1 {
+          .gallery-card21-text2 {
             color: var(--dl-color-scheme-white);
             text-align: center;
             margin-bottom: var(--dl-space-space-oneandhalfunits);
           }
-          .gallery-card21-text2 {
+          .gallery-card21-text3 {
             color: var(--dl-color-scheme-white);
             font-style: normal;
             font-weight: 700;
@@ -82,11 +82,11 @@ const GalleryCard21 = (props) => {
             position: absolute;
             object-fit: cover;
           }
-          .gallery-card21-root-class-name {
+          .gallery-card21root-class-name {
             flex: 1;
           }
 
-          .gallery-card21-root-class-name4 {
+          .gallery-card21root-class-name4 {
             flex: 1;
             height: 100%;
           }
@@ -97,7 +97,7 @@ const GalleryCard21 = (props) => {
             }
           }
           @media (max-width: 479px) {
-            .gallery-card21-container {
+            .gallery-card21-container1 {
               max-width: auto;
             }
             .gallery-card21-image {
@@ -115,19 +115,19 @@ const GalleryCard21 = (props) => {
 
 GalleryCard21.defaultProps = {
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-  image_alt: 'image',
+  imageAlt: 'image',
   rootClassName: '',
-  new_prop: 'Project Title',
-  image_src:
+  newProp: 'Project Title',
+  imageSrc:
     'https://images.unsplash.com/photo-1484980972926-edee96e0960d?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDI0fHxmb29kfGVufDB8fHx8MTYyNjQ0OTIzNQ&ixlib=rb-1.2.1&h=1000',
 }
 
 GalleryCard21.propTypes = {
   description: PropTypes.string,
-  image_alt: PropTypes.string,
+  imageAlt: PropTypes.string,
   rootClassName: PropTypes.string,
-  new_prop: PropTypes.string,
-  image_src: PropTypes.string,
+  newProp: PropTypes.string,
+  imageSrc: PropTypes.string,
 }
 
 export default GalleryCard21

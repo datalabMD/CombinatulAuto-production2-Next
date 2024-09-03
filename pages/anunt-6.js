@@ -3,23 +3,22 @@ import Link from 'next/link'
 import Head from 'next/head'
 
 import Navigation from '../components/navigation'
-import BlogPostCard2 from '../components/blog-post-card2'
 import NumbersCard from '../components/numbers-card'
 import Footer from '../components/footer'
 
-const Anunt2 = (props) => {
+const Anunt6 = (props) => {
   return (
     <>
-      <div className="anunt2-container1">
+      <div className="anunt6-container1">
         <Head>
-          <title>Anunt-2 - SA Combinatul Auto Nr.4 din Chișinău</title>
+          <title>Anunt-6 - SA Combinatul Auto Nr.4 din Chișinău</title>
           <meta
             name="description"
             content="SA Combinatul Auto Nr.4 din Chișinău, oferă o gamă largă de servicii electrice și mecanice la prețuri accesibile pentru fiecare."
           />
           <meta
             property="og:title"
-            content="Anunt-2 - SA Combinatul Auto Nr.4 din Chișinău"
+            content="Anunt-6 - SA Combinatul Auto Nr.4 din Chișinău"
           />
           <meta
             property="og:description"
@@ -32,13 +31,13 @@ const Anunt2 = (props) => {
         </Head>
         <Navigation
           imageSrc="navigationhttps://play.teleporthq.io/static/svg/placeholders/no-image.svg"
-          rootClassName="navigationroot-class-name14"
+          rootClassName="navigationroot-class-name19"
         ></Navigation>
-        <main className="anunt2-main">
-          <div id="transport" className="anunt2-hero section-container">
-            <div className="anunt2-max-width1 max-content-container">
-              <div className="anunt2-content-container">
-                <h1 className="anunt2-text10">
+        <main className="anunt6-main">
+          <div id="transport" className="anunt6-hero section-container">
+            <div className="anunt6-max-width1 max-content-container">
+              <div className="anunt6-content-container">
+                <h1 className="anunt6-text10">
                   <span>
                     COMBINATUL AUTO
                     <span
@@ -47,10 +46,10 @@ const Anunt2 = (props) => {
                       }}
                     />
                   </span>
-                  <span className="anunt2-text12">nr.4</span>
+                  <span className="anunt6-text12">nr.4</span>
                   <br></br>
-                  <span className="anunt2-text14">s</span>
-                  <span className="anunt2-text15">
+                  <span className="anunt6-text14">s</span>
+                  <span className="anunt6-text15">
                     ervicii de
                     <span
                       dangerouslySetInnerHTML={{
@@ -59,9 +58,9 @@ const Anunt2 = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="anunt2-text17">calitate</span>
+                  <span className="anunt6-text17">calitate</span>
                   <br></br>
-                  <span className="anunt2-text18">
+                  <span className="anunt6-text18">
                     IN
                     <span
                       dangerouslySetInnerHTML={{
@@ -69,11 +68,11 @@ const Anunt2 = (props) => {
                       }}
                     />
                   </span>
-                  <span className="anunt2-text19">Moldova</span>
+                  <span className="anunt6-text19">Moldova</span>
                 </h1>
-                <span className="anunt2-text20">
+                <span className="anunt6-text20">
                   <span>N</span>
-                  <span className="anunt2-text22">
+                  <span className="anunt6-text22">
                     oi garantam executarea rapida și la un nivel
                     <span
                       dangerouslySetInnerHTML={{
@@ -82,7 +81,7 @@ const Anunt2 = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="anunt2-text24">
+                  <span className="anunt6-text24">
                     inalt a comenzilor Dvs.
                     <span
                       dangerouslySetInnerHTML={{
@@ -91,12 +90,12 @@ const Anunt2 = (props) => {
                     />
                   </span>
                 </span>
-                <div className="anunt2-btns-container">
+                <div className="anunt6-btns-container1">
                   <a
                     href="https://combinatulauto.md/#servicii"
                     target="_blank"
                     rel="noreferrer noopener"
-                    className="anunt2-primary button-primary button-lg button"
+                    className="anunt6-primary1 button-primary button-lg button"
                   >
                     servicii
                   </a>
@@ -104,20 +103,20 @@ const Anunt2 = (props) => {
                     href="https://combinatulauto.md/#contacts"
                     target="_blank"
                     rel="noreferrer noopener"
-                    className="anunt2-secondary button button-outline button-lg-border"
+                    className="anunt6-secondary button button-outline button-lg-border"
                   >
                     adresa noastra
                   </a>
                 </div>
               </div>
-              <div className="anunt2-video-container">
-                <div className="anunt2-container2"></div>
+              <div className="anunt6-video-container">
+                <div className="anunt6-container2"></div>
               </div>
             </div>
-            <div className="anunt2-blue-background"></div>
+            <div className="anunt6-blue-background"></div>
           </div>
-          <div className="anunt2-text-content">
-            <h2 className="anunt2-text25">
+          <div className="anunt6-text-content">
+            <h2 className="anunt6-heading">
               <span>
                 ADUNAREA GENERALA
                 <span
@@ -128,64 +127,29 @@ const Anunt2 = (props) => {
               </span>
               <br></br>
               <span>EXTRAORDINARA </span>
-              <span>A ACTIONARILOR 2023</span>
+              <span>A ACTIONARILOR 07.08.2024</span>
               <br></br>
             </h2>
           </div>
-          <div className="anunt2-blog1">
+          <div className="anunt6-blog">
             <iframe
-              src="https://drive.google.com/file/d/1HCDP8ZXZYGYnOA9urLGLxOvcpT9lKvGi/preview"
-              className="anunt2-iframe"
+              src="https://drive.google.com/file/d/1LKtxwp-3BnwcR-7jOkSLQin5SUj-seR2/preview"
+              className="anunt6-iframe"
             ></iframe>
           </div>
-          <div className="anunt2-blog2">
-            <BlogPostCard2
-              label="Noutati"
-              title="ADUNAREA GENERALA EXTRAORDINARA A ACTIONARILOR 2023"
-              author="Publicat: 13.09.2023"
-              imageSrc="/news-1500w.webp"
-              description='S.A."Combinatul Auto nr.4 din Chişinău" aduce la cunoştinţa acţionarilor săi ,că la data de 04 octombrie, 2023, la orele 10-00 va avea loc Adunarea Generală Extraordinară a acţionarilor săi pe adresa: mun.Chişinău,str.Pădurii 13, cu următoarea ordine de zi:'
-              profileSrc="60a53904-1e18-4c3b-9bc7-1aabdfa99c5d"
-              rootClassName="rootClassName9"
-              className="anunt2-component11"
-            ></BlogPostCard2>
+          <div className="anunt6-container3">
+            <div className="anunt6-btns-container2">
+              <Link href="/news">
+                <a className="anunt6-link button-primary button-lg button">
+                  vezi toate noutatile
+                </a>
+              </Link>
+            </div>
           </div>
-          <div className="anunt2-blog3">
-            <Link href="/anunt-3">
-              <a className="anunt2-link1">
-                <BlogPostCard2
-                  label="Noutati"
-                  title="ADUNAREA GENERALA EXTRAORDINARA A ACTIONARILOR 15.04.2023"
-                  author="Publicat: 13.03.2022"
-                  imageSrc="/news-1500w.webp"
-                  description='S.A."Combinatul Auto nr.4 din Chişinău" aduce la cunoştinţa acţionarilor săi ,că la data de 05-04-2023, la orele 10-00 va avea loc Adunarea Generală ordinară anuală a Acţionarilor pe adresa: mun.Chişinău,str.Pădurii 13, cu următoarea ordine de zi:'
-                  profileSrc="60a53904-1e18-4c3b-9bc7-1aabdfa99c5d"
-                  rootClassName="rootClassName2"
-                  className="anunt2-component12"
-                ></BlogPostCard2>
-              </a>
-            </Link>
-          </div>
-          <div className="anunt2-blog4">
-            <Link href="/anunt-1">
-              <a className="anunt2-link2">
-                <BlogPostCard2
-                  label="Noutati"
-                  title="ADUNAREA GENERALA EXTRAORDINARA A ACTIONARILOR 2022"
-                  author="Publicat: 12.11.2022"
-                  imageSrc="/news-1500w.webp"
-                  description='S.A."Combinatul Auto nr.4 din Chişinău" aduce la cunoştinţa acţionarilor săi ,că la data de 02 decembrie ,2022, la orele 10-00 va avea loc Adunarea Generală Extraordinară a acţionarilor săi pe adresa: mun.Chişinău,str.Pădurii 13, cu următoarea ordine de zi:'
-                  profileSrc="60a53904-1e18-4c3b-9bc7-1aabdfa99c5d"
-                  rootClassName="rootClassName5"
-                  className="anunt2-component13"
-                ></BlogPostCard2>
-              </a>
-            </Link>
-          </div>
-          <div className="anunt2-numbers-banner section-container">
-            <div className="anunt2-container3 max-content-container">
-              <div className="anunt2-heading-container1">
-                <span className="anunt2-text31">
+          <div className="anunt6-numbers-banner section-container">
+            <div className="anunt6-container4 max-content-container">
+              <div className="anunt6-heading-container1">
+                <span className="anunt6-text30">
                   Personalul intreprinderii reprezinta o echipa profesionista,
                   cu experienta vasta in domeniu.
                   <span
@@ -194,7 +158,7 @@ const Anunt2 = (props) => {
                     }}
                   />
                 </span>
-                <h1 className="anunt2-text32 Heading2">
+                <h1 className="anunt6-text31 Heading2">
                   <span>
                     {' '}
                     servicii la preturi accesibile
@@ -206,7 +170,7 @@ const Anunt2 = (props) => {
                   </span>
                 </h1>
               </div>
-              <div className="anunt2-numbers-container">
+              <div className="anunt6-numbers-container">
                 <NumbersCard text="expeditiii"></NumbersCard>
                 <NumbersCard
                   text="ani"
@@ -236,13 +200,13 @@ const Anunt2 = (props) => {
               </div>
             </div>
           </div>
-          <div className="anunt2-previous-events section-container">
-            <div className="anunt2-max-width2 max-content-container">
-              <div className="anunt2-heading-container2">
-                <h1 className="anunt2-text34 Heading2">
+          <div className="anunt6-previous-events section-container">
+            <div className="anunt6-max-width2 max-content-container">
+              <div className="anunt6-heading-container2">
+                <h1 className="anunt6-text33 Heading2">
                   <span>PARTENERUL TAU DE INCREDERE</span>
                 </h1>
-                <span className="anunt2-text36">
+                <span className="anunt6-text35">
                   {' '}
                   garantam executarea rapida si calitativa a comenzilor
                   Dumneavoastra
@@ -251,11 +215,11 @@ const Anunt2 = (props) => {
             </div>
           </div>
         </main>
-        <Footer rootClassName="footerroot-class-name14"></Footer>
+        <Footer rootClassName="footerroot-class-name19"></Footer>
       </div>
       <style jsx>
         {`
-          .anunt2-container1 {
+          .anunt6-container1 {
             width: 100%;
             display: flex;
             position: relative;
@@ -264,22 +228,22 @@ const Anunt2 = (props) => {
             align-items: center;
             flex-direction: column;
           }
-          .anunt2-main {
+          .anunt6-main {
             flex: 0 0 auto;
             width: 100%;
             display: flex;
             align-items: flex-start;
             flex-direction: column;
           }
-          .anunt2-hero {
+          .anunt6-hero {
             position: relative;
             padding-top: 128px;
           }
-          .anunt2-max-width1 {
+          .anunt6-max-width1 {
             z-index: 1;
             align-items: stretch;
           }
-          .anunt2-content-container {
+          .anunt6-content-container {
             flex: 1;
             display: flex;
             max-width: 45%;
@@ -287,7 +251,7 @@ const Anunt2 = (props) => {
             flex-direction: column;
             justify-content: center;
           }
-          .anunt2-text10 {
+          .anunt6-text10 {
             font-size: 60px;
             font-style: normal;
             font-family: IBM Plex Sans Condensed;
@@ -297,54 +261,54 @@ const Anunt2 = (props) => {
             text-transform: uppercase;
             text-decoration: none;
           }
-          .anunt2-text12 {
+          .anunt6-text12 {
             text-transform: lowercase;
           }
-          .anunt2-text14 {
+          .anunt6-text14 {
             color: var(--dl-color-scheme-pink);
           }
-          .anunt2-text15 {
-            color: var(--dl-color-scheme-pink);
-            text-transform: lowercase;
-          }
-          .anunt2-text17 {
+          .anunt6-text15 {
             color: var(--dl-color-scheme-pink);
             text-transform: lowercase;
           }
-          .anunt2-text18 {
+          .anunt6-text17 {
+            color: var(--dl-color-scheme-pink);
+            text-transform: lowercase;
+          }
+          .anunt6-text18 {
             font-style: normal;
             font-weight: 600;
             text-transform: lowercase;
           }
-          .anunt2-text19 {
+          .anunt6-text19 {
             font-style: normal;
             font-weight: 600;
             text-transform: capitalize;
           }
-          .anunt2-text20 {
+          .anunt6-text20 {
             font-style: normal;
             font-weight: 500;
             margin-bottom: 42px;
           }
-          .anunt2-text22 {
+          .anunt6-text22 {
             text-transform: lowercase;
           }
-          .anunt2-text24 {
+          .anunt6-text24 {
             text-transform: lowercase;
           }
-          .anunt2-btns-container {
+          .anunt6-btns-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: flex-start;
           }
-          .anunt2-primary {
+          .anunt6-primary1 {
             margin-right: var(--dl-space-space-oneandhalfunits);
             text-decoration: none;
           }
-          .anunt2-secondary {
+          .anunt6-secondary {
             text-decoration: none;
           }
-          .anunt2-video-container {
+          .anunt6-video-container {
             flex: 1;
             width: 200px;
             display: flex;
@@ -352,7 +316,7 @@ const Anunt2 = (props) => {
             flex-direction: column;
             justify-content: flex-start;
           }
-          .anunt2-container2 {
+          .anunt6-container2 {
             width: 100%;
             height: 511px;
             display: flex;
@@ -361,11 +325,11 @@ const Anunt2 = (props) => {
             background-image: url('/home-1200h.webp');
             background-position: center;
           }
-          .anunt2-container2:hover {
+          .anunt6-container2:hover {
             transform: scale(1.02);
             box-shadow: 5px 5px 10px 0px rgba(111, 102, 102, 0.31);
           }
-          .anunt2-blue-background {
+          .anunt6-blue-background {
             top: 0px;
             right: 0px;
             width: 47%;
@@ -376,7 +340,7 @@ const Anunt2 = (props) => {
             background-image: url('/blue-bg-1500w.webp');
             background-repeat: no-repeat;
           }
-          .anunt2-text-content {
+          .anunt6-text-content {
             width: 100%;
             display: flex;
             align-items: center;
@@ -387,11 +351,11 @@ const Anunt2 = (props) => {
             padding-bottom: var(--dl-space-space-oneandhalfunits);
             justify-content: space-between;
           }
-          .anunt2-text25 {
+          .anunt6-heading {
             font-size: 3rem;
             text-align: center;
           }
-          .anunt2-blog1 {
+          .anunt6-blog {
             width: 100%;
             height: var(--dl-size-size-maxwidth);
             display: flex;
@@ -403,210 +367,152 @@ const Anunt2 = (props) => {
             padding-bottom: 52px;
             justify-content: space-between;
           }
-          .anunt2-iframe {
-            width: 1200px;
+          .anunt6-iframe {
+            width: 1124px;
             height: var(--dl-size-size-maxwidth);
           }
-          .anunt2-blog2 {
+          .anunt6-container3 {
             width: 100%;
+            height: 243px;
             display: flex;
-            padding: var(--dl-space-space-threeunits);
-            max-width: var(--dl-size-size-maxwidth);
-            align-self: center;
             align-items: center;
-            flex-direction: column;
-            justify-content: space-between;
+            justify-content: center;
           }
-          .anunt2-component11 {
+          .anunt6-btns-container2 {
+            flex: 0 0 auto;
+            display: flex;
+            align-items: flex-start;
+          }
+          .anunt6-link {
+            width: 364px;
+            padding-right: var(--dl-space-space-halfunit);
             text-decoration: none;
           }
-          .anunt2-blog3 {
-            width: 100%;
-            display: flex;
-            padding: var(--dl-space-space-threeunits);
-            max-width: var(--dl-size-size-maxwidth);
-            align-self: center;
-            align-items: center;
-            flex-direction: column;
-            justify-content: space-between;
-          }
-          .anunt2-link1 {
-            display: contents;
-          }
-          .anunt2-component12 {
-            text-decoration: none;
-          }
-          .anunt2-blog4 {
-            width: 100%;
-            display: flex;
-            padding: var(--dl-space-space-threeunits);
-            max-width: var(--dl-size-size-maxwidth);
-            align-self: center;
-            align-items: center;
-            flex-direction: column;
-            justify-content: space-between;
-          }
-          .anunt2-link2 {
-            display: contents;
-          }
-          .anunt2-component13 {
-            text-decoration: none;
-          }
-          .anunt2-numbers-banner {
+          .anunt6-numbers-banner {
             display: flex;
             padding-top: var(--dl-space-space-fiveunits);
             flex-direction: column;
             background-size: cover;
             background-image: url('/29bg-1500w.webp');
           }
-          .anunt2-container3 {
+          .anunt6-container4 {
             flex-direction: column;
           }
-          .anunt2-heading-container1 {
+          .anunt6-heading-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .anunt2-text31 {
+          .anunt6-text30 {
             color: var(--dl-color-scheme-white);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
-          .anunt2-text32 {
+          .anunt6-text31 {
             color: var(--dl-color-scheme-white);
             text-align: center;
           }
-          .anunt2-numbers-container {
+          .anunt6-numbers-container {
             width: 100%;
             display: grid;
             grid-row-gap: var(--dl-space-space-fourunits);
             grid-column-gap: 30px;
             grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
           }
-          .anunt2-previous-events {
+          .anunt6-previous-events {
             display: flex;
             position: relative;
             flex-direction: column;
             padding-bottom: 150px;
           }
-          .anunt2-max-width2 {
+          .anunt6-max-width2 {
             flex-direction: column;
           }
-          .anunt2-heading-container2 {
+          .anunt6-heading-container2 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .anunt2-text34 {
+          .anunt6-text33 {
             text-align: center;
           }
-          .anunt2-text36 {
+          .anunt6-text35 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
           @media (max-width: 991px) {
-            .anunt2-max-width1 {
+            .anunt6-max-width1 {
               flex-direction: column;
             }
-            .anunt2-content-container {
+            .anunt6-content-container {
               max-width: 100%;
               margin-bottom: 42px;
             }
-            .anunt2-container2 {
+            .anunt6-container2 {
               width: 583px;
             }
-            .anunt2-blue-background {
+            .anunt6-blue-background {
               top: auto;
               width: 100%;
               bottom: 0px;
               min-height: 40%;
             }
-            .anunt2-blog1 {
+            .anunt6-blog {
               flex-direction: column;
             }
-            .anunt2-numbers-container {
+            .anunt6-numbers-container {
               grid-template-columns: 1fr 1fr 1fr;
             }
           }
           @media (max-width: 767px) {
-            .anunt2-container2 {
+            .anunt6-container2 {
               width: 505px;
             }
-            .anunt2-text-content {
+            .anunt6-text-content {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
-            .anunt2-blog1 {
+            .anunt6-blog {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
-            .anunt2-blog2 {
-              padding-left: var(--dl-space-space-twounits);
-              padding-right: var(--dl-space-space-twounits);
-            }
-            .anunt2-blog3 {
-              padding-left: var(--dl-space-space-twounits);
-              padding-right: var(--dl-space-space-twounits);
-            }
-            .anunt2-blog4 {
-              padding-left: var(--dl-space-space-twounits);
-              padding-right: var(--dl-space-space-twounits);
-            }
-            .anunt2-numbers-container {
+            .anunt6-numbers-container {
               grid-template-columns: 1fr 1fr;
             }
-            .anunt2-previous-events {
+            .anunt6-previous-events {
               padding-bottom: var(--dl-space-space-sixunits);
             }
           }
           @media (max-width: 479px) {
-            .anunt2-text10 {
+            .anunt6-text10 {
               font-size: 60px;
             }
-            .anunt2-container2 {
+            .anunt6-container2 {
               width: 424px;
             }
-            .anunt2-text-content {
+            .anunt6-text-content {
               padding-top: var(--dl-space-space-twounits);
               padding-left: var(--dl-space-space-unit);
               padding-right: var(--dl-space-space-unit);
               padding-bottom: var(--dl-space-space-twounits);
             }
-            .anunt2-blog1 {
+            .anunt6-blog {
               height: 515px;
               padding-top: var(--dl-space-space-twounits);
               padding-left: var(--dl-space-space-unit);
               padding-right: var(--dl-space-space-unit);
               padding-bottom: var(--dl-space-space-twounits);
             }
-            .anunt2-iframe {
+            .anunt6-iframe {
               width: var(--dl-size-size-xxlarge);
               height: 100%;
-            }
-            .anunt2-blog2 {
-              padding-top: var(--dl-space-space-twounits);
-              padding-left: var(--dl-space-space-unit);
-              padding-right: var(--dl-space-space-unit);
-              padding-bottom: var(--dl-space-space-twounits);
-            }
-            .anunt2-blog3 {
-              padding-top: var(--dl-space-space-twounits);
-              padding-left: var(--dl-space-space-unit);
-              padding-right: var(--dl-space-space-unit);
-              padding-bottom: var(--dl-space-space-twounits);
-            }
-            .anunt2-blog4 {
-              padding-top: var(--dl-space-space-twounits);
-              padding-left: var(--dl-space-space-unit);
-              padding-right: var(--dl-space-space-unit);
-              padding-bottom: var(--dl-space-space-twounits);
             }
           }
         `}
@@ -615,4 +521,4 @@ const Anunt2 = (props) => {
   )
 }
 
-export default Anunt2
+export default Anunt6

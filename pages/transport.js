@@ -8,7 +8,7 @@ import Footer from '../components/footer'
 const Transport = (props) => {
   return (
     <>
-      <div className="transport-container">
+      <div className="transport-container10">
         <Head>
           <title>Transport - SA Combinatul Auto Nr.4 din Chișinău</title>
           <meta
@@ -25,18 +25,18 @@ const Transport = (props) => {
           />
           <meta
             property="og:image"
-            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80"
+            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80&amp;force_format=original"
           />
         </Head>
         <Navigation
-          image_src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
-          rootClassName="navigation-root-class-name4"
+          imageSrc="navigationhttps://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+          rootClassName="navigationroot-class-name4"
         ></Navigation>
         <main className="transport-main">
           <div id="transport" className="transport-hero section-container">
-            <div className="transport-max-width max-content-container">
+            <div className="transport-max-width1 max-content-container">
               <div className="transport-content-container">
-                <h1 className="transport-text">
+                <h1 className="transport-text10">
                   <span>
                     COMBINATUL AUTO
                     <span
@@ -45,10 +45,10 @@ const Transport = (props) => {
                       }}
                     />
                   </span>
-                  <span className="transport-text02">nr.4</span>
+                  <span className="transport-text12">nr.4</span>
                   <br></br>
-                  <span className="transport-text04">s</span>
-                  <span className="transport-text05">
+                  <span className="transport-text14">s</span>
+                  <span className="transport-text15">
                     ervicii de
                     <span
                       dangerouslySetInnerHTML={{
@@ -57,9 +57,9 @@ const Transport = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="transport-text07">calitate</span>
+                  <span className="transport-text17">calitate</span>
                   <br></br>
-                  <span className="transport-text08">
+                  <span className="transport-text18">
                     IN
                     <span
                       dangerouslySetInnerHTML={{
@@ -67,11 +67,11 @@ const Transport = (props) => {
                       }}
                     />
                   </span>
-                  <span className="transport-text09">Moldova</span>
+                  <span className="transport-text19">Moldova</span>
                 </h1>
-                <span className="transport-text10">
+                <span className="transport-text20">
                   <span>N</span>
-                  <span className="transport-text12">
+                  <span className="transport-text22">
                     oi garantam executarea rapida și la un nivel
                     <span
                       dangerouslySetInnerHTML={{
@@ -80,7 +80,7 @@ const Transport = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="transport-text14">
+                  <span className="transport-text24">
                     inalt a comenzilor Dvs.
                     <span
                       dangerouslySetInnerHTML={{
@@ -109,19 +109,19 @@ const Transport = (props) => {
                 </div>
               </div>
               <div className="transport-video-container">
-                <div className="transport-container01"></div>
+                <div className="transport-container11"></div>
               </div>
             </div>
             <div className="transport-blue-background"></div>
           </div>
           <div className="transport-text-content">
-            <h1 className="transport-text15">TRANSPORT MARFURI</h1>
-            <span className="transport-text16">
+            <h1 className="transport-text25">TRANSPORT MARFURI</h1>
+            <span className="transport-text26">
               livrare in toata republica moldova
             </span>
-            <span className="transport-text17">
+            <span className="transport-text27">
               <span>SA „Combinatul Auto Nr.4 din Chișinău” d</span>
-              <span className="transport-text19">
+              <span className="transport-text29">
                 ispune de mai multe camioane pentru transportarea marfurilor
                 atit pe teritoriul Mun.
                 <span
@@ -130,8 +130,8 @@ const Transport = (props) => {
                   }}
                 />
               </span>
-              <span className="transport-text20">C</span>
-              <span className="transport-text21">
+              <span className="transport-text30">C</span>
+              <span className="transport-text31">
                 hisinau cit si prin
                 <span
                   dangerouslySetInnerHTML={{
@@ -139,10 +139,10 @@ const Transport = (props) => {
                   }}
                 />
               </span>
-              <span className="transport-text22">republica</span>
-              <span className="transport-text23">.</span>
+              <span className="transport-text32">republica</span>
+              <span className="transport-text33">.</span>
               <br></br>
-              <span className="transport-text25">
+              <span className="transport-text35">
                 Suntem disponibili pentru incheierea contractelor de colaborare
                 de lunga durata.
                 <span
@@ -151,7 +151,7 @@ const Transport = (props) => {
                   }}
                 />
               </span>
-              <span className="transport-text26">
+              <span className="transport-text36">
                 In
                 <span
                   dangerouslySetInnerHTML={{
@@ -159,7 +159,7 @@ const Transport = (props) => {
                   }}
                 />
               </span>
-              <span className="transport-text27">
+              <span className="transport-text37">
                 acest mod producatorii si distribuitorii vor economisi mult timp
                 si bani si nu vor fi nevoiti sa intretina propria flota de
                 camioane si soferi.
@@ -169,29 +169,29 @@ const Transport = (props) => {
             </span>
           </div>
           <div className="transport-gallery">
-            <div className="transport-container02">
-              <div className="transport-container03"></div>
-            </div>
-            <div className="transport-container04">
-              <div className="transport-container05"></div>
-            </div>
-            <div className="transport-container06">
-              <div className="transport-container07"></div>
-            </div>
-            <div className="transport-container08">
-              <div className="transport-container09"></div>
-            </div>
-            <div className="transport-container10">
-              <div className="transport-container11"></div>
-            </div>
             <div className="transport-container12">
               <div className="transport-container13"></div>
             </div>
+            <div className="transport-container14">
+              <div className="transport-container15"></div>
+            </div>
+            <div className="transport-container16">
+              <div className="transport-container17"></div>
+            </div>
+            <div className="transport-container18">
+              <div className="transport-container19"></div>
+            </div>
+            <div className="transport-container20">
+              <div className="transport-container21"></div>
+            </div>
+            <div className="transport-container22">
+              <div className="transport-container23"></div>
+            </div>
           </div>
           <div className="transport-numbers-banner section-container">
-            <div className="transport-container14 max-content-container">
-              <div className="transport-heading-container">
-                <span className="transport-text29">
+            <div className="transport-container24 max-content-container">
+              <div className="transport-heading-container1">
+                <span className="transport-text39">
                   Personalul intreprinderii reprezinta o echipa profesionista,
                   cu experienta vasta in domeniu.
                   <span
@@ -200,7 +200,7 @@ const Transport = (props) => {
                     }}
                   />
                 </span>
-                <h1 className="transport-text30 Heading2">
+                <h1 className="transport-text40 Heading2">
                   <span>
                     {' '}
                     servicii la preturi accesibile
@@ -217,38 +217,38 @@ const Transport = (props) => {
                 <NumbersCard
                   text="ani"
                   number="12"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="evenimente"
                   number="64"
-                  image_src="/interface%20calendar%20favorite-200h.png"
+                  imageSrc="/interface%20calendar%20favorite-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="companii"
                   number="234"
-                  image_src="/shopping%20bag%20suit%20case-200h.png"
+                  imageSrc="/shopping%20bag%20suit%20case-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="orase"
                   number="14"
-                  image_src="/travel%20map%20location%20pin-200h.png"
+                  imageSrc="/travel%20map%20location%20pin-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="diagnosticari"
                   number="1,071"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
               </div>
             </div>
           </div>
           <div className="transport-previous-events section-container">
-            <div className="transport-max-width1 max-content-container">
-              <div className="transport-heading-container1">
-                <h1 className="transport-text32 Heading2">
+            <div className="transport-max-width2 max-content-container">
+              <div className="transport-heading-container2">
+                <h1 className="transport-text42 Heading2">
                   <span>PARTENERUL TAU DE INCREDERE</span>
                 </h1>
-                <span className="transport-text34">
+                <span className="transport-text44">
                   {' '}
                   garantam executarea rapida si calitativa a comenzilor
                   Dumneavoastra
@@ -257,11 +257,11 @@ const Transport = (props) => {
             </div>
           </div>
         </main>
-        <Footer rootClassName="footer-root-class-name4"></Footer>
+        <Footer rootClassName="footerroot-class-name4"></Footer>
       </div>
       <style jsx>
         {`
-          .transport-container {
+          .transport-container10 {
             width: 100%;
             display: flex;
             position: relative;
@@ -281,7 +281,7 @@ const Transport = (props) => {
             position: relative;
             padding-top: 128px;
           }
-          .transport-max-width {
+          .transport-max-width1 {
             z-index: 1;
             align-items: stretch;
           }
@@ -293,7 +293,7 @@ const Transport = (props) => {
             flex-direction: column;
             justify-content: center;
           }
-          .transport-text {
+          .transport-text10 {
             font-size: 60px;
             font-style: normal;
             font-family: IBM Plex Sans Condensed;
@@ -303,39 +303,39 @@ const Transport = (props) => {
             text-transform: uppercase;
             text-decoration: none;
           }
-          .transport-text02 {
-            text-transform: lowercase;
-          }
-          .transport-text04 {
-            color: var(--dl-color-scheme-pink);
-          }
-          .transport-text05 {
-            color: var(--dl-color-scheme-pink);
-            text-transform: lowercase;
-          }
-          .transport-text07 {
-            color: var(--dl-color-scheme-pink);
-            text-transform: lowercase;
-          }
-          .transport-text08 {
-            font-style: normal;
-            font-weight: 600;
-            text-transform: lowercase;
-          }
-          .transport-text09 {
-            font-style: normal;
-            font-weight: 600;
-            text-transform: capitalize;
-          }
-          .transport-text10 {
-            font-style: normal;
-            font-weight: 500;
-            margin-bottom: 42px;
-          }
           .transport-text12 {
             text-transform: lowercase;
           }
           .transport-text14 {
+            color: var(--dl-color-scheme-pink);
+          }
+          .transport-text15 {
+            color: var(--dl-color-scheme-pink);
+            text-transform: lowercase;
+          }
+          .transport-text17 {
+            color: var(--dl-color-scheme-pink);
+            text-transform: lowercase;
+          }
+          .transport-text18 {
+            font-style: normal;
+            font-weight: 600;
+            text-transform: lowercase;
+          }
+          .transport-text19 {
+            font-style: normal;
+            font-weight: 600;
+            text-transform: capitalize;
+          }
+          .transport-text20 {
+            font-style: normal;
+            font-weight: 500;
+            margin-bottom: 42px;
+          }
+          .transport-text22 {
+            text-transform: lowercase;
+          }
+          .transport-text24 {
             text-transform: lowercase;
           }
           .transport-btns-container {
@@ -358,7 +358,7 @@ const Transport = (props) => {
             flex-direction: column;
             justify-content: flex-start;
           }
-          .transport-container01 {
+          .transport-container11 {
             width: 100%;
             height: 511px;
             display: flex;
@@ -367,7 +367,7 @@ const Transport = (props) => {
             background-image: url('/home-1200h.webp');
             background-position: center;
           }
-          .transport-container01:hover {
+          .transport-container11:hover {
             transform: scale(1.02);
             box-shadow: 5px 5px 10px 0px rgba(111, 102, 102, 0.31);
           }
@@ -393,45 +393,45 @@ const Transport = (props) => {
             padding-bottom: var(--dl-space-space-oneandhalfunits);
             justify-content: space-between;
           }
-          .transport-text15 {
+          .transport-text25 {
             font-size: 3rem;
             text-align: center;
           }
-          .transport-text16 {
+          .transport-text26 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
-          .transport-text17 {
+          .transport-text27 {
             max-width: var(--dl-size-size-maxwidth);
             margin-top: var(--dl-space-space-twounits);
             text-align: center;
             margin-bottom: var(--dl-space-space-twounits);
             text-transform: uppercase;
           }
-          .transport-text19 {
+          .transport-text29 {
             text-transform: lowercase;
           }
-          .transport-text20 {
+          .transport-text30 {
             text-transform: capitalize;
           }
-          .transport-text21 {
+          .transport-text31 {
             text-transform: lowercase;
           }
-          .transport-text22 {
+          .transport-text32 {
             text-transform: capitalize;
           }
-          .transport-text23 {
+          .transport-text33 {
             text-transform: lowercase;
           }
-          .transport-text25 {
+          .transport-text35 {
             text-transform: lowercase;
           }
-          .transport-text26 {
+          .transport-text36 {
             text-transform: capitalize;
           }
-          .transport-text27 {
+          .transport-text37 {
             text-transform: lowercase;
           }
           .transport-gallery {
@@ -450,7 +450,7 @@ const Transport = (props) => {
             grid-template-areas: 'a b b' 'a b b' 'a c d' 'a c d' 'e e d' 'e e f' 'e e f';
             grid-template-columns: 1fr 1fr 1fr;
           }
-          .transport-container02 {
+          .transport-container12 {
             flex: 0 0 auto;
             width: 100%;
             height: 100%;
@@ -461,10 +461,10 @@ const Transport = (props) => {
             align-items: flex-start;
             flex-direction: column;
           }
-          .transport-container02:hover {
+          .transport-container12:hover {
             transform: scale(0.98);
           }
-          .transport-container03 {
+          .transport-container13 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -475,7 +475,7 @@ const Transport = (props) => {
             background-image: url('/home-1200h.webp');
             background-position: center;
           }
-          .transport-container04 {
+          .transport-container14 {
             flex: 0 0 auto;
             width: 100%;
             height: 100%;
@@ -488,10 +488,10 @@ const Transport = (props) => {
             background-image: url('/22-1200h.webp');
             background-position: center;
           }
-          .transport-container04:hover {
+          .transport-container14:hover {
             transform: scale(0.98);
           }
-          .transport-container05 {
+          .transport-container15 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -499,7 +499,7 @@ const Transport = (props) => {
             align-items: flex-start;
             flex-direction: column;
           }
-          .transport-container06 {
+          .transport-container16 {
             flex: 0 0 auto;
             width: 100%;
             height: 100%;
@@ -512,10 +512,10 @@ const Transport = (props) => {
             background-image: url('/15-1200h.webp');
             background-position: left;
           }
-          .transport-container06:hover {
+          .transport-container16:hover {
             transform: scale(0.98);
           }
-          .transport-container07 {
+          .transport-container17 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -523,7 +523,7 @@ const Transport = (props) => {
             align-items: flex-start;
             flex-direction: column;
           }
-          .transport-container08 {
+          .transport-container18 {
             flex: 0 0 auto;
             width: 100%;
             height: 100%;
@@ -537,10 +537,10 @@ const Transport = (props) => {
             background-repeat: no-repeat;
             background-position: left;
           }
-          .transport-container08:hover {
+          .transport-container18:hover {
             transform: scale(0.98);
           }
-          .transport-container09 {
+          .transport-container19 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -548,7 +548,7 @@ const Transport = (props) => {
             align-items: flex-start;
             flex-direction: column;
           }
-          .transport-container10 {
+          .transport-container20 {
             flex: 0 0 auto;
             width: 100%;
             height: 100%;
@@ -561,10 +561,10 @@ const Transport = (props) => {
             background-image: url('/20-1200h.webp');
             background-position: center;
           }
-          .transport-container10:hover {
+          .transport-container20:hover {
             transform: scale(0.98);
           }
-          .transport-container11 {
+          .transport-container21 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -572,7 +572,7 @@ const Transport = (props) => {
             align-items: flex-start;
             flex-direction: column;
           }
-          .transport-container12 {
+          .transport-container22 {
             flex: 0 0 auto;
             width: 100%;
             height: 100%;
@@ -585,12 +585,12 @@ const Transport = (props) => {
             background-image: url('/24-1200h.webp');
             background-position: center;
           }
-          .transport-container12:hover {
+          .transport-container22:hover {
             width: 100%;
             height: 100%;
             transform: scale(0.98);
           }
-          .transport-container13 {
+          .transport-container23 {
             width: 100%;
             height: 100%;
             display: flex;
@@ -605,23 +605,23 @@ const Transport = (props) => {
             background-size: cover;
             background-image: url('/29bg-1500w.webp');
           }
-          .transport-container14 {
+          .transport-container24 {
             flex-direction: column;
           }
-          .transport-heading-container {
+          .transport-heading-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .transport-text29 {
+          .transport-text39 {
             color: var(--dl-color-scheme-white);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
-          .transport-text30 {
+          .transport-text40 {
             color: var(--dl-color-scheme-white);
             text-align: center;
           }
@@ -638,34 +638,34 @@ const Transport = (props) => {
             flex-direction: column;
             padding-bottom: 150px;
           }
-          .transport-max-width1 {
+          .transport-max-width2 {
             flex-direction: column;
           }
-          .transport-heading-container1 {
+          .transport-heading-container2 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .transport-text32 {
+          .transport-text42 {
             text-align: center;
           }
-          .transport-text34 {
+          .transport-text44 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
           @media (max-width: 991px) {
-            .transport-max-width {
+            .transport-max-width1 {
               flex-direction: column;
             }
             .transport-content-container {
               max-width: 100%;
               margin-bottom: 42px;
             }
-            .transport-container01 {
+            .transport-container11 {
               width: 583px;
             }
             .transport-blue-background {
@@ -674,7 +674,7 @@ const Transport = (props) => {
               bottom: 0px;
               min-height: 40%;
             }
-            .transport-text17 {
+            .transport-text27 {
               max-width: 100%;
             }
             .transport-gallery {
@@ -685,14 +685,14 @@ const Transport = (props) => {
             }
           }
           @media (max-width: 767px) {
-            .transport-container01 {
+            .transport-container11 {
               width: 505px;
             }
             .transport-text-content {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
-            .transport-text17 {
+            .transport-text27 {
               padding-left: var(--dl-space-space-unit);
               padding-right: var(--dl-space-space-unit);
             }
@@ -702,22 +702,22 @@ const Transport = (props) => {
               padding: var(--dl-space-space-twounits);
               flex-direction: column;
             }
-            .transport-container03 {
-              height: var(--dl-size-size-xxlarge);
-            }
-            .transport-container05 {
-              height: var(--dl-size-size-xxlarge);
-            }
-            .transport-container07 {
-              height: var(--dl-size-size-xxlarge);
-            }
-            .transport-container09 {
-              height: var(--dl-size-size-xxlarge);
-            }
-            .transport-container11 {
-              height: var(--dl-size-size-xxlarge);
-            }
             .transport-container13 {
+              height: var(--dl-size-size-xxlarge);
+            }
+            .transport-container15 {
+              height: var(--dl-size-size-xxlarge);
+            }
+            .transport-container17 {
+              height: var(--dl-size-size-xxlarge);
+            }
+            .transport-container19 {
+              height: var(--dl-size-size-xxlarge);
+            }
+            .transport-container21 {
+              height: var(--dl-size-size-xxlarge);
+            }
+            .transport-container23 {
               height: var(--dl-size-size-xxlarge);
             }
             .transport-numbers-container {
@@ -728,10 +728,10 @@ const Transport = (props) => {
             }
           }
           @media (max-width: 479px) {
-            .transport-text {
+            .transport-text10 {
               font-size: 60px;
             }
-            .transport-container01 {
+            .transport-container11 {
               width: 424px;
             }
             .transport-text-content {
@@ -744,23 +744,23 @@ const Transport = (props) => {
               width: 100%;
               padding: var(--dl-space-space-unit);
             }
-            .transport-container03 {
+            .transport-container13 {
               width: 100%;
               height: var(--dl-size-size-xxlarge);
             }
-            .transport-container05 {
+            .transport-container15 {
               height: var(--dl-size-size-xxlarge);
             }
-            .transport-container07 {
+            .transport-container17 {
               height: var(--dl-size-size-xxlarge);
             }
-            .transport-container09 {
+            .transport-container19 {
               height: var(--dl-size-size-xxlarge);
             }
-            .transport-container11 {
+            .transport-container21 {
               height: var(--dl-size-size-xxlarge);
             }
-            .transport-container13 {
+            .transport-container23 {
               height: var(--dl-size-size-xxlarge);
             }
           }

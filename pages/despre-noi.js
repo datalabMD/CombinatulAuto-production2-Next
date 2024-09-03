@@ -10,7 +10,7 @@ import Footer from '../components/footer'
 const DespreNoi = (props) => {
   return (
     <>
-      <div className="despre-noi-container">
+      <div className="despre-noi-container1">
         <Head>
           <title>Despre-Noi - SA Combinatul Auto Nr.4 din Chișinău</title>
           <meta
@@ -27,18 +27,18 @@ const DespreNoi = (props) => {
           />
           <meta
             property="og:image"
-            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80"
+            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80&amp;force_format=original"
           />
         </Head>
         <Navigation
-          image_src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
-          rootClassName="navigation-root-class-name6"
+          imageSrc="navigationhttps://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+          rootClassName="navigationroot-class-name6"
         ></Navigation>
         <main className="despre-noi-main">
           <div className="despre-noi-hero section-container">
-            <div className="despre-noi-max-width max-content-container">
-              <div className="despre-noi-content-container">
-                <h1 className="despre-noi-text">
+            <div className="despre-noi-max-width1 max-content-container">
+              <div className="despre-noi-content-container1">
+                <h1 className="despre-noi-text100">
                   <span>
                     COMBINATUL AUTO
                     <span
@@ -47,10 +47,10 @@ const DespreNoi = (props) => {
                       }}
                     />
                   </span>
-                  <span className="despre-noi-text002">nr.4</span>
+                  <span className="despre-noi-text102">nr.4</span>
                   <br></br>
-                  <span className="despre-noi-text004">s</span>
-                  <span className="despre-noi-text005">
+                  <span className="despre-noi-text104">s</span>
+                  <span className="despre-noi-text105">
                     ervicii de
                     <span
                       dangerouslySetInnerHTML={{
@@ -59,9 +59,9 @@ const DespreNoi = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="despre-noi-text007">calitate</span>
+                  <span className="despre-noi-text107">calitate</span>
                   <br></br>
-                  <span className="despre-noi-text008">
+                  <span className="despre-noi-text108">
                     IN
                     <span
                       dangerouslySetInnerHTML={{
@@ -69,11 +69,11 @@ const DespreNoi = (props) => {
                       }}
                     />
                   </span>
-                  <span className="despre-noi-text009">Moldova</span>
+                  <span className="despre-noi-text109">Moldova</span>
                 </h1>
-                <span className="despre-noi-text010">
+                <span className="despre-noi-text110">
                   <span>N</span>
-                  <span className="despre-noi-text012">
+                  <span className="despre-noi-text112">
                     oi garantam executarea rapida si la un nivel
                     <span
                       dangerouslySetInnerHTML={{
@@ -82,7 +82,7 @@ const DespreNoi = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="despre-noi-text014">
+                  <span className="despre-noi-text114">
                     inalt a comenzilor Dvs.
                     <span
                       dangerouslySetInnerHTML={{
@@ -91,7 +91,7 @@ const DespreNoi = (props) => {
                     />
                   </span>
                 </span>
-                <div className="despre-noi-btns-container">
+                <div className="despre-noi-btns-container1">
                   <a
                     href="#servicii"
                     className="despre-noi-primary button-primary button-lg button"
@@ -107,15 +107,15 @@ const DespreNoi = (props) => {
                 </div>
               </div>
               <div className="despre-noi-video-container">
-                <div className="despre-noi-container1"></div>
+                <div className="despre-noi-container2"></div>
               </div>
             </div>
             <div className="despre-noi-blue-background"></div>
           </div>
           <div className="despre-noi-text-content">
-            <h1 className="despre-noi-text015">Despre noi</h1>
-            <span className="despre-noi-text016">
-              <span className="despre-noi-text017">
+            <h1 className="despre-noi-text115">Despre noi</h1>
+            <span className="despre-noi-text116">
+              <span className="despre-noi-text117">
                 Istoria
                 <span
                   dangerouslySetInnerHTML={{
@@ -131,7 +131,7 @@ const DespreNoi = (props) => {
                   }}
                 />
               </span>
-              <span className="despre-noi-text019">
+              <span className="despre-noi-text119">
                 începe din anul 1945 sub denumirea
                 <span
                   dangerouslySetInnerHTML={{
@@ -140,7 +140,7 @@ const DespreNoi = (props) => {
                 />
               </span>
               <span>„СПЕЦТОРГ”,</span>
-              <span className="despre-noi-text021">
+              <span className="despre-noi-text121">
                 <span
                   dangerouslySetInnerHTML={{
                     __html: ' ',
@@ -148,7 +148,7 @@ const DespreNoi = (props) => {
                 />
               </span>
               <br></br>
-              <span className="despre-noi-text023">
+              <span className="despre-noi-text123">
                 iar de-a lungul anilor isi schimbă de mai multe ori denumirea.
                 <span
                   dangerouslySetInnerHTML={{
@@ -157,7 +157,7 @@ const DespreNoi = (props) => {
                 />
               </span>
               <br></br>
-              <span className="despre-noi-text025">
+              <span className="despre-noi-text125">
                 In
                 <span
                   dangerouslySetInnerHTML={{
@@ -165,7 +165,7 @@ const DespreNoi = (props) => {
                   }}
                 />
               </span>
-              <span className="despre-noi-text026">
+              <span className="despre-noi-text126">
                 iulie 1976 a fost format „Combinatul Auto Nr.4” ca unitate
                 juridica.
                 <span
@@ -175,9 +175,9 @@ const DespreNoi = (props) => {
                 />
               </span>
               <br></br>
-              <span className="despre-noi-text027"></span>
+              <span className="despre-noi-text127"></span>
               <br></br>
-              <span className="despre-noi-text028">
+              <span className="despre-noi-text128">
                 Personalul
                 <span
                   dangerouslySetInnerHTML={{
@@ -185,7 +185,7 @@ const DespreNoi = (props) => {
                   }}
                 />
               </span>
-              <span className="despre-noi-text029">
+              <span className="despre-noi-text129">
                 intreprinderii reprezinta o echipa profesionista, cu experienta
                 vasta in domeniu,
                 <span
@@ -195,12 +195,12 @@ const DespreNoi = (props) => {
                 />
               </span>
               <br></br>
-              <span className="despre-noi-text031">
+              <span className="despre-noi-text131">
                 iar clientii care cauta un partener de încredere vor fi
                 multumiti de colaborarea cu intreprinderea noastra.
               </span>
               <br></br>
-              <span className="despre-noi-text032">
+              <span className="despre-noi-text132">
                 Noi garantam executarea rapida si la un nivel înalt a comenzilor
                 Dvs.
                 <span
@@ -210,9 +210,9 @@ const DespreNoi = (props) => {
                 />
               </span>
               <br></br>
-              <span className="despre-noi-text033"></span>
+              <span className="despre-noi-text133"></span>
               <br></br>
-              <span className="despre-noi-text034">
+              <span className="despre-noi-text134">
                 La
                 <span
                   dangerouslySetInnerHTML={{
@@ -220,24 +220,24 @@ const DespreNoi = (props) => {
                   }}
                 />
               </span>
-              <span className="despre-noi-text035">
+              <span className="despre-noi-text135">
                 serviciile întreprinderii noastre apeleaza atit intreprinderi de
                 stat cit si intreprinderi comerciale, clientela este foarte
                 diversa.
               </span>
               <br></br>
-              <span className="despre-noi-text036"></span>
+              <span className="despre-noi-text136"></span>
               <br></br>
-              <span className="despre-noi-text037">Intreg</span>
-              <span className="despre-noi-text038">
+              <span className="despre-noi-text137">Intreg</span>
+              <span className="despre-noi-text138">
                 {' '}
                 teritoriul intreprinderii este monitorizat de un sistem de
                 camere de monitorizare, precum si de paza fizica.
               </span>
               <br></br>
-              <span className="despre-noi-text039"></span>
+              <span className="despre-noi-text139"></span>
               <br></br>
-              <span className="despre-noi-text040">
+              <span className="despre-noi-text140">
                 Combinatul
                 <span
                   dangerouslySetInnerHTML={{
@@ -245,7 +245,7 @@ const DespreNoi = (props) => {
                   }}
                 />
               </span>
-              <span className="despre-noi-text041">
+              <span className="despre-noi-text141">
                 Auto Nr.4
                 <span
                   dangerouslySetInnerHTML={{
@@ -253,14 +253,14 @@ const DespreNoi = (props) => {
                   }}
                 />
               </span>
-              <span className="despre-noi-text042">Chisinau</span>
-              <span className="despre-noi-text043">
+              <span className="despre-noi-text142">Chisinau</span>
+              <span className="despre-noi-text143">
                 {' '}
                 are un teritoriu mare pentru parcarea camioanelor de mare tonaj
                 si a autocarelor.
               </span>
               <br></br>
-              <span className="despre-noi-text044">
+              <span className="despre-noi-text144">
                 Pe
                 <span
                   dangerouslySetInnerHTML={{
@@ -268,7 +268,7 @@ const DespreNoi = (props) => {
                   }}
                 />
               </span>
-              <span className="despre-noi-text045">
+              <span className="despre-noi-text145">
                 linga parcare, companiile de transport pot beneficia de un
                 complex de servicii suplimentare.
                 <span
@@ -279,7 +279,7 @@ const DespreNoi = (props) => {
               </span>
               <br></br>
               <span></span>
-              <span className="despre-noi-text048">
+              <span className="despre-noi-text148">
                 Pe
                 <span
                   dangerouslySetInnerHTML={{
@@ -287,7 +287,7 @@ const DespreNoi = (props) => {
                   }}
                 />
               </span>
-              <span className="despre-noi-text049">
+              <span className="despre-noi-text149">
                 teritoriul intreprinderii este spalatorie pentru camioane,
                 ateliere de reparatie a motoarelor,
                 <span
@@ -297,7 +297,7 @@ const DespreNoi = (props) => {
                 />
               </span>
               <br></br>
-              <span className="despre-noi-text051">
+              <span className="despre-noi-text151">
                 a sistemului de suspensie, a sistemelor electrice, servicii de
                 sudare, atelier de vopsire.
                 <span
@@ -307,8 +307,8 @@ const DespreNoi = (props) => {
                 />
               </span>
               <br></br>
-              <span className="despre-noi-text052">Angajatii</span>
-              <span className="despre-noi-text053">
+              <span className="despre-noi-text152">Angajatii</span>
+              <span className="despre-noi-text153">
                 {' '}
                 pot lua masa la cantina intreprinderii unde gasesc mereu
                 prinzuri calde.
@@ -325,11 +325,11 @@ const DespreNoi = (props) => {
           <div className="despre-noi-speakers section-container">
             <div
               id="servicii"
-              className="despre-noi-max-width1 max-content-container"
+              className="despre-noi-max-width2 max-content-container"
             >
-              <div className="despre-noi-heading-container">
-                <span className="despre-noi-text055">servicii de calitate</span>
-                <h1 className="despre-noi-text056 Heading2">
+              <div className="despre-noi-heading-container1">
+                <span className="despre-noi-text155">servicii de calitate</span>
+                <h1 className="despre-noi-text156 Heading2">
                   <span>serviciile noastre</span>
                 </h1>
               </div>
@@ -337,12 +337,12 @@ const DespreNoi = (props) => {
                 <Link href="/transport">
                   <a>
                     <SpeakerCard
-                      role="livrare National"
-                      lastName="marfuri"
-                      firstName="Transport"
-                      image_src="/15-300h.webp"
-                      rootClassName="speaker-card-root-class-name9"
-                      className="despre-noi-component01"
+                      role="speaker-cardlivrare national"
+                      lastName="speaker-cardmarfuri"
+                      firstName="speaker-card-transport"
+                      imageSrc="speaker-card/15-300h.webp"
+                      rootClassName="speaker-cardroot-class-name9"
+                      className="despre-noi-component11"
                     ></SpeakerCard>
                   </a>
                 </Link>
@@ -352,8 +352,8 @@ const DespreNoi = (props) => {
                       role="servicii electrice si mecanice"
                       lastName="auto"
                       firstName="reparatii"
-                      image_src="/16-300h-300h.webp"
-                      className="despre-noi-component02"
+                      imageSrc="/16-300h-300h.webp"
+                      className="despre-noi-component12"
                     ></SpeakerCard>
                   </a>
                 </Link>
@@ -361,7 +361,7 @@ const DespreNoi = (props) => {
                   role="rapid si calitativ"
                   lastName="auto"
                   firstName="spalatorie"
-                  image_src="/14-300h.webp"
+                  imageSrc="/14-300h.webp"
                 ></SpeakerCard>
                 <Link href="/parcare-auto">
                   <a>
@@ -369,8 +369,8 @@ const DespreNoi = (props) => {
                       role="siguranta maxima"
                       lastName="auto"
                       firstName="parcare"
-                      image_src="/13-300h.webp"
-                      className="despre-noi-component04"
+                      imageSrc="/13-300h.webp"
+                      className="despre-noi-component14"
                     ></SpeakerCard>
                   </a>
                 </Link>
@@ -380,8 +380,8 @@ const DespreNoi = (props) => {
                       role="siguranta maxima"
                       lastName="spatiilor"
                       firstName="arenda"
-                      image_src="/12-300h.webp"
-                      className="despre-noi-component05"
+                      imageSrc="/12-300h.webp"
+                      className="despre-noi-component15"
                     ></SpeakerCard>
                   </a>
                 </Link>
@@ -391,32 +391,32 @@ const DespreNoi = (props) => {
                       role="servicii de alimentatie (cantina)"
                       lastName="publica"
                       firstName="alimentatie"
-                      image_src="/cantina-300w.webp"
-                      className="despre-noi-component06"
+                      imageSrc="/cantina-300w.webp"
+                      className="despre-noi-component16"
                     ></SpeakerCard>
                   </a>
                 </Link>
                 <SpeakerCard
-                  role="in curind"
-                  lastName="noi"
-                  firstName="servicii "
-                  image_src="/rm-300h.webp"
-                  rootClassName="speaker-card-root-class-name10"
+                  role="speaker-cardin curind"
+                  lastName="speaker-cardnoi"
+                  firstName="speaker-cardservicii "
+                  imageSrc="speaker-card/rm-300h.webp"
+                  rootClassName="speaker-cardroot-class-name10"
                 ></SpeakerCard>
                 <SpeakerCard
-                  role="in curind ..."
-                  lastName="noi"
-                  firstName="servicii"
-                  image_src="/rm-300h.webp"
-                  rootClassName="speaker-card-root-class-name11"
+                  role="speaker-cardin curind ..."
+                  lastName="speaker-cardnoi"
+                  firstName="speaker-cardservicii"
+                  imageSrc="speaker-card/rm-300h.webp"
+                  rootClassName="speaker-cardroot-class-name11"
                 ></SpeakerCard>
               </div>
             </div>
           </div>
           <div className="despre-noi-numbers-banner section-container">
-            <div className="despre-noi-container2 max-content-container">
-              <div className="despre-noi-heading-container1">
-                <span className="despre-noi-text058">
+            <div className="despre-noi-container3 max-content-container">
+              <div className="despre-noi-heading-container2">
+                <span className="despre-noi-text158">
                   Personalul intreprinderii reprezinta o echipa profesionista,
                   cu experienta vasta in domeniu
                   <span
@@ -425,7 +425,7 @@ const DespreNoi = (props) => {
                     }}
                   />
                 </span>
-                <h1 className="despre-noi-text059 Heading2">
+                <h1 className="despre-noi-text159 Heading2">
                   <span>
                     {' '}
                     servicii la preturi accesibile
@@ -442,27 +442,27 @@ const DespreNoi = (props) => {
                 <NumbersCard
                   text="ani"
                   number="12"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="evenimente"
                   number="64"
-                  image_src="/interface%20calendar%20favorite-200h.png"
+                  imageSrc="/interface%20calendar%20favorite-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="companii"
                   number="234"
-                  image_src="/shopping%20bag%20suit%20case-200h.png"
+                  imageSrc="/shopping%20bag%20suit%20case-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="orase"
                   number="14"
-                  image_src="/travel%20map%20location%20pin-200h.png"
+                  imageSrc="/travel%20map%20location%20pin-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="diagnosticari"
                   number="1,071"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
               </div>
             </div>
@@ -474,26 +474,26 @@ const DespreNoi = (props) => {
               src="/cars-1500w.webp"
               className="despre-noi-image"
             />
-            <div className="despre-noi-content-container1 section-container">
-              <div className="despre-noi-container3">
-                <span className="despre-noi-text061">REPARAtIE AUTO</span>
-                <span className="despre-noi-text062">Calitativ</span>
-                <div className="despre-noi-container4">
-                  <span className="despre-noi-text063">
+            <div className="despre-noi-content-container2 section-container">
+              <div className="despre-noi-container4">
+                <span className="despre-noi-text161">REPARAtIE AUTO</span>
+                <span className="despre-noi-text162">Calitativ</span>
+                <div className="despre-noi-container5">
+                  <span className="despre-noi-text163">
                     <span>motoare</span>
                   </span>
-                  <span className="despre-noi-text065">
+                  <span className="despre-noi-text165">
                     <span>caroserii</span>
                   </span>
-                  <span className="despre-noi-text067">
+                  <span className="despre-noi-text167">
                     <span>diagnosticare</span>
                   </span>
                 </div>
-                <div className="despre-noi-container5">
-                  <span className="despre-noi-text069">
+                <div className="despre-noi-container6">
+                  <span className="despre-noi-text169">
                     oferim servicii de reparație auto
                   </span>
-                  <span className="despre-noi-text070">
+                  <span className="despre-noi-text170">
                     <span>
                       {' '}
                       la toate tipurile de mașini, secția reparații este dotată
@@ -519,7 +519,7 @@ const DespreNoi = (props) => {
                       />
                     </span>
                   </span>
-                  <div className="despre-noi-btns-container1">
+                  <div className="despre-noi-btns-container2">
                     <a
                       href="#contacts"
                       className="despre-noi-register button-secondary button button-md"
@@ -540,25 +540,25 @@ const DespreNoi = (props) => {
           <div className="despre-noi-agenda section-container">
             <div
               id="contacts"
-              className="despre-noi-max-width2 max-content-container"
+              className="despre-noi-max-width3 max-content-container"
             >
-              <div className="despre-noi-heading-container2">
-                <h1 id="contact" className="despre-noi-text074 Heading2">
+              <div className="despre-noi-heading-container3">
+                <h1 id="contact" className="despre-noi-text174 Heading2">
                   <span>ADRESA NOASTRA</span>
                 </h1>
-                <span className="despre-noi-text076">
+                <span className="despre-noi-text176">
                   te asteptam sa testezi serviciile noastre
                 </span>
               </div>
             </div>
           </div>
           <div className="despre-noi-workshops">
-            <div className="despre-noi-content-container2">
-              <div className="despre-noi-container6">
-                <h1 className="despre-noi-text077 Heading2">
+            <div className="despre-noi-content-container3">
+              <div className="despre-noi-container7">
+                <h1 className="despre-noi-text177 Heading2">
                   <span>contacte</span>
                   <br></br>
-                  <span className="despre-noi-text080">
+                  <span className="despre-noi-text180">
                     MD-2002
                     <span
                       dangerouslySetInnerHTML={{
@@ -575,21 +575,21 @@ const DespreNoi = (props) => {
                   </span>
                   <span>MUN.CHIsINaU, STR.PaDURII 13</span>
                 </h1>
-                <span className="despre-noi-text083">
+                <span className="despre-noi-text183">
                   ----------------------------------------------
                 </span>
-                <span className="despre-noi-text084">
+                <span className="despre-noi-text184">
                   <span></span>
                   <br></br>
                   <span>MobILE:</span>
-                  <span className="despre-noi-text087">
+                  <span className="despre-noi-text187">
                     <span
                       dangerouslySetInnerHTML={{
                         __html: ' ',
                       }}
                     />
                   </span>
-                  <span className="despre-noi-text088">
+                  <span className="despre-noi-text188">
                     (+373)
                     <span
                       dangerouslySetInnerHTML={{
@@ -598,9 +598,9 @@ const DespreNoi = (props) => {
                     />
                   </span>
                   <a href="tel:37369322886">
-                    <span className="despre-noi-text089">69322886</span>
+                    <span className="despre-noi-text189">69322886</span>
                   </a>
-                  <span className="despre-noi-text090"></span>
+                  <span className="despre-noi-text190"></span>
                   <br></br>
                   <span>
                     Tel/Fax: (+373)
@@ -611,20 +611,20 @@ const DespreNoi = (props) => {
                     />
                   </span>
                   <a href="tel:37322521144">
-                    <span className="despre-noi-text092">22521144</span>
+                    <span className="despre-noi-text192">22521144</span>
                   </a>
                   <br></br>
                   <span></span>
                   <br></br>
                   <span></span>
                   <a href="mailto:COMBINATAUTO@GMAIL.COM?subject=email">
-                    <span className="despre-noi-text096">
+                    <span className="despre-noi-text196">
                       Combinatauto@gmail.com
                     </span>
                   </a>
-                  <span className="despre-noi-text097"></span>
-                  <span className="despre-noi-text098"></span>
-                  <span className="despre-noi-text099"></span>
+                  <span className="despre-noi-text197"></span>
+                  <span className="despre-noi-text198"></span>
+                  <span className="despre-noi-text199"></span>
                   <span>
                     <span
                       dangerouslySetInnerHTML={{
@@ -635,8 +635,8 @@ const DespreNoi = (props) => {
                   <br></br>
                   <span></span>
                   <a href="mailto:DSACA4@MAIL.RU?subject=">
-                    <span className="despre-noi-text102">dsaca4@mail.ru</span>
-                    <br className="despre-noi-br17"></br>
+                    <span className="despre-noi-text202">dsaca4@mail.ru</span>
+                    <br className="despre-noi-br27"></br>
                   </a>
                 </span>
               </div>
@@ -648,12 +648,12 @@ const DespreNoi = (props) => {
             ></iframe>
           </div>
           <div className="despre-noi-previous-events section-container">
-            <div className="despre-noi-max-width3 max-content-container">
-              <div className="despre-noi-heading-container3">
-                <h1 className="despre-noi-text103 Heading2">
+            <div className="despre-noi-max-width4 max-content-container">
+              <div className="despre-noi-heading-container4">
+                <h1 className="despre-noi-text203 Heading2">
                   <span>PARTENERUL TAU DE INCREDERE</span>
                 </h1>
-                <span className="despre-noi-text105">
+                <span className="despre-noi-text205">
                   {' '}
                   garantam executarea rapida si calitativa a comenzilor
                   Dumneavoastra
@@ -662,11 +662,11 @@ const DespreNoi = (props) => {
             </div>
           </div>
         </main>
-        <Footer rootClassName="footer-root-class-name6"></Footer>
+        <Footer rootClassName="footerroot-class-name6"></Footer>
       </div>
       <style jsx>
         {`
-          .despre-noi-container {
+          .despre-noi-container1 {
             width: 100%;
             display: flex;
             position: relative;
@@ -686,11 +686,11 @@ const DespreNoi = (props) => {
             position: relative;
             padding-top: 128px;
           }
-          .despre-noi-max-width {
+          .despre-noi-max-width1 {
             z-index: 1;
             align-items: stretch;
           }
-          .despre-noi-content-container {
+          .despre-noi-content-container1 {
             flex: 1;
             display: flex;
             max-width: 45%;
@@ -698,7 +698,7 @@ const DespreNoi = (props) => {
             flex-direction: column;
             justify-content: center;
           }
-          .despre-noi-text {
+          .despre-noi-text100 {
             font-size: 60px;
             font-style: normal;
             font-family: IBM Plex Sans Condensed;
@@ -708,42 +708,42 @@ const DespreNoi = (props) => {
             text-transform: uppercase;
             text-decoration: none;
           }
-          .despre-noi-text002 {
+          .despre-noi-text102 {
             text-transform: lowercase;
           }
-          .despre-noi-text004 {
+          .despre-noi-text104 {
             color: var(--dl-color-scheme-pink);
           }
-          .despre-noi-text005 {
-            color: var(--dl-color-scheme-pink);
-            text-transform: lowercase;
-          }
-          .despre-noi-text007 {
+          .despre-noi-text105 {
             color: var(--dl-color-scheme-pink);
             text-transform: lowercase;
           }
-          .despre-noi-text008 {
+          .despre-noi-text107 {
+            color: var(--dl-color-scheme-pink);
+            text-transform: lowercase;
+          }
+          .despre-noi-text108 {
             font-style: normal;
             font-weight: 600;
             text-transform: lowercase;
           }
-          .despre-noi-text009 {
+          .despre-noi-text109 {
             font-style: normal;
             font-weight: 600;
             text-transform: capitalize;
           }
-          .despre-noi-text010 {
+          .despre-noi-text110 {
             font-style: normal;
             font-weight: 500;
             margin-bottom: 42px;
           }
-          .despre-noi-text012 {
+          .despre-noi-text112 {
             text-transform: lowercase;
           }
-          .despre-noi-text014 {
+          .despre-noi-text114 {
             text-transform: lowercase;
           }
-          .despre-noi-btns-container {
+          .despre-noi-btns-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: flex-start;
@@ -763,7 +763,7 @@ const DespreNoi = (props) => {
             flex-direction: column;
             justify-content: flex-start;
           }
-          .despre-noi-container1 {
+          .despre-noi-container2 {
             width: 100%;
             height: 511px;
             display: flex;
@@ -772,7 +772,7 @@ const DespreNoi = (props) => {
             background-image: url('/home-600h.webp');
             background-position: center;
           }
-          .despre-noi-container1:hover {
+          .despre-noi-container2:hover {
             transform: scale(1.02);
             box-shadow: 5px 5px 10px 0px rgba(111, 102, 102, 0.31);
           }
@@ -798,101 +798,101 @@ const DespreNoi = (props) => {
             padding-bottom: var(--dl-space-space-oneandhalfunits);
             justify-content: space-between;
           }
-          .despre-noi-text015 {
+          .despre-noi-text115 {
             font-size: 3rem;
             text-align: center;
           }
-          .despre-noi-text016 {
+          .despre-noi-text116 {
             max-width: var(--dl-size-size-maxwidth);
             margin-top: var(--dl-space-space-twounits);
             text-align: center;
             margin-bottom: var(--dl-space-space-twounits);
           }
-          .despre-noi-text017 {
+          .despre-noi-text117 {
             text-transform: capitalize;
           }
-          .despre-noi-text019 {
+          .despre-noi-text119 {
             text-transform: lowercase;
           }
-          .despre-noi-text021 {
+          .despre-noi-text121 {
             text-transform: lowercase;
           }
-          .despre-noi-text023 {
+          .despre-noi-text123 {
             text-transform: lowercase;
           }
-          .despre-noi-text025 {
+          .despre-noi-text125 {
             text-transform: capitalize;
           }
-          .despre-noi-text026 {
+          .despre-noi-text126 {
             text-transform: lowercase;
           }
-          .despre-noi-text027 {
+          .despre-noi-text127 {
             text-transform: lowercase;
           }
-          .despre-noi-text028 {
+          .despre-noi-text128 {
             text-transform: capitalize;
           }
-          .despre-noi-text029 {
+          .despre-noi-text129 {
             text-transform: lowercase;
           }
-          .despre-noi-text031 {
+          .despre-noi-text131 {
             text-transform: lowercase;
           }
-          .despre-noi-text032 {
+          .despre-noi-text132 {
             text-transform: lowercase;
           }
-          .despre-noi-text033 {
+          .despre-noi-text133 {
             text-transform: lowercase;
           }
-          .despre-noi-text034 {
+          .despre-noi-text134 {
             text-transform: capitalize;
           }
-          .despre-noi-text035 {
+          .despre-noi-text135 {
             text-transform: lowercase;
           }
-          .despre-noi-text036 {
+          .despre-noi-text136 {
             text-transform: lowercase;
           }
-          .despre-noi-text037 {
+          .despre-noi-text137 {
             text-transform: capitalize;
           }
-          .despre-noi-text038 {
+          .despre-noi-text138 {
             text-transform: lowercase;
           }
-          .despre-noi-text039 {
+          .despre-noi-text139 {
             text-transform: lowercase;
           }
-          .despre-noi-text040 {
+          .despre-noi-text140 {
             text-transform: capitalize;
           }
-          .despre-noi-text041 {
+          .despre-noi-text141 {
             text-transform: lowercase;
           }
-          .despre-noi-text042 {
+          .despre-noi-text142 {
             text-transform: capitalize;
           }
-          .despre-noi-text043 {
+          .despre-noi-text143 {
             text-transform: lowercase;
           }
-          .despre-noi-text044 {
+          .despre-noi-text144 {
             text-transform: capitalize;
           }
-          .despre-noi-text045 {
+          .despre-noi-text145 {
             text-transform: lowercase;
           }
-          .despre-noi-text048 {
+          .despre-noi-text148 {
             text-transform: capitalize;
           }
-          .despre-noi-text049 {
+          .despre-noi-text149 {
             text-transform: lowercase;
           }
-          .despre-noi-text051 {
+          .despre-noi-text151 {
             text-transform: lowercase;
           }
-          .despre-noi-text052 {
+          .despre-noi-text152 {
             text-transform: capitalize;
           }
-          .despre-noi-text053 {
+          .despre-noi-text153 {
             text-transform: lowercase;
           }
           .despre-noi-speakers {
@@ -900,55 +900,7 @@ const DespreNoi = (props) => {
             padding-top: var(--dl-space-space-threeunits);
             flex-direction: column;
           }
-          .despre-noi-max-width1 {
-            flex-direction: column;
-          }
-          .despre-noi-heading-container {
-            flex: 0 0 auto;
-            display: flex;
-            align-items: center;
-            margin-bottom: var(--dl-space-space-fourunits);
-            flex-direction: column;
-          }
-          .despre-noi-text055 {
-            color: var(--dl-color-scheme-darkgray);
-            font-style: normal;
-            text-align: center;
-            font-weight: 500;
-          }
-          .despre-noi-text056 {
-            text-align: center;
-          }
-          .despre-noi-speakers-container {
-            width: 100%;
-            display: grid;
-            grid-row-gap: var(--dl-space-space-fourunits);
-            grid-column-gap: 30px;
-            grid-template-columns: 1fr 1fr 1fr 1fr;
-          }
-          .despre-noi-component01 {
-            text-decoration: none;
-          }
-          .despre-noi-component02 {
-            text-decoration: none;
-          }
-          .despre-noi-component04 {
-            text-decoration: none;
-          }
-          .despre-noi-component05 {
-            text-decoration: none;
-          }
-          .despre-noi-component06 {
-            text-decoration: none;
-          }
-          .despre-noi-numbers-banner {
-            display: flex;
-            padding-top: var(--dl-space-space-fiveunits);
-            flex-direction: column;
-            background-size: cover;
-            background-image: url('/29bg-1500w.webp');
-          }
-          .despre-noi-container2 {
+          .despre-noi-max-width2 {
             flex-direction: column;
           }
           .despre-noi-heading-container1 {
@@ -958,13 +910,61 @@ const DespreNoi = (props) => {
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .despre-noi-text058 {
+          .despre-noi-text155 {
+            color: var(--dl-color-scheme-darkgray);
+            font-style: normal;
+            text-align: center;
+            font-weight: 500;
+          }
+          .despre-noi-text156 {
+            text-align: center;
+          }
+          .despre-noi-speakers-container {
+            width: 100%;
+            display: grid;
+            grid-row-gap: var(--dl-space-space-fourunits);
+            grid-column-gap: 30px;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+          }
+          .despre-noi-component11 {
+            text-decoration: none;
+          }
+          .despre-noi-component12 {
+            text-decoration: none;
+          }
+          .despre-noi-component14 {
+            text-decoration: none;
+          }
+          .despre-noi-component15 {
+            text-decoration: none;
+          }
+          .despre-noi-component16 {
+            text-decoration: none;
+          }
+          .despre-noi-numbers-banner {
+            display: flex;
+            padding-top: var(--dl-space-space-fiveunits);
+            flex-direction: column;
+            background-size: cover;
+            background-image: url('/29bg-1500w.webp');
+          }
+          .despre-noi-container3 {
+            flex-direction: column;
+          }
+          .despre-noi-heading-container2 {
+            flex: 0 0 auto;
+            display: flex;
+            align-items: center;
+            margin-bottom: var(--dl-space-space-fourunits);
+            flex-direction: column;
+          }
+          .despre-noi-text158 {
             color: var(--dl-color-scheme-white);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
-          .despre-noi-text059 {
+          .despre-noi-text159 {
             color: var(--dl-color-scheme-white);
             text-align: center;
           }
@@ -986,7 +986,7 @@ const DespreNoi = (props) => {
             max-height: 950px;
             object-fit: cover;
           }
-          .despre-noi-content-container1 {
+          .despre-noi-content-container2 {
             flex: 1;
             display: flex;
             align-items: stretch;
@@ -995,14 +995,14 @@ const DespreNoi = (props) => {
             flex-direction: row;
             background-color: var(--dl-color-scheme-black);
           }
-          .despre-noi-container3 {
+          .despre-noi-container4 {
             flex: 0 0 auto;
             width: 100%;
             display: flex;
             align-items: flex-start;
             flex-direction: column;
           }
-          .despre-noi-text061 {
+          .despre-noi-text161 {
             color: var(--dl-color-scheme-white);
             font-size: 56px;
             font-style: normal;
@@ -1016,20 +1016,20 @@ const DespreNoi = (props) => {
             padding-bottom: 6px;
             background-color: var(--dl-color-scheme-lightblue);
           }
-          .despre-noi-text062 {
+          .despre-noi-text162 {
             color: var(--dl-color-scheme-white);
             font-size: 56px;
             font-style: normal;
             font-weight: 300;
             line-height: 1.1;
           }
-          .despre-noi-container4 {
+          .despre-noi-container5 {
             display: flex;
             align-items: flex-end;
             margin-bottom: var(--dl-space-space-twounits);
             flex-direction: column;
           }
-          .despre-noi-text063 {
+          .despre-noi-text163 {
             color: var(--dl-color-scheme-pink);
             font-size: 56px;
             font-style: normal;
@@ -1037,7 +1037,7 @@ const DespreNoi = (props) => {
             line-height: 1.1;
             margin-left: var(--dl-space-space-fiveunits);
           }
-          .despre-noi-text065 {
+          .despre-noi-text165 {
             color: var(--dl-color-scheme-pink);
             font-size: 56px;
             font-style: normal;
@@ -1045,7 +1045,7 @@ const DespreNoi = (props) => {
             line-height: 1.1;
             margin-left: -36px;
           }
-          .despre-noi-text067 {
+          .despre-noi-text167 {
             color: var(--dl-color-scheme-pink);
             font-size: 56px;
             font-style: normal;
@@ -1053,7 +1053,7 @@ const DespreNoi = (props) => {
             line-height: 1.1;
             margin-left: var(--dl-space-space-fiveunits);
           }
-          .despre-noi-container5 {
+          .despre-noi-container6 {
             flex: 1;
             width: 100%;
             display: flex;
@@ -1062,20 +1062,20 @@ const DespreNoi = (props) => {
             margin-left: 124px;
             flex-direction: column;
           }
-          .despre-noi-text069 {
+          .despre-noi-text169 {
             color: var(--dl-color-scheme-white);
             font-size: 18px;
             font-style: normal;
             font-weight: 600;
             margin-bottom: var(--dl-space-space-halfunit);
           }
-          .despre-noi-text070 {
+          .despre-noi-text170 {
             color: var(--dl-color-scheme-white);
             text-align: justify;
             margin-bottom: var(--dl-space-space-twounits);
             text-transform: none;
           }
-          .despre-noi-btns-container1 {
+          .despre-noi-btns-container2 {
             flex: 0 0 auto;
             display: flex;
             align-items: flex-start;
@@ -1098,20 +1098,20 @@ const DespreNoi = (props) => {
             flex-direction: column;
             padding-bottom: 0px;
           }
-          .despre-noi-max-width2 {
+          .despre-noi-max-width3 {
             flex-direction: column;
           }
-          .despre-noi-heading-container2 {
+          .despre-noi-heading-container3 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .despre-noi-text074 {
+          .despre-noi-text174 {
             text-align: center;
           }
-          .despre-noi-text076 {
+          .despre-noi-text176 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
@@ -1123,7 +1123,7 @@ const DespreNoi = (props) => {
             display: flex;
             flex-direction: row;
           }
-          .despre-noi-content-container2 {
+          .despre-noi-content-container3 {
             flex: 1;
             display: flex;
             align-items: flex-end;
@@ -1131,7 +1131,7 @@ const DespreNoi = (props) => {
             justify-content: center;
             background-color: rgba(144, 149, 167, 0.08);
           }
-          .despre-noi-container6 {
+          .despre-noi-container7 {
             flex: 0 0 auto;
             display: flex;
             max-width: 366px;
@@ -1139,19 +1139,19 @@ const DespreNoi = (props) => {
             margin-right: 107px;
             flex-direction: column;
           }
-          .despre-noi-text077 {
+          .despre-noi-text177 {
             margin-bottom: 42px;
           }
-          .despre-noi-text080 {
+          .despre-noi-text180 {
             color: var(--dl-color-scheme-pink);
           }
-          .despre-noi-text083 {
+          .despre-noi-text183 {
             font-size: 18px;
             font-style: normal;
             font-weight: 600;
             margin-bottom: var(--dl-space-space-halfunit);
           }
-          .despre-noi-text084 {
+          .despre-noi-text184 {
             font-size: 20px;
             font-style: normal;
             text-align: justify;
@@ -1163,39 +1163,39 @@ const DespreNoi = (props) => {
             text-transform: uppercase;
             text-decoration: none;
           }
-          .despre-noi-text087 {
+          .despre-noi-text187 {
             font-weight: 700;
           }
-          .despre-noi-text088 {
+          .despre-noi-text188 {
             font-weight: 700;
           }
-          .despre-noi-text089 {
-            font-weight: 700;
-            text-decoration: underline;
-          }
-          .despre-noi-text090 {
+          .despre-noi-text189 {
             font-weight: 700;
             text-decoration: underline;
           }
-          .despre-noi-text092 {
+          .despre-noi-text190 {
+            font-weight: 700;
             text-decoration: underline;
           }
-          .despre-noi-text096 {
+          .despre-noi-text192 {
             text-decoration: underline;
           }
-          .despre-noi-text097 {
+          .despre-noi-text196 {
             text-decoration: underline;
           }
-          .despre-noi-text098 {
+          .despre-noi-text197 {
             text-decoration: underline;
           }
-          .despre-noi-text099 {
+          .despre-noi-text198 {
             text-decoration: underline;
           }
-          .despre-noi-text102 {
+          .despre-noi-text199 {
             text-decoration: underline;
           }
-          .despre-noi-br17 {
+          .despre-noi-text202 {
+            text-decoration: underline;
+          }
+          .despre-noi-br27 {
             text-decoration: underline;
           }
           .despre-noi-iframe {
@@ -1208,34 +1208,34 @@ const DespreNoi = (props) => {
             flex-direction: column;
             padding-bottom: 150px;
           }
-          .despre-noi-max-width3 {
+          .despre-noi-max-width4 {
             flex-direction: column;
           }
-          .despre-noi-heading-container3 {
+          .despre-noi-heading-container4 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .despre-noi-text103 {
+          .despre-noi-text203 {
             text-align: center;
           }
-          .despre-noi-text105 {
+          .despre-noi-text205 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
           @media (max-width: 991px) {
-            .despre-noi-max-width {
+            .despre-noi-max-width1 {
               flex-direction: column;
             }
-            .despre-noi-content-container {
+            .despre-noi-content-container1 {
               max-width: 100%;
               margin-bottom: 42px;
             }
-            .despre-noi-container1 {
+            .despre-noi-container2 {
               width: 583px;
             }
             .despre-noi-blue-background {
@@ -1244,7 +1244,7 @@ const DespreNoi = (props) => {
               bottom: 0px;
               min-height: 40%;
             }
-            .despre-noi-text016 {
+            .despre-noi-text116 {
               max-width: 100%;
             }
             .despre-noi-speakers-container {
@@ -1259,19 +1259,19 @@ const DespreNoi = (props) => {
             .despre-noi-image {
               width: 100%;
             }
-            .despre-noi-content-container1 {
+            .despre-noi-content-container2 {
               padding-top: 0px;
               padding-left: var(--dl-space-space-threeunits);
             }
-            .despre-noi-container3 {
+            .despre-noi-container4 {
               margin-top: -100px;
               align-items: center;
             }
-            .despre-noi-container5 {
+            .despre-noi-container6 {
               max-width: 100%;
               margin-left: 0px;
             }
-            .despre-noi-container6 {
+            .despre-noi-container7 {
               margin-right: var(--dl-space-space-unit);
             }
             .despre-noi-iframe {
@@ -1280,14 +1280,14 @@ const DespreNoi = (props) => {
             }
           }
           @media (max-width: 767px) {
-            .despre-noi-container1 {
+            .despre-noi-container2 {
               width: 505px;
             }
             .despre-noi-text-content {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
-            .despre-noi-text016 {
+            .despre-noi-text116 {
               padding-left: var(--dl-space-space-unit);
               padding-right: var(--dl-space-space-unit);
             }
@@ -1300,14 +1300,14 @@ const DespreNoi = (props) => {
             .despre-noi-image {
               max-height: 100%;
             }
-            .despre-noi-content-container1 {
+            .despre-noi-content-container2 {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
-            .despre-noi-text061 {
+            .despre-noi-text161 {
               margin-left: -24px;
             }
-            .despre-noi-btns-container1 {
+            .despre-noi-btns-container2 {
               width: 100%;
               align-items: stretch;
               flex-direction: column;
@@ -1316,7 +1316,7 @@ const DespreNoi = (props) => {
               flex-direction: column-reverse;
               padding-bottom: var(--dl-space-space-twounits);
             }
-            .despre-noi-container6 {
+            .despre-noi-container7 {
               max-width: 100%;
               padding-top: var(--dl-space-space-twounits);
               margin-right: 0px;
@@ -1332,10 +1332,10 @@ const DespreNoi = (props) => {
             }
           }
           @media (max-width: 479px) {
-            .despre-noi-text {
+            .despre-noi-text100 {
               font-size: 60px;
             }
-            .despre-noi-container1 {
+            .despre-noi-container2 {
               width: 424px;
             }
             .despre-noi-text-content {
@@ -1347,20 +1347,20 @@ const DespreNoi = (props) => {
             .despre-noi-speakers-container {
               grid-template-columns: 1fr;
             }
-            .despre-noi-text063 {
+            .despre-noi-text163 {
               font-size: 50px;
               margin-right: var(--dl-space-space-oneandhalfunits);
             }
-            .despre-noi-text065 {
+            .despre-noi-text165 {
               font-size: 50px;
               margin-right: var(--dl-space-space-oneandhalfunits);
             }
-            .despre-noi-text067 {
+            .despre-noi-text167 {
               font-size: 50px;
               margin-left: var(--dl-space-space-oneandhalfunits);
               margin-right: var(--dl-space-space-oneandhalfunits);
             }
-            .despre-noi-text070 {
+            .despre-noi-text170 {
               text-align: justify;
             }
           }

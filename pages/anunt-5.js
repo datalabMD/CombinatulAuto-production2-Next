@@ -9,7 +9,7 @@ import Footer from '../components/footer'
 const Anunt5 = (props) => {
   return (
     <>
-      <div className="anunt5-container">
+      <div className="anunt5-container1">
         <Head>
           <title>Anunt-5 - SA Combinatul Auto Nr.4 din Chișinău</title>
           <meta
@@ -26,18 +26,18 @@ const Anunt5 = (props) => {
           />
           <meta
             property="og:image"
-            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80"
+            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80&amp;force_format=original"
           />
         </Head>
         <Navigation
-          image_src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
-          rootClassName="navigation-root-class-name18"
+          imageSrc="navigationhttps://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+          rootClassName="navigationroot-class-name18"
         ></Navigation>
         <main className="anunt5-main">
           <div id="transport" className="anunt5-hero section-container">
-            <div className="anunt5-max-width max-content-container">
+            <div className="anunt5-max-width1 max-content-container">
               <div className="anunt5-content-container">
-                <h1 className="anunt5-text">
+                <h1 className="anunt5-text10">
                   <span>
                     COMBINATUL AUTO
                     <span
@@ -46,10 +46,10 @@ const Anunt5 = (props) => {
                       }}
                     />
                   </span>
-                  <span className="anunt5-text02">nr.4</span>
+                  <span className="anunt5-text12">nr.4</span>
                   <br></br>
-                  <span className="anunt5-text04">s</span>
-                  <span className="anunt5-text05">
+                  <span className="anunt5-text14">s</span>
+                  <span className="anunt5-text15">
                     ervicii de
                     <span
                       dangerouslySetInnerHTML={{
@@ -58,9 +58,9 @@ const Anunt5 = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="anunt5-text07">calitate</span>
+                  <span className="anunt5-text17">calitate</span>
                   <br></br>
-                  <span className="anunt5-text08">
+                  <span className="anunt5-text18">
                     IN
                     <span
                       dangerouslySetInnerHTML={{
@@ -68,11 +68,11 @@ const Anunt5 = (props) => {
                       }}
                     />
                   </span>
-                  <span className="anunt5-text09">Moldova</span>
+                  <span className="anunt5-text19">Moldova</span>
                 </h1>
-                <span className="anunt5-text10">
+                <span className="anunt5-text20">
                   <span>N</span>
-                  <span className="anunt5-text12">
+                  <span className="anunt5-text22">
                     oi garantam executarea rapida și la un nivel
                     <span
                       dangerouslySetInnerHTML={{
@@ -81,7 +81,7 @@ const Anunt5 = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="anunt5-text14">
+                  <span className="anunt5-text24">
                     inalt a comenzilor Dvs.
                     <span
                       dangerouslySetInnerHTML={{
@@ -90,12 +90,12 @@ const Anunt5 = (props) => {
                     />
                   </span>
                 </span>
-                <div className="anunt5-btns-container">
+                <div className="anunt5-btns-container1">
                   <a
                     href="https://combinatulauto.md/#servicii"
                     target="_blank"
                     rel="noreferrer noopener"
-                    className="anunt5-primary button-primary button-lg button"
+                    className="anunt5-primary1 button-primary button-lg button"
                   >
                     servicii
                   </a>
@@ -110,7 +110,7 @@ const Anunt5 = (props) => {
                 </div>
               </div>
               <div className="anunt5-video-container">
-                <div className="anunt5-container1"></div>
+                <div className="anunt5-container2"></div>
               </div>
             </div>
             <div className="anunt5-blue-background"></div>
@@ -137,8 +137,8 @@ const Anunt5 = (props) => {
               className="anunt5-iframe"
             ></iframe>
           </div>
-          <div className="anunt5-container2">
-            <div className="anunt5-btns-container1">
+          <div className="anunt5-container3">
+            <div className="anunt5-btns-container2">
               <Link href="/news">
                 <a className="anunt5-link button-primary button-lg button">
                   vezi toate noutatile
@@ -147,9 +147,9 @@ const Anunt5 = (props) => {
             </div>
           </div>
           <div className="anunt5-numbers-banner section-container">
-            <div className="anunt5-container3 max-content-container">
-              <div className="anunt5-heading-container">
-                <span className="anunt5-text20">
+            <div className="anunt5-container4 max-content-container">
+              <div className="anunt5-heading-container1">
+                <span className="anunt5-text30">
                   Personalul intreprinderii reprezinta o echipa profesionista,
                   cu experienta vasta in domeniu.
                   <span
@@ -158,7 +158,7 @@ const Anunt5 = (props) => {
                     }}
                   />
                 </span>
-                <h1 className="anunt5-text21 Heading2">
+                <h1 className="anunt5-text31 Heading2">
                   <span>
                     {' '}
                     servicii la preturi accesibile
@@ -175,38 +175,38 @@ const Anunt5 = (props) => {
                 <NumbersCard
                   text="ani"
                   number="12"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="evenimente"
                   number="64"
-                  image_src="/interface%20calendar%20favorite-200h.png"
+                  imageSrc="/interface%20calendar%20favorite-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="companii"
                   number="234"
-                  image_src="/shopping%20bag%20suit%20case-200h.png"
+                  imageSrc="/shopping%20bag%20suit%20case-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="orase"
                   number="14"
-                  image_src="/travel%20map%20location%20pin-200h.png"
+                  imageSrc="/travel%20map%20location%20pin-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="diagnosticari"
                   number="1,071"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
               </div>
             </div>
           </div>
           <div className="anunt5-previous-events section-container">
-            <div className="anunt5-max-width1 max-content-container">
-              <div className="anunt5-heading-container1">
-                <h1 className="anunt5-text23 Heading2">
+            <div className="anunt5-max-width2 max-content-container">
+              <div className="anunt5-heading-container2">
+                <h1 className="anunt5-text33 Heading2">
                   <span>PARTENERUL TAU DE INCREDERE</span>
                 </h1>
-                <span className="anunt5-text25">
+                <span className="anunt5-text35">
                   {' '}
                   garantam executarea rapida si calitativa a comenzilor
                   Dumneavoastra
@@ -215,11 +215,11 @@ const Anunt5 = (props) => {
             </div>
           </div>
         </main>
-        <Footer rootClassName="footer-root-class-name18"></Footer>
+        <Footer rootClassName="footerroot-class-name18"></Footer>
       </div>
       <style jsx>
         {`
-          .anunt5-container {
+          .anunt5-container1 {
             width: 100%;
             display: flex;
             position: relative;
@@ -239,7 +239,7 @@ const Anunt5 = (props) => {
             position: relative;
             padding-top: 128px;
           }
-          .anunt5-max-width {
+          .anunt5-max-width1 {
             z-index: 1;
             align-items: stretch;
           }
@@ -251,7 +251,7 @@ const Anunt5 = (props) => {
             flex-direction: column;
             justify-content: center;
           }
-          .anunt5-text {
+          .anunt5-text10 {
             font-size: 60px;
             font-style: normal;
             font-family: IBM Plex Sans Condensed;
@@ -261,47 +261,47 @@ const Anunt5 = (props) => {
             text-transform: uppercase;
             text-decoration: none;
           }
-          .anunt5-text02 {
-            text-transform: lowercase;
-          }
-          .anunt5-text04 {
-            color: var(--dl-color-scheme-pink);
-          }
-          .anunt5-text05 {
-            color: var(--dl-color-scheme-pink);
-            text-transform: lowercase;
-          }
-          .anunt5-text07 {
-            color: var(--dl-color-scheme-pink);
-            text-transform: lowercase;
-          }
-          .anunt5-text08 {
-            font-style: normal;
-            font-weight: 600;
-            text-transform: lowercase;
-          }
-          .anunt5-text09 {
-            font-style: normal;
-            font-weight: 600;
-            text-transform: capitalize;
-          }
-          .anunt5-text10 {
-            font-style: normal;
-            font-weight: 500;
-            margin-bottom: 42px;
-          }
           .anunt5-text12 {
             text-transform: lowercase;
           }
           .anunt5-text14 {
+            color: var(--dl-color-scheme-pink);
+          }
+          .anunt5-text15 {
+            color: var(--dl-color-scheme-pink);
             text-transform: lowercase;
           }
-          .anunt5-btns-container {
+          .anunt5-text17 {
+            color: var(--dl-color-scheme-pink);
+            text-transform: lowercase;
+          }
+          .anunt5-text18 {
+            font-style: normal;
+            font-weight: 600;
+            text-transform: lowercase;
+          }
+          .anunt5-text19 {
+            font-style: normal;
+            font-weight: 600;
+            text-transform: capitalize;
+          }
+          .anunt5-text20 {
+            font-style: normal;
+            font-weight: 500;
+            margin-bottom: 42px;
+          }
+          .anunt5-text22 {
+            text-transform: lowercase;
+          }
+          .anunt5-text24 {
+            text-transform: lowercase;
+          }
+          .anunt5-btns-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: flex-start;
           }
-          .anunt5-primary {
+          .anunt5-primary1 {
             margin-right: var(--dl-space-space-oneandhalfunits);
             text-decoration: none;
           }
@@ -316,7 +316,7 @@ const Anunt5 = (props) => {
             flex-direction: column;
             justify-content: flex-start;
           }
-          .anunt5-container1 {
+          .anunt5-container2 {
             width: 100%;
             height: 511px;
             display: flex;
@@ -325,7 +325,7 @@ const Anunt5 = (props) => {
             background-image: url('/home-1200h.webp');
             background-position: center;
           }
-          .anunt5-container1:hover {
+          .anunt5-container2:hover {
             transform: scale(1.02);
             box-shadow: 5px 5px 10px 0px rgba(111, 102, 102, 0.31);
           }
@@ -371,14 +371,14 @@ const Anunt5 = (props) => {
             width: 1124px;
             height: var(--dl-size-size-maxwidth);
           }
-          .anunt5-container2 {
+          .anunt5-container3 {
             width: 100%;
             height: 243px;
             display: flex;
             align-items: center;
             justify-content: center;
           }
-          .anunt5-btns-container1 {
+          .anunt5-btns-container2 {
             flex: 0 0 auto;
             display: flex;
             align-items: flex-start;
@@ -395,23 +395,23 @@ const Anunt5 = (props) => {
             background-size: cover;
             background-image: url('/29bg-1500w.webp');
           }
-          .anunt5-container3 {
+          .anunt5-container4 {
             flex-direction: column;
           }
-          .anunt5-heading-container {
+          .anunt5-heading-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .anunt5-text20 {
+          .anunt5-text30 {
             color: var(--dl-color-scheme-white);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
-          .anunt5-text21 {
+          .anunt5-text31 {
             color: var(--dl-color-scheme-white);
             text-align: center;
           }
@@ -428,34 +428,34 @@ const Anunt5 = (props) => {
             flex-direction: column;
             padding-bottom: 150px;
           }
-          .anunt5-max-width1 {
+          .anunt5-max-width2 {
             flex-direction: column;
           }
-          .anunt5-heading-container1 {
+          .anunt5-heading-container2 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .anunt5-text23 {
+          .anunt5-text33 {
             text-align: center;
           }
-          .anunt5-text25 {
+          .anunt5-text35 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
           @media (max-width: 991px) {
-            .anunt5-max-width {
+            .anunt5-max-width1 {
               flex-direction: column;
             }
             .anunt5-content-container {
               max-width: 100%;
               margin-bottom: 42px;
             }
-            .anunt5-container1 {
+            .anunt5-container2 {
               width: 583px;
             }
             .anunt5-blue-background {
@@ -472,7 +472,7 @@ const Anunt5 = (props) => {
             }
           }
           @media (max-width: 767px) {
-            .anunt5-container1 {
+            .anunt5-container2 {
               width: 505px;
             }
             .anunt5-text-content {
@@ -491,10 +491,10 @@ const Anunt5 = (props) => {
             }
           }
           @media (max-width: 479px) {
-            .anunt5-text {
+            .anunt5-text10 {
               font-size: 60px;
             }
-            .anunt5-container1 {
+            .anunt5-container2 {
               width: 424px;
             }
             .anunt5-text-content {

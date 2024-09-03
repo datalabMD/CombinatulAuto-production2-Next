@@ -8,13 +8,13 @@ const SpeakerCard = (props) => {
       <div className={`speaker-card-speaker-card ${props.rootClassName} `}>
         <div className="speaker-card-image-container">
           <img
-            alt={props.image_alt}
-            src={props.image_src}
+            alt={props.imageAlt}
+            src={props.imageSrc}
             className="speaker-card-image"
           />
           <div className="speaker-card-read-more-container">
             <span className="speaker-card-hint">read more</span>
-            <svg viewBox="0 0 1024 1024" className="speaker-card-icon">
+            <svg viewBox="0 0 1024 1024" className="speaker-card-icon1">
               <path d="M621.254 877.254l320-320c24.994-24.992 24.994-65.516 0-90.51l-320-320c-24.994-24.992-65.516-24.992-90.51 0-24.994 24.994-24.994 65.516 0 90.51l210.746 210.746h-613.49c-35.346 0-64 28.654-64 64s28.654 64 64 64h613.49l-210.746 210.746c-12.496 12.496-18.744 28.876-18.744 45.254s6.248 32.758 18.744 45.254c24.994 24.994 65.516 24.994 90.51 0z"></path>
             </svg>
           </div>
@@ -77,7 +77,7 @@ const SpeakerCard = (props) => {
             line-height: 1.3;
             margin-right: 11px;
           }
-          .speaker-card-icon {
+          .speaker-card-icon1 {
             fill: var(--dl-color-scheme-white);
             width: 21px;
             height: 21px;
@@ -103,58 +103,58 @@ const SpeakerCard = (props) => {
           }
 
           @media (max-width: 479px) {
-            .speaker-card-root-class-name {
+            .speaker-cardroot-class-name {
               display: none;
             }
-            .speaker-card-root-class-name1 {
+            .speaker-cardroot-class-name1 {
               display: none;
             }
-            .speaker-card-root-class-name2 {
+            .speaker-cardroot-class-name2 {
               display: none;
             }
-            .speaker-card-root-class-name3 {
+            .speaker-cardroot-class-name3 {
               display: none;
             }
-            .speaker-card-root-class-name4 {
+            .speaker-cardroot-class-name4 {
               display: none;
             }
-            .speaker-card-root-class-name5 {
+            .speaker-cardroot-class-name5 {
               display: none;
             }
-            .speaker-card-root-class-name6 {
+            .speaker-cardroot-class-name6 {
               display: none;
             }
-            .speaker-card-root-class-name7 {
+            .speaker-cardroot-class-name7 {
               display: none;
             }
-            .speaker-card-root-class-name10 {
+            .speaker-cardroot-class-name10 {
               display: none;
             }
-            .speaker-card-root-class-name11 {
+            .speaker-cardroot-class-name11 {
               display: none;
             }
-            .speaker-card-root-class-name13 {
+            .speaker-cardroot-class-name13 {
               display: none;
             }
-            .speaker-card-root-class-name14 {
+            .speaker-cardroot-class-name14 {
               display: none;
             }
-            .speaker-card-root-class-name16 {
+            .speaker-cardroot-class-name16 {
               display: none;
             }
-            .speaker-card-root-class-name17 {
+            .speaker-cardroot-class-name17 {
               display: none;
             }
-            .speaker-card-root-class-name19 {
+            .speaker-cardroot-class-name19 {
               display: none;
             }
-            .speaker-card-root-class-name20 {
+            .speaker-cardroot-class-name20 {
               display: none;
             }
-            .speaker-card-root-class-name22 {
+            .speaker-cardroot-class-name22 {
               display: none;
             }
-            .speaker-card-root-class-name23 {
+            .speaker-cardroot-class-name23 {
               display: none;
             }
           }
@@ -168,9 +168,9 @@ SpeakerCard.defaultProps = {
   firstName: 'Jonathan',
   rootClassName: '',
   lastName: 'carey',
-  image_alt: 'image',
+  imageAlt: 'image',
   role: 'brand manager @ pepsi',
-  image_src:
+  imageSrc:
     'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDEwfHxwZW9wbGV8ZW58MHx8fHwxNjQzNzA1NTEx&ixlib=rb-1.2.1&w=300',
 }
 
@@ -178,9 +178,9 @@ SpeakerCard.propTypes = {
   firstName: PropTypes.string,
   rootClassName: PropTypes.string,
   lastName: PropTypes.string,
-  image_alt: PropTypes.string,
+  imageAlt: PropTypes.string,
   role: PropTypes.string,
-  image_src: PropTypes.string,
+  imageSrc: PropTypes.string,
 }
 
 export default SpeakerCard

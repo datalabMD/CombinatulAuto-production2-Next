@@ -7,8 +7,8 @@ const Copyright = (props) => {
     <>
       <div className={`copyright-copyright ${props.rootClassName} `}>
         <div className="copyright-max-width">
-          <span className="copyright-text">
-            <span className="copyright-text01">
+          <span className="copyright-text10">
+            <span className="copyright-text11">
               <span>
                 © All rights reserved
                 <span
@@ -30,9 +30,9 @@ const Copyright = (props) => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              <span className="copyright-text04">@TeleportHQ.</span>
+              <span className="copyright-text14">@TeleportHQ.</span>
             </a>
-            <span className="copyright-text05">
+            <span className="copyright-text15">
               <span>
                 {' '}
                 Powered by
@@ -55,9 +55,9 @@ const Copyright = (props) => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              <span className="copyright-text08">Vercel</span>
+              <span className="copyright-text18">Vercel</span>
             </a>
-            <span className="copyright-text09">
+            <span className="copyright-text19">
               <span>
                 . Image source:
                 <span
@@ -79,9 +79,9 @@ const Copyright = (props) => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              <span className="copyright-text12">Unsplash</span>
+              <span className="copyright-text22">Unsplash</span>
             </a>
-            <span className="copyright-text13">.</span>
+            <span className="copyright-text23">.</span>
           </span>
         </div>
       </div>
@@ -99,40 +99,40 @@ const Copyright = (props) => {
           .copyright-max-width {
             align-items: stretch;
           }
-          .copyright-text {
+          .copyright-text10 {
             font-size: 14px;
             font-style: normal;
             font-weight: 300;
             line-height: 1.5;
           }
-          .copyright-text01 {
+          .copyright-text11 {
             font-style: normal;
             font-weight: 300;
           }
-          .copyright-text04 {
-            font-style: normal;
-            font-weight: 300;
-            text-decoration: underline;
-          }
-          .copyright-text05 {
-            font-style: normal;
-            font-weight: 300;
-          }
-          .copyright-text08 {
+          .copyright-text14 {
             font-style: normal;
             font-weight: 300;
             text-decoration: underline;
           }
-          .copyright-text09 {
+          .copyright-text15 {
             font-style: normal;
             font-weight: 300;
           }
-          .copyright-text12 {
+          .copyright-text18 {
             font-style: normal;
             font-weight: 300;
             text-decoration: underline;
           }
-          .copyright-text13 {
+          .copyright-text19 {
+            font-style: normal;
+            font-weight: 300;
+          }
+          .copyright-text22 {
+            font-style: normal;
+            font-weight: 300;
+            text-decoration: underline;
+          }
+          .copyright-text23 {
             font-style: normal;
             font-weight: 300;
           }

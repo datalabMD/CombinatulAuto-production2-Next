@@ -9,7 +9,7 @@ import Footer from '../components/footer'
 const Anunt4 = (props) => {
   return (
     <>
-      <div className="anunt4-container">
+      <div className="anunt4-container1">
         <Head>
           <title>Anunt-4 - SA Combinatul Auto Nr.4 din Chișinău</title>
           <meta
@@ -26,18 +26,18 @@ const Anunt4 = (props) => {
           />
           <meta
             property="og:image"
-            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80"
+            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80&amp;force_format=original"
           />
         </Head>
         <Navigation
-          image_src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
-          rootClassName="navigation-root-class-name17"
+          imageSrc="navigationhttps://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+          rootClassName="navigationroot-class-name17"
         ></Navigation>
         <main className="anunt4-main">
           <div id="transport" className="anunt4-hero section-container">
-            <div className="anunt4-max-width max-content-container">
+            <div className="anunt4-max-width1 max-content-container">
               <div className="anunt4-content-container">
-                <h1 className="anunt4-text">
+                <h1 className="anunt4-text10">
                   <span>
                     COMBINATUL AUTO
                     <span
@@ -46,10 +46,10 @@ const Anunt4 = (props) => {
                       }}
                     />
                   </span>
-                  <span className="anunt4-text02">nr.4</span>
+                  <span className="anunt4-text12">nr.4</span>
                   <br></br>
-                  <span className="anunt4-text04">s</span>
-                  <span className="anunt4-text05">
+                  <span className="anunt4-text14">s</span>
+                  <span className="anunt4-text15">
                     ervicii de
                     <span
                       dangerouslySetInnerHTML={{
@@ -58,9 +58,9 @@ const Anunt4 = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="anunt4-text07">calitate</span>
+                  <span className="anunt4-text17">calitate</span>
                   <br></br>
-                  <span className="anunt4-text08">
+                  <span className="anunt4-text18">
                     IN
                     <span
                       dangerouslySetInnerHTML={{
@@ -68,11 +68,11 @@ const Anunt4 = (props) => {
                       }}
                     />
                   </span>
-                  <span className="anunt4-text09">Moldova</span>
+                  <span className="anunt4-text19">Moldova</span>
                 </h1>
-                <span className="anunt4-text10">
+                <span className="anunt4-text20">
                   <span>N</span>
-                  <span className="anunt4-text12">
+                  <span className="anunt4-text22">
                     oi garantam executarea rapida și la un nivel
                     <span
                       dangerouslySetInnerHTML={{
@@ -81,7 +81,7 @@ const Anunt4 = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="anunt4-text14">
+                  <span className="anunt4-text24">
                     inalt a comenzilor Dvs.
                     <span
                       dangerouslySetInnerHTML={{
@@ -110,7 +110,7 @@ const Anunt4 = (props) => {
                 </div>
               </div>
               <div className="anunt4-video-container">
-                <div className="anunt4-container1"></div>
+                <div className="anunt4-container2"></div>
               </div>
             </div>
             <div className="anunt4-blue-background"></div>
@@ -131,40 +131,40 @@ const Anunt4 = (props) => {
               <br></br>
             </h2>
           </div>
-          <div className="anunt4-blog">
+          <div className="anunt4-blog1">
             <iframe
               src="https://drive.google.com/file/d/158P2wDcvUcb4oMh1_9GuWw0hQkK-cKop/preview"
               className="anunt4-iframe"
             ></iframe>
           </div>
-          <div className="anunt4-blog1">
+          <div className="anunt4-blog2">
             <BlogPostCard2
               label="Noutati"
               title="ADUNAREA GENERALA EXTRAORDINARA A ACTIONARILOR 2023"
               author="Publicat: 04.01.2023"
-              image_src="/news-1500w.webp"
+              imageSrc="/news-1500w.webp"
               description='S.A."Combinatul Auto nr.4 din Chişinău" aduce la cunoştinţa acţionarilor săi ,că la data de 18-01-2023, la orele 10-00 va avea loc Adunarea Generală Extraordinară repetată a acţionarilor pe adresa: mun.Chişinău,str.Pădurii 13, cu următoarea ordine de zi:'
-              profile_src="/logoblue.svg"
+              profileSrc="60a53904-1e18-4c3b-9bc7-1aabdfa99c5d"
               rootClassName="rootClassName6"
-              className="anunt4-component01"
+              className="anunt4-component11"
             ></BlogPostCard2>
           </div>
-          <div className="anunt4-blog2">
+          <div className="anunt4-blog3">
             <BlogPostCard2
               label="Noutati"
               title="ADUNAREA GENERALA EXTRAORDINARA A ACTIONARILOR 2022"
               author="Publicat: 12.11.2022"
-              image_src="/news-1500w.webp"
+              imageSrc="/news-1500w.webp"
               description='S.A."Combinatul Auto nr.4 din Chişinău" aduce la cunoştinţa acţionarilor săi ,că la data de 02 decembrie ,2022, la orele 10-00 va avea loc Adunarea Generală Extraordinară a acţionarilor săi pe adresa: mun.Chişinău,str.Pădurii 13, cu următoarea ordine de zi:'
-              profile_src="/logoblue.svg"
+              profileSrc="60a53904-1e18-4c3b-9bc7-1aabdfa99c5d"
               rootClassName="rootClassName7"
-              className="anunt4-component02"
+              className="anunt4-component12"
             ></BlogPostCard2>
           </div>
           <div className="anunt4-numbers-banner section-container">
-            <div className="anunt4-container2 max-content-container">
-              <div className="anunt4-heading-container">
-                <span className="anunt4-text20">
+            <div className="anunt4-container3 max-content-container">
+              <div className="anunt4-heading-container1">
+                <span className="anunt4-text30">
                   Personalul intreprinderii reprezinta o echipa profesionista,
                   cu experienta vasta in domeniu.
                   <span
@@ -173,7 +173,7 @@ const Anunt4 = (props) => {
                     }}
                   />
                 </span>
-                <h1 className="anunt4-text21 Heading2">
+                <h1 className="anunt4-text31 Heading2">
                   <span>
                     {' '}
                     servicii la preturi accesibile
@@ -190,38 +190,38 @@ const Anunt4 = (props) => {
                 <NumbersCard
                   text="ani"
                   number="12"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="evenimente"
                   number="64"
-                  image_src="/interface%20calendar%20favorite-200h.png"
+                  imageSrc="/interface%20calendar%20favorite-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="companii"
                   number="234"
-                  image_src="/shopping%20bag%20suit%20case-200h.png"
+                  imageSrc="/shopping%20bag%20suit%20case-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="orase"
                   number="14"
-                  image_src="/travel%20map%20location%20pin-200h.png"
+                  imageSrc="/travel%20map%20location%20pin-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="diagnosticari"
                   number="1,071"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
               </div>
             </div>
           </div>
           <div className="anunt4-previous-events section-container">
-            <div className="anunt4-max-width1 max-content-container">
-              <div className="anunt4-heading-container1">
-                <h1 className="anunt4-text23 Heading2">
+            <div className="anunt4-max-width2 max-content-container">
+              <div className="anunt4-heading-container2">
+                <h1 className="anunt4-text33 Heading2">
                   <span>PARTENERUL TAU DE INCREDERE</span>
                 </h1>
-                <span className="anunt4-text25">
+                <span className="anunt4-text35">
                   {' '}
                   garantam executarea rapida si calitativa a comenzilor
                   Dumneavoastra
@@ -230,11 +230,11 @@ const Anunt4 = (props) => {
             </div>
           </div>
         </main>
-        <Footer rootClassName="footer-root-class-name17"></Footer>
+        <Footer rootClassName="footerroot-class-name17"></Footer>
       </div>
       <style jsx>
         {`
-          .anunt4-container {
+          .anunt4-container1 {
             width: 100%;
             display: flex;
             position: relative;
@@ -254,7 +254,7 @@ const Anunt4 = (props) => {
             position: relative;
             padding-top: 128px;
           }
-          .anunt4-max-width {
+          .anunt4-max-width1 {
             z-index: 1;
             align-items: stretch;
           }
@@ -266,7 +266,7 @@ const Anunt4 = (props) => {
             flex-direction: column;
             justify-content: center;
           }
-          .anunt4-text {
+          .anunt4-text10 {
             font-size: 60px;
             font-style: normal;
             font-family: IBM Plex Sans Condensed;
@@ -276,39 +276,39 @@ const Anunt4 = (props) => {
             text-transform: uppercase;
             text-decoration: none;
           }
-          .anunt4-text02 {
-            text-transform: lowercase;
-          }
-          .anunt4-text04 {
-            color: var(--dl-color-scheme-pink);
-          }
-          .anunt4-text05 {
-            color: var(--dl-color-scheme-pink);
-            text-transform: lowercase;
-          }
-          .anunt4-text07 {
-            color: var(--dl-color-scheme-pink);
-            text-transform: lowercase;
-          }
-          .anunt4-text08 {
-            font-style: normal;
-            font-weight: 600;
-            text-transform: lowercase;
-          }
-          .anunt4-text09 {
-            font-style: normal;
-            font-weight: 600;
-            text-transform: capitalize;
-          }
-          .anunt4-text10 {
-            font-style: normal;
-            font-weight: 500;
-            margin-bottom: 42px;
-          }
           .anunt4-text12 {
             text-transform: lowercase;
           }
           .anunt4-text14 {
+            color: var(--dl-color-scheme-pink);
+          }
+          .anunt4-text15 {
+            color: var(--dl-color-scheme-pink);
+            text-transform: lowercase;
+          }
+          .anunt4-text17 {
+            color: var(--dl-color-scheme-pink);
+            text-transform: lowercase;
+          }
+          .anunt4-text18 {
+            font-style: normal;
+            font-weight: 600;
+            text-transform: lowercase;
+          }
+          .anunt4-text19 {
+            font-style: normal;
+            font-weight: 600;
+            text-transform: capitalize;
+          }
+          .anunt4-text20 {
+            font-style: normal;
+            font-weight: 500;
+            margin-bottom: 42px;
+          }
+          .anunt4-text22 {
+            text-transform: lowercase;
+          }
+          .anunt4-text24 {
             text-transform: lowercase;
           }
           .anunt4-btns-container {
@@ -331,7 +331,7 @@ const Anunt4 = (props) => {
             flex-direction: column;
             justify-content: flex-start;
           }
-          .anunt4-container1 {
+          .anunt4-container2 {
             width: 100%;
             height: 511px;
             display: flex;
@@ -340,7 +340,7 @@ const Anunt4 = (props) => {
             background-image: url('/home-1200h.webp');
             background-position: center;
           }
-          .anunt4-container1:hover {
+          .anunt4-container2:hover {
             transform: scale(1.02);
             box-shadow: 5px 5px 10px 0px rgba(111, 102, 102, 0.31);
           }
@@ -370,7 +370,7 @@ const Anunt4 = (props) => {
             font-size: 3rem;
             text-align: center;
           }
-          .anunt4-blog {
+          .anunt4-blog1 {
             width: 100%;
             height: var(--dl-size-size-maxwidth);
             display: flex;
@@ -386,19 +386,6 @@ const Anunt4 = (props) => {
             width: 1200px;
             height: var(--dl-size-size-maxwidth);
           }
-          .anunt4-blog1 {
-            width: 100%;
-            display: flex;
-            padding: var(--dl-space-space-threeunits);
-            max-width: var(--dl-size-size-maxwidth);
-            align-self: center;
-            align-items: center;
-            flex-direction: column;
-            justify-content: space-between;
-          }
-          .anunt4-component01 {
-            text-decoration: none;
-          }
           .anunt4-blog2 {
             width: 100%;
             display: flex;
@@ -409,7 +396,20 @@ const Anunt4 = (props) => {
             flex-direction: column;
             justify-content: space-between;
           }
-          .anunt4-component02 {
+          .anunt4-component11 {
+            text-decoration: none;
+          }
+          .anunt4-blog3 {
+            width: 100%;
+            display: flex;
+            padding: var(--dl-space-space-threeunits);
+            max-width: var(--dl-size-size-maxwidth);
+            align-self: center;
+            align-items: center;
+            flex-direction: column;
+            justify-content: space-between;
+          }
+          .anunt4-component12 {
             text-decoration: none;
           }
           .anunt4-numbers-banner {
@@ -419,23 +419,23 @@ const Anunt4 = (props) => {
             background-size: cover;
             background-image: url('/29bg-1500w.webp');
           }
-          .anunt4-container2 {
+          .anunt4-container3 {
             flex-direction: column;
           }
-          .anunt4-heading-container {
+          .anunt4-heading-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .anunt4-text20 {
+          .anunt4-text30 {
             color: var(--dl-color-scheme-white);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
-          .anunt4-text21 {
+          .anunt4-text31 {
             color: var(--dl-color-scheme-white);
             text-align: center;
           }
@@ -452,34 +452,34 @@ const Anunt4 = (props) => {
             flex-direction: column;
             padding-bottom: 150px;
           }
-          .anunt4-max-width1 {
+          .anunt4-max-width2 {
             flex-direction: column;
           }
-          .anunt4-heading-container1 {
+          .anunt4-heading-container2 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .anunt4-text23 {
+          .anunt4-text33 {
             text-align: center;
           }
-          .anunt4-text25 {
+          .anunt4-text35 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
           @media (max-width: 991px) {
-            .anunt4-max-width {
+            .anunt4-max-width1 {
               flex-direction: column;
             }
             .anunt4-content-container {
               max-width: 100%;
               margin-bottom: 42px;
             }
-            .anunt4-container1 {
+            .anunt4-container2 {
               width: 583px;
             }
             .anunt4-blue-background {
@@ -488,7 +488,7 @@ const Anunt4 = (props) => {
               bottom: 0px;
               min-height: 40%;
             }
-            .anunt4-blog {
+            .anunt4-blog1 {
               flex-direction: column;
             }
             .anunt4-numbers-container {
@@ -496,14 +496,10 @@ const Anunt4 = (props) => {
             }
           }
           @media (max-width: 767px) {
-            .anunt4-container1 {
+            .anunt4-container2 {
               width: 505px;
             }
             .anunt4-text-content {
-              padding-left: var(--dl-space-space-twounits);
-              padding-right: var(--dl-space-space-twounits);
-            }
-            .anunt4-blog {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
@@ -512,6 +508,10 @@ const Anunt4 = (props) => {
               padding-right: var(--dl-space-space-twounits);
             }
             .anunt4-blog2 {
+              padding-left: var(--dl-space-space-twounits);
+              padding-right: var(--dl-space-space-twounits);
+            }
+            .anunt4-blog3 {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
@@ -523,10 +523,10 @@ const Anunt4 = (props) => {
             }
           }
           @media (max-width: 479px) {
-            .anunt4-text {
+            .anunt4-text10 {
               font-size: 60px;
             }
-            .anunt4-container1 {
+            .anunt4-container2 {
               width: 424px;
             }
             .anunt4-text-content {
@@ -535,7 +535,7 @@ const Anunt4 = (props) => {
               padding-right: var(--dl-space-space-unit);
               padding-bottom: var(--dl-space-space-twounits);
             }
-            .anunt4-blog {
+            .anunt4-blog1 {
               height: 515px;
               padding-top: var(--dl-space-space-twounits);
               padding-left: var(--dl-space-space-unit);
@@ -546,13 +546,13 @@ const Anunt4 = (props) => {
               width: var(--dl-size-size-xxlarge);
               height: 100%;
             }
-            .anunt4-blog1 {
+            .anunt4-blog2 {
               padding-top: var(--dl-space-space-twounits);
               padding-left: var(--dl-space-space-unit);
               padding-right: var(--dl-space-space-unit);
               padding-bottom: var(--dl-space-space-twounits);
             }
-            .anunt4-blog2 {
+            .anunt4-blog3 {
               padding-top: var(--dl-space-space-twounits);
               padding-left: var(--dl-space-space-unit);
               padding-right: var(--dl-space-space-unit);

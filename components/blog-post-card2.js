@@ -7,27 +7,27 @@ const BlogPostCard2 = (props) => {
     <>
       <div className={`blog-post-card2-blog-post-card ${props.rootClassName} `}>
         <img
-          alt={props.image_alt}
-          src={props.image_src}
+          alt={props.imageAlt}
+          src={props.imageSrc}
           image_src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fHBvcnRyYWl0fGVufDB8fHx8MTYyNjM3ODk3Mg&amp;ixlib=rb-1.2.1&amp;h=1000"
-          className="blog-post-card2-image"
+          className="blog-post-card2-image1"
         />
-        <div className="blog-post-card2-container">
-          <div className="blog-post-card2-container1">
-            <span className="blog-post-card2-text">{props.label}</span>
-          </div>
-          <h1 className="blog-post-card2-text1">{props.title}</h1>
-          <span className="blog-post-card2-text2">{props.description}</span>
+        <div className="blog-post-card2-container1">
           <div className="blog-post-card2-container2">
+            <span className="blog-post-card2-text1">{props.label}</span>
+          </div>
+          <h1 className="blog-post-card2-text2">{props.title}</h1>
+          <span className="blog-post-card2-text3">{props.description}</span>
+          <div className="blog-post-card2-container3">
             <div className="blog-post-card2-profile">
               <img
-                alt={props.profile_alt}
-                src={props.profile_src}
-                className="blog-post-card2-image1"
+                alt={props.profileAlt}
+                src={props.profileSrc}
+                className="blog-post-card2-image2"
               />
-              <span className="blog-post-card2-text3">{props.author}</span>
+              <span className="blog-post-card2-text4">{props.author}</span>
             </div>
-            <span className="blog-post-card2-text4">Vezi articolul -&gt;</span>
+            <span className="blog-post-card2-text5">Vezi articolul -&gt;</span>
           </div>
         </div>
       </div>
@@ -46,14 +46,14 @@ const BlogPostCard2 = (props) => {
           .blog-post-card2-blog-post-card:hover {
             transform: scale(1.02);
           }
-          .blog-post-card2-image {
+          .blog-post-card2-image1 {
             width: 350px;
             height: 350px;
             object-fit: cover;
             flex-shrink: 0;
             border-radius: 0px;
           }
-          .blog-post-card2-container {
+          .blog-post-card2-container1 {
             display: flex;
             align-items: flex-start;
             padding-top: var(--dl-space-space-twounits);
@@ -63,7 +63,7 @@ const BlogPostCard2 = (props) => {
             padding-bottom: var(--dl-space-space-twounits);
             justify-content: space-between;
           }
-          .blog-post-card2-container1 {
+          .blog-post-card2-container2 {
             width: 100%;
             display: flex;
             align-items: flex-start;
@@ -71,20 +71,20 @@ const BlogPostCard2 = (props) => {
             flex-direction: row;
             justify-content: space-between;
           }
-          .blog-post-card2-text {
+          .blog-post-card2-text1 {
             color: #595959;
             font-weight: 600;
             text-transform: uppercase;
           }
-          .blog-post-card2-text1 {
+          .blog-post-card2-text2 {
             margin-bottom: var(--dl-space-space-twounits);
           }
-          .blog-post-card2-text2 {
+          .blog-post-card2-text3 {
             color: #595959;
             font-size: 1.25rem;
             margin-bottom: var(--dl-space-space-twounits);
           }
-          .blog-post-card2-container2 {
+          .blog-post-card2-container3 {
             width: 100%;
             display: flex;
             align-items: center;
@@ -95,59 +95,59 @@ const BlogPostCard2 = (props) => {
             display: flex;
             align-items: center;
           }
-          .blog-post-card2-image1 {
+          .blog-post-card2-image2 {
             width: var(--dl-size-size-small);
             height: var(--dl-size-size-small);
             object-fit: cover;
             border-radius: var(--dl-radius-radius-round);
           }
-          .blog-post-card2-text3 {
+          .blog-post-card2-text4 {
             font-style: normal;
             font-weight: 600;
             margin-left: var(--dl-space-space-halfunit);
           }
-          .blog-post-card2-text4 {
+          .blog-post-card2-text5 {
             color: var(--dl-color-scheme-black);
             font-style: normal;
             font-weight: 500;
           }
-          .blog-post-card2-root-class-name {
+          .blog-post-card2root-class-name {
             max-width: 100%;
           }
-          .blog-post-card2-root-class-name1 {
+          .blog-post-card2root-class-name1 {
             max-width: 100%;
           }
-          .blog-post-card2-root-class-name2 {
+          .blog-post-card2root-class-name2 {
             max-width: 100%;
           }
-          .blog-post-card2-root-class-name3 {
+          .blog-post-card2root-class-name3 {
             max-width: 100%;
           }
-          .blog-post-card2-root-class-name4 {
+          .blog-post-card2root-class-name4 {
             max-width: 100%;
           }
-          .blog-post-card2-root-class-name5 {
+          .blog-post-card2root-class-name5 {
             max-width: 100%;
           }
-          .blog-post-card2-root-class-name6 {
+          .blog-post-card2root-class-name6 {
             max-width: 100%;
           }
-          .blog-post-card2-root-class-name7 {
+          .blog-post-card2root-class-name7 {
             max-width: 100%;
           }
-          .blog-post-card2-root-class-name8 {
+          .blog-post-card2root-class-name8 {
             max-width: 100%;
           }
-          .blog-post-card2-root-class-name9 {
+          .blog-post-card2root-class-name9 {
             max-width: 100%;
           }
-          .blog-post-card2-root-class-name10 {
+          .blog-post-card2root-class-name10 {
             max-width: 100%;
           }
-          .blog-post-card2-root-class-name11 {
+          .blog-post-card2root-class-name11 {
             max-width: 100%;
           }
-          .blog-post-card2-root-class-name12 {
+          .blog-post-card2root-class-name12 {
             max-width: 100%;
           }
           @media (max-width: 991px) {
@@ -160,24 +160,24 @@ const BlogPostCard2 = (props) => {
             .blog-post-card2-blog-post-card {
               flex-direction: column;
             }
-            .blog-post-card2-image {
+            .blog-post-card2-image1 {
               width: 100%;
               display: none;
             }
           }
           @media (max-width: 479px) {
-            .blog-post-card2-image {
+            .blog-post-card2-image1 {
               display: none;
             }
-            .blog-post-card2-container2 {
+            .blog-post-card2-container3 {
               padding-left: 0px;
               padding-right: 0px;
             }
-            .blog-post-card2-text3 {
+            .blog-post-card2-text4 {
               font-style: normal;
               font-weight: 300;
             }
-            .blog-post-card2-text4 {
+            .blog-post-card2-text5 {
               width: auto;
               font-style: normal;
               font-weight: 400;
@@ -191,11 +191,11 @@ const BlogPostCard2 = (props) => {
 
 BlogPostCard2.defaultProps = {
   title: 'ADUNAREA GENERALA EXTRAORDINARA A ACTIONARILOR',
-  profile_src: '/logoblue.svg',
-  image_alt: 'image',
+  profileSrc: '60a53904-1e18-4c3b-9bc7-1aabdfa99c5d',
+  imageAlt: 'image',
   rootClassName: '',
-  image_src: '/news-1500w.webp',
-  profile_alt: 'profile',
+  imageSrc: '/news-1500w.webp',
+  profileAlt: 'profile',
   label: 'NOUTATI',
   description:
     'S.A."Combinatul Auto nr.4 din Chişinău" aduce la cunoştinţa acţionarilor săi ,că la data de 04 octombrie, 2023, la orele 10-00 va avea loc Adunarea Generală Extraordinară a acţionarilor săi pe adresa: mun.Chişinău,str.Pădurii 13, cu următoarea ordine de zi:',
@@ -204,11 +204,11 @@ BlogPostCard2.defaultProps = {
 
 BlogPostCard2.propTypes = {
   title: PropTypes.string,
-  profile_src: PropTypes.string,
-  image_alt: PropTypes.string,
+  profileSrc: PropTypes.string,
+  imageAlt: PropTypes.string,
   rootClassName: PropTypes.string,
-  image_src: PropTypes.string,
-  profile_alt: PropTypes.string,
+  imageSrc: PropTypes.string,
+  profileAlt: PropTypes.string,
   label: PropTypes.string,
   description: PropTypes.string,
   author: PropTypes.string,

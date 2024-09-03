@@ -8,7 +8,7 @@ import Footer from '../components/footer'
 const ReparatiiAuto = (props) => {
   return (
     <>
-      <div className="reparatii-auto-container">
+      <div className="reparatii-auto-container1">
         <Head>
           <title>Reparatii-Auto - SA Combinatul Auto Nr.4 din Chișinău</title>
           <meta
@@ -25,18 +25,18 @@ const ReparatiiAuto = (props) => {
           />
           <meta
             property="og:image"
-            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80"
+            content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/9420d205-bbd0-411e-a57c-0f68008e7daf/ea494eb0-6cf8-464c-b070-cddce041bc5c?org_if_sml=1&amp;q=80&amp;force_format=original"
           />
         </Head>
         <Navigation
-          image_src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
-          rootClassName="navigation-root-class-name8"
+          imageSrc="navigationhttps://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+          rootClassName="navigationroot-class-name8"
         ></Navigation>
         <main className="reparatii-auto-main">
           <div id="transport" className="reparatii-auto-hero section-container">
-            <div className="reparatii-auto-max-width max-content-container">
-              <div className="reparatii-auto-content-container">
-                <h1 className="reparatii-auto-text">
+            <div className="reparatii-auto-max-width1 max-content-container">
+              <div className="reparatii-auto-content-container1">
+                <h1 className="reparatii-auto-text10">
                   <span>
                     COMBINATUL AUTO
                     <span
@@ -45,10 +45,10 @@ const ReparatiiAuto = (props) => {
                       }}
                     />
                   </span>
-                  <span className="reparatii-auto-text02">nr.4</span>
+                  <span className="reparatii-auto-text12">nr.4</span>
                   <br></br>
-                  <span className="reparatii-auto-text04">s</span>
-                  <span className="reparatii-auto-text05">
+                  <span className="reparatii-auto-text14">s</span>
+                  <span className="reparatii-auto-text15">
                     ervicii de
                     <span
                       dangerouslySetInnerHTML={{
@@ -57,22 +57,22 @@ const ReparatiiAuto = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="reparatii-auto-text07">calitate</span>
+                  <span className="reparatii-auto-text17">calitate</span>
                   <br></br>
-                  <span className="reparatii-auto-text08">IN</span>
-                  <span className="reparatii-auto-text09">
+                  <span className="reparatii-auto-text18">IN</span>
+                  <span className="reparatii-auto-text19">
                     <span
                       dangerouslySetInnerHTML={{
                         __html: ' ',
                       }}
                     />
                   </span>
-                  <span className="reparatii-auto-text10">Moldova</span>
-                  <span className="reparatii-auto-text11"></span>
+                  <span className="reparatii-auto-text20">Moldova</span>
+                  <span className="reparatii-auto-text21"></span>
                 </h1>
-                <span className="reparatii-auto-text12">
+                <span className="reparatii-auto-text22">
                   <span>N</span>
-                  <span className="reparatii-auto-text14">
+                  <span className="reparatii-auto-text24">
                     oi garantam executarea rapida și la un nivel
                     <span
                       dangerouslySetInnerHTML={{
@@ -81,7 +81,7 @@ const ReparatiiAuto = (props) => {
                     />
                   </span>
                   <br></br>
-                  <span className="reparatii-auto-text16">
+                  <span className="reparatii-auto-text26">
                     inalt a comenzilor Dvs.
                     <span
                       dangerouslySetInnerHTML={{
@@ -90,7 +90,7 @@ const ReparatiiAuto = (props) => {
                     />
                   </span>
                 </span>
-                <div className="reparatii-auto-btns-container">
+                <div className="reparatii-auto-btns-container1">
                   <a
                     href="https://combinatulauto.md/#servicii"
                     target="_blank"
@@ -110,18 +110,18 @@ const ReparatiiAuto = (props) => {
                 </div>
               </div>
               <div className="reparatii-auto-video-container">
-                <div className="reparatii-auto-container1"></div>
+                <div className="reparatii-auto-container2"></div>
               </div>
             </div>
             <div className="reparatii-auto-blue-background"></div>
           </div>
           <div className="reparatii-auto-text-content">
-            <h1 className="reparatii-auto-text17">reparatii auto</h1>
-            <span className="reparatii-auto-text18">
+            <h1 className="reparatii-auto-text27">reparatii auto</h1>
+            <span className="reparatii-auto-text28">
               servicii la preturi accesibile
             </span>
-            <span className="reparatii-auto-text19">
-              <span className="reparatii-auto-text20">
+            <span className="reparatii-auto-text29">
+              <span className="reparatii-auto-text30">
                 Companiile
                 <span
                   dangerouslySetInnerHTML={{
@@ -129,7 +129,7 @@ const ReparatiiAuto = (props) => {
                   }}
                 />
               </span>
-              <span className="reparatii-auto-text21">
+              <span className="reparatii-auto-text31">
                 de transport pot beneficia de un complex de servicii de
                 reparatie a autocarelor,
                 <span
@@ -139,7 +139,7 @@ const ReparatiiAuto = (props) => {
                 />
               </span>
               <br></br>
-              <span className="reparatii-auto-text23">
+              <span className="reparatii-auto-text33">
                 camioanelor
                 <span
                   dangerouslySetInnerHTML={{
@@ -147,7 +147,7 @@ const ReparatiiAuto = (props) => {
                   }}
                 />
               </span>
-              <span className="reparatii-auto-text24">
+              <span className="reparatii-auto-text34">
                 Avind o echipA de mecanici cu zeci de ani de experienta, precum
                 si utilajul necesar,
                 <span
@@ -157,7 +157,7 @@ const ReparatiiAuto = (props) => {
                 />
               </span>
               <br></br>
-              <span className="reparatii-auto-text26">
+              <span className="reparatii-auto-text36">
                 la noi puteti beneficia de servicii calitative si la preturi
                 avantajoase pentru buna funcționare a camionului, a remorcii și
                 a anvelopelor.
@@ -165,7 +165,7 @@ const ReparatiiAuto = (props) => {
               <br></br>
               <span></span>
               <br></br>
-              <span className="reparatii-auto-text28">
+              <span className="reparatii-auto-text38">
                 Pe
                 <span
                   dangerouslySetInnerHTML={{
@@ -173,27 +173,27 @@ const ReparatiiAuto = (props) => {
                   }}
                 />
               </span>
-              <span className="reparatii-auto-text29">
+              <span className="reparatii-auto-text39">
                 tritoriul sunt mai multe ateliere de:
               </span>
               <br></br>
-              <span className="reparatii-auto-text30">
+              <span className="reparatii-auto-text40">
                 -Diagnostica computerizata
               </span>
               <br></br>
-              <span className="reparatii-auto-text31">
+              <span className="reparatii-auto-text41">
                 - verificări sisteme frânare, direcţie şi suspenie
               </span>
               <br></br>
-              <span className="reparatii-auto-text32">
+              <span className="reparatii-auto-text42">
                 - diagnosticarea sistemelor ABS-EBS
               </span>
               <br></br>
-              <span className="reparatii-auto-text33">
+              <span className="reparatii-auto-text43">
                 - reparatiea motoarelor
               </span>
               <br></br>
-              <span className="reparatii-auto-text34">
+              <span className="reparatii-auto-text44">
                 - reparatia instalaţiilor de aer şi frânare, axe – punți,
                 <span
                   dangerouslySetInnerHTML={{
@@ -202,19 +202,19 @@ const ReparatiiAuto = (props) => {
                 />
               </span>
               <br></br>
-              <span className="reparatii-auto-text35">
+              <span className="reparatii-auto-text45">
                 - reparatia cutii de viteze, diferenţiale,
               </span>
               <br></br>
-              <span className="reparatii-auto-text36">
+              <span className="reparatii-auto-text46">
                 - reparatia sistemelor electrice,
               </span>
               <br></br>
-              <span className="reparatii-auto-text37">
+              <span className="reparatii-auto-text47">
                 - reparatia sistemului de frinare
               </span>
               <br></br>
-              <span className="reparatii-auto-text38">
+              <span className="reparatii-auto-text48">
                 - servicii de sudare,
                 <span
                   dangerouslySetInnerHTML={{
@@ -223,16 +223,16 @@ const ReparatiiAuto = (props) => {
                 />
               </span>
               <br></br>
-              <span className="reparatii-auto-text39">
+              <span className="reparatii-auto-text49">
                 - atelier de vopsire.
               </span>
               <br></br>
-              <span className="reparatii-auto-text40">
+              <span className="reparatii-auto-text50">
                 - service complet de roţi (montare, demontare, echilibrare,
                 recanelare, vulcanizare)
               </span>
               <br></br>
-              <span className="reparatii-auto-text41">
+              <span className="reparatii-auto-text51">
                 - Service reparatie remorci &amp; semiremorci
               </span>
               <br></br>
@@ -240,10 +240,10 @@ const ReparatiiAuto = (props) => {
             </span>
           </div>
           <div className="reparatii-auto-photo-block">
-            <div className="reparatii-auto-container2">
-              <div className="reparatii-auto-pricing-card"></div>
+            <div className="reparatii-auto-container3">
               <div className="reparatii-auto-pricing-card1"></div>
               <div className="reparatii-auto-pricing-card2"></div>
+              <div className="reparatii-auto-pricing-card3"></div>
             </div>
           </div>
           <div className="reparatii-auto-location">
@@ -253,26 +253,26 @@ const ReparatiiAuto = (props) => {
               src="/cars-1500w.webp"
               className="reparatii-auto-image"
             />
-            <div className="reparatii-auto-content-container1 section-container">
-              <div className="reparatii-auto-container3">
-                <span className="reparatii-auto-text43">REPARAtIE AUTO</span>
-                <span className="reparatii-auto-text44">Calitativ</span>
-                <div className="reparatii-auto-container4">
-                  <span className="reparatii-auto-text45">
+            <div className="reparatii-auto-content-container2 section-container">
+              <div className="reparatii-auto-container4">
+                <span className="reparatii-auto-text53">REPARAtIE AUTO</span>
+                <span className="reparatii-auto-text54">Calitativ</span>
+                <div className="reparatii-auto-container5">
+                  <span className="reparatii-auto-text55">
                     <span>motoare</span>
                   </span>
-                  <span className="reparatii-auto-text47">
+                  <span className="reparatii-auto-text57">
                     <span>caroserii</span>
                   </span>
-                  <span className="reparatii-auto-text49">
+                  <span className="reparatii-auto-text59">
                     <span>diagnosticare</span>
                   </span>
                 </div>
-                <div className="reparatii-auto-container5">
-                  <span className="reparatii-auto-text51">
+                <div className="reparatii-auto-container6">
+                  <span className="reparatii-auto-text61">
                     oferim servicii de reparație auto
                   </span>
-                  <span className="reparatii-auto-text52">
+                  <span className="reparatii-auto-text62">
                     <span>
                       {' '}
                       la toate tipurile de mașini, secția reparații este dotată
@@ -298,7 +298,7 @@ const ReparatiiAuto = (props) => {
                       />
                     </span>
                   </span>
-                  <div className="reparatii-auto-btns-container1">
+                  <div className="reparatii-auto-btns-container2">
                     <a
                       href="#contacts"
                       className="reparatii-auto-register button-secondary button button-md"
@@ -317,9 +317,9 @@ const ReparatiiAuto = (props) => {
             </div>
           </div>
           <div className="reparatii-auto-numbers-banner section-container">
-            <div className="reparatii-auto-container6 max-content-container">
-              <div className="reparatii-auto-heading-container">
-                <span className="reparatii-auto-text56">
+            <div className="reparatii-auto-container7 max-content-container">
+              <div className="reparatii-auto-heading-container1">
+                <span className="reparatii-auto-text66">
                   Personalul intreprinderii reprezinta o echipa profesionista,
                   cu experienta vasta in domeniu.
                   <span
@@ -328,7 +328,7 @@ const ReparatiiAuto = (props) => {
                     }}
                   />
                 </span>
-                <h1 className="reparatii-auto-text57 Heading2">
+                <h1 className="reparatii-auto-text67 Heading2">
                   <span>
                     {' '}
                     servicii la preturi accesibile
@@ -345,38 +345,38 @@ const ReparatiiAuto = (props) => {
                 <NumbersCard
                   text="ani"
                   number="12"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="evenimente"
                   number="64"
-                  image_src="/interface%20calendar%20favorite-200h.png"
+                  imageSrc="/interface%20calendar%20favorite-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="companii"
                   number="234"
-                  image_src="/shopping%20bag%20suit%20case-200h.png"
+                  imageSrc="/shopping%20bag%20suit%20case-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="orase"
                   number="14"
-                  image_src="/travel%20map%20location%20pin-200h.png"
+                  imageSrc="/travel%20map%20location%20pin-200h.png"
                 ></NumbersCard>
                 <NumbersCard
                   text="diagnosticari"
                   number="1,071"
-                  image_src="/interface%20time%20reset-200h.png"
+                  imageSrc="/interface%20time%20reset-200h.png"
                 ></NumbersCard>
               </div>
             </div>
           </div>
           <div className="reparatii-auto-previous-events section-container">
-            <div className="reparatii-auto-max-width1 max-content-container">
-              <div className="reparatii-auto-heading-container1">
-                <h1 className="reparatii-auto-text59 Heading2">
+            <div className="reparatii-auto-max-width2 max-content-container">
+              <div className="reparatii-auto-heading-container2">
+                <h1 className="reparatii-auto-text69 Heading2">
                   <span>PARTENERUL TAU DE INCREDERE</span>
                 </h1>
-                <span className="reparatii-auto-text61">
+                <span className="reparatii-auto-text71">
                   {' '}
                   garantam executarea rapida si calitativa a comenzilor
                   Dumneavoastra
@@ -385,11 +385,11 @@ const ReparatiiAuto = (props) => {
             </div>
           </div>
         </main>
-        <Footer rootClassName="footer-root-class-name8"></Footer>
+        <Footer rootClassName="footerroot-class-name8"></Footer>
       </div>
       <style jsx>
         {`
-          .reparatii-auto-container {
+          .reparatii-auto-container1 {
             width: 100%;
             display: flex;
             position: relative;
@@ -409,11 +409,11 @@ const ReparatiiAuto = (props) => {
             position: relative;
             padding-top: 128px;
           }
-          .reparatii-auto-max-width {
+          .reparatii-auto-max-width1 {
             z-index: 1;
             align-items: stretch;
           }
-          .reparatii-auto-content-container {
+          .reparatii-auto-content-container1 {
             flex: 1;
             display: flex;
             max-width: 45%;
@@ -421,7 +421,7 @@ const ReparatiiAuto = (props) => {
             flex-direction: column;
             justify-content: center;
           }
-          .reparatii-auto-text {
+          .reparatii-auto-text10 {
             font-size: 60px;
             font-style: normal;
             font-family: IBM Plex Sans Condensed;
@@ -431,50 +431,50 @@ const ReparatiiAuto = (props) => {
             text-transform: uppercase;
             text-decoration: none;
           }
-          .reparatii-auto-text02 {
+          .reparatii-auto-text12 {
             text-transform: lowercase;
           }
-          .reparatii-auto-text04 {
+          .reparatii-auto-text14 {
             color: var(--dl-color-scheme-pink);
           }
-          .reparatii-auto-text05 {
-            color: var(--dl-color-scheme-pink);
-            text-transform: lowercase;
-          }
-          .reparatii-auto-text07 {
+          .reparatii-auto-text15 {
             color: var(--dl-color-scheme-pink);
             text-transform: lowercase;
           }
-          .reparatii-auto-text08 {
+          .reparatii-auto-text17 {
+            color: var(--dl-color-scheme-pink);
+            text-transform: lowercase;
+          }
+          .reparatii-auto-text18 {
             font-style: normal;
             font-weight: 600;
             text-transform: lowercase;
           }
-          .reparatii-auto-text09 {
+          .reparatii-auto-text19 {
             font-style: normal;
             font-weight: 600;
           }
-          .reparatii-auto-text10 {
+          .reparatii-auto-text20 {
             font-style: normal;
             font-weight: 600;
             text-transform: capitalize;
           }
-          .reparatii-auto-text11 {
+          .reparatii-auto-text21 {
             font-style: normal;
             font-weight: 600;
           }
-          .reparatii-auto-text12 {
+          .reparatii-auto-text22 {
             font-style: normal;
             font-weight: 500;
             margin-bottom: 42px;
           }
-          .reparatii-auto-text14 {
+          .reparatii-auto-text24 {
             text-transform: lowercase;
           }
-          .reparatii-auto-text16 {
+          .reparatii-auto-text26 {
             text-transform: lowercase;
           }
-          .reparatii-auto-btns-container {
+          .reparatii-auto-btns-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: flex-start;
@@ -494,7 +494,7 @@ const ReparatiiAuto = (props) => {
             flex-direction: column;
             justify-content: flex-start;
           }
-          .reparatii-auto-container1 {
+          .reparatii-auto-container2 {
             width: 100%;
             height: 511px;
             display: flex;
@@ -503,7 +503,7 @@ const ReparatiiAuto = (props) => {
             background-image: url('/home-600h.webp');
             background-position: center;
           }
-          .reparatii-auto-container1:hover {
+          .reparatii-auto-container2:hover {
             transform: scale(1.02);
             box-shadow: 5px 5px 10px 0px rgba(111, 102, 102, 0.31);
           }
@@ -529,53 +529,27 @@ const ReparatiiAuto = (props) => {
             padding-bottom: var(--dl-space-space-twounits);
             justify-content: space-between;
           }
-          .reparatii-auto-text17 {
+          .reparatii-auto-text27 {
             font-size: 3rem;
             text-align: center;
           }
-          .reparatii-auto-text18 {
+          .reparatii-auto-text28 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
-          .reparatii-auto-text19 {
+          .reparatii-auto-text29 {
             max-width: var(--dl-size-size-maxwidth);
             margin-top: var(--dl-space-space-threeunits);
             text-align: center;
             margin-bottom: var(--dl-space-space-threeunits);
             text-transform: uppercase;
           }
-          .reparatii-auto-text20 {
-            text-transform: capitalize;
-          }
-          .reparatii-auto-text21 {
-            text-transform: lowercase;
-          }
-          .reparatii-auto-text23 {
-            text-transform: lowercase;
-          }
-          .reparatii-auto-text24 {
-            text-transform: lowercase;
-          }
-          .reparatii-auto-text26 {
-            text-transform: lowercase;
-          }
-          .reparatii-auto-text28 {
-            font-weight: 700;
-            text-transform: capitalize;
-          }
-          .reparatii-auto-text29 {
-            font-weight: 700;
-            text-transform: lowercase;
-          }
           .reparatii-auto-text30 {
-            text-transform: lowercase;
+            text-transform: capitalize;
           }
           .reparatii-auto-text31 {
-            text-transform: lowercase;
-          }
-          .reparatii-auto-text32 {
             text-transform: lowercase;
           }
           .reparatii-auto-text33 {
@@ -584,25 +558,51 @@ const ReparatiiAuto = (props) => {
           .reparatii-auto-text34 {
             text-transform: lowercase;
           }
-          .reparatii-auto-text35 {
-            text-transform: lowercase;
-          }
           .reparatii-auto-text36 {
             text-transform: lowercase;
           }
-          .reparatii-auto-text37 {
-            text-transform: lowercase;
-          }
           .reparatii-auto-text38 {
-            text-transform: lowercase;
+            font-weight: 700;
+            text-transform: capitalize;
           }
           .reparatii-auto-text39 {
+            font-weight: 700;
             text-transform: lowercase;
           }
           .reparatii-auto-text40 {
             text-transform: lowercase;
           }
           .reparatii-auto-text41 {
+            text-transform: lowercase;
+          }
+          .reparatii-auto-text42 {
+            text-transform: lowercase;
+          }
+          .reparatii-auto-text43 {
+            text-transform: lowercase;
+          }
+          .reparatii-auto-text44 {
+            text-transform: lowercase;
+          }
+          .reparatii-auto-text45 {
+            text-transform: lowercase;
+          }
+          .reparatii-auto-text46 {
+            text-transform: lowercase;
+          }
+          .reparatii-auto-text47 {
+            text-transform: lowercase;
+          }
+          .reparatii-auto-text48 {
+            text-transform: lowercase;
+          }
+          .reparatii-auto-text49 {
+            text-transform: lowercase;
+          }
+          .reparatii-auto-text50 {
+            text-transform: lowercase;
+          }
+          .reparatii-auto-text51 {
             text-transform: lowercase;
           }
           .reparatii-auto-photo-block {
@@ -613,7 +613,7 @@ const ReparatiiAuto = (props) => {
             background-image: url('/29bg-1500w.webp');
             background-position: center;
           }
-          .reparatii-auto-container2 {
+          .reparatii-auto-container3 {
             width: 100%;
             display: flex;
             padding: var(--dl-space-space-threeunits);
@@ -622,7 +622,7 @@ const ReparatiiAuto = (props) => {
             background-size: cover;
             justify-content: center;
           }
-          .reparatii-auto-pricing-card {
+          .reparatii-auto-pricing-card1 {
             width: 100%;
             display: flex;
             padding: var(--dl-space-space-threeunits);
@@ -645,11 +645,11 @@ const ReparatiiAuto = (props) => {
             background-image: url('/123-1200w.webp');
             background-position: center;
           }
-          .reparatii-auto-pricing-card:hover {
+          .reparatii-auto-pricing-card1:hover {
             transform: scale(1.02);
             box-shadow: 5px 5px 10px 0px #1d5890;
           }
-          .reparatii-auto-pricing-card1 {
+          .reparatii-auto-pricing-card2 {
             width: 100%;
             display: flex;
             padding: var(--dl-space-space-twounits);
@@ -667,11 +667,11 @@ const ReparatiiAuto = (props) => {
             background-image: url('/home-600h.webp');
             background-position: center;
           }
-          .reparatii-auto-pricing-card1:hover {
+          .reparatii-auto-pricing-card2:hover {
             transform: scale(1.02);
             box-shadow: 5px 5px 10px 0px #1d5890;
           }
-          .reparatii-auto-pricing-card2 {
+          .reparatii-auto-pricing-card3 {
             width: 100%;
             display: flex;
             padding: var(--dl-space-space-threeunits);
@@ -692,7 +692,7 @@ const ReparatiiAuto = (props) => {
             background-image: url('/16-300h-1200w.webp');
             background-position: center;
           }
-          .reparatii-auto-pricing-card2:hover {
+          .reparatii-auto-pricing-card3:hover {
             transform: scale(1.02);
             box-shadow: 5px 5px 10px 0px #1d5890;
           }
@@ -707,7 +707,7 @@ const ReparatiiAuto = (props) => {
             max-height: 950px;
             object-fit: cover;
           }
-          .reparatii-auto-content-container1 {
+          .reparatii-auto-content-container2 {
             flex: 1;
             display: flex;
             align-items: stretch;
@@ -716,14 +716,14 @@ const ReparatiiAuto = (props) => {
             flex-direction: row;
             background-color: var(--dl-color-scheme-black);
           }
-          .reparatii-auto-container3 {
+          .reparatii-auto-container4 {
             flex: 0 0 auto;
             width: 100%;
             display: flex;
             align-items: flex-start;
             flex-direction: column;
           }
-          .reparatii-auto-text43 {
+          .reparatii-auto-text53 {
             color: var(--dl-color-scheme-white);
             font-size: 56px;
             font-style: normal;
@@ -737,20 +737,20 @@ const ReparatiiAuto = (props) => {
             padding-bottom: 6px;
             background-color: var(--dl-color-scheme-lightblue);
           }
-          .reparatii-auto-text44 {
+          .reparatii-auto-text54 {
             color: var(--dl-color-scheme-white);
             font-size: 56px;
             font-style: normal;
             font-weight: 300;
             line-height: 1.1;
           }
-          .reparatii-auto-container4 {
+          .reparatii-auto-container5 {
             display: flex;
             align-items: flex-end;
             margin-bottom: var(--dl-space-space-twounits);
             flex-direction: column;
           }
-          .reparatii-auto-text45 {
+          .reparatii-auto-text55 {
             color: var(--dl-color-scheme-pink);
             font-size: 56px;
             font-style: normal;
@@ -758,7 +758,7 @@ const ReparatiiAuto = (props) => {
             line-height: 1.1;
             margin-left: var(--dl-space-space-fiveunits);
           }
-          .reparatii-auto-text47 {
+          .reparatii-auto-text57 {
             color: var(--dl-color-scheme-pink);
             font-size: 56px;
             font-style: normal;
@@ -766,7 +766,7 @@ const ReparatiiAuto = (props) => {
             line-height: 1.1;
             margin-left: -36px;
           }
-          .reparatii-auto-text49 {
+          .reparatii-auto-text59 {
             color: var(--dl-color-scheme-pink);
             font-size: 56px;
             font-style: normal;
@@ -774,7 +774,7 @@ const ReparatiiAuto = (props) => {
             line-height: 1.1;
             margin-left: var(--dl-space-space-fiveunits);
           }
-          .reparatii-auto-container5 {
+          .reparatii-auto-container6 {
             flex: 1;
             width: 100%;
             display: flex;
@@ -783,20 +783,20 @@ const ReparatiiAuto = (props) => {
             margin-left: 124px;
             flex-direction: column;
           }
-          .reparatii-auto-text51 {
+          .reparatii-auto-text61 {
             color: var(--dl-color-scheme-white);
             font-size: 18px;
             font-style: normal;
             font-weight: 600;
             margin-bottom: var(--dl-space-space-halfunit);
           }
-          .reparatii-auto-text52 {
+          .reparatii-auto-text62 {
             color: var(--dl-color-scheme-white);
             text-align: justify;
             margin-bottom: var(--dl-space-space-twounits);
             text-transform: none;
           }
-          .reparatii-auto-btns-container1 {
+          .reparatii-auto-btns-container2 {
             flex: 0 0 auto;
             display: flex;
             align-items: flex-start;
@@ -820,23 +820,23 @@ const ReparatiiAuto = (props) => {
             background-size: cover;
             background-image: url('/blue-bg-1500w.webp');
           }
-          .reparatii-auto-container6 {
+          .reparatii-auto-container7 {
             flex-direction: column;
           }
-          .reparatii-auto-heading-container {
+          .reparatii-auto-heading-container1 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .reparatii-auto-text56 {
+          .reparatii-auto-text66 {
             color: var(--dl-color-scheme-white);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
-          .reparatii-auto-text57 {
+          .reparatii-auto-text67 {
             color: var(--dl-color-scheme-white);
             text-align: center;
           }
@@ -853,34 +853,34 @@ const ReparatiiAuto = (props) => {
             flex-direction: column;
             padding-bottom: 150px;
           }
-          .reparatii-auto-max-width1 {
+          .reparatii-auto-max-width2 {
             flex-direction: column;
           }
-          .reparatii-auto-heading-container1 {
+          .reparatii-auto-heading-container2 {
             flex: 0 0 auto;
             display: flex;
             align-items: center;
             margin-bottom: var(--dl-space-space-fourunits);
             flex-direction: column;
           }
-          .reparatii-auto-text59 {
+          .reparatii-auto-text69 {
             text-align: center;
           }
-          .reparatii-auto-text61 {
+          .reparatii-auto-text71 {
             color: var(--dl-color-scheme-darkgray);
             font-style: normal;
             text-align: center;
             font-weight: 500;
           }
           @media (max-width: 991px) {
-            .reparatii-auto-max-width {
+            .reparatii-auto-max-width1 {
               flex-direction: column;
             }
-            .reparatii-auto-content-container {
+            .reparatii-auto-content-container1 {
               max-width: 100%;
               margin-bottom: 42px;
             }
-            .reparatii-auto-container1 {
+            .reparatii-auto-container2 {
               width: 583px;
             }
             .reparatii-auto-blue-background {
@@ -889,21 +889,21 @@ const ReparatiiAuto = (props) => {
               bottom: 0px;
               min-height: 40%;
             }
-            .reparatii-auto-text19 {
+            .reparatii-auto-text29 {
               max-width: 100%;
             }
-            .reparatii-auto-pricing-card {
+            .reparatii-auto-pricing-card1 {
               width: 100%;
               padding: var(--dl-space-space-twounits);
               max-width: 100%;
               align-items: center;
             }
-            .reparatii-auto-pricing-card1 {
+            .reparatii-auto-pricing-card2 {
               width: 100%;
               max-width: 100%;
               align-items: center;
             }
-            .reparatii-auto-pricing-card2 {
+            .reparatii-auto-pricing-card3 {
               width: 100%;
               max-width: 100%;
               align-items: center;
@@ -914,15 +914,15 @@ const ReparatiiAuto = (props) => {
             .reparatii-auto-image {
               width: 100%;
             }
-            .reparatii-auto-content-container1 {
+            .reparatii-auto-content-container2 {
               padding-top: 0px;
               padding-left: var(--dl-space-space-threeunits);
             }
-            .reparatii-auto-container3 {
+            .reparatii-auto-container4 {
               margin-top: -100px;
               align-items: center;
             }
-            .reparatii-auto-container5 {
+            .reparatii-auto-container6 {
               max-width: 100%;
               margin-left: 0px;
             }
@@ -931,28 +931,21 @@ const ReparatiiAuto = (props) => {
             }
           }
           @media (max-width: 767px) {
-            .reparatii-auto-container1 {
+            .reparatii-auto-container2 {
               width: 505px;
             }
             .reparatii-auto-text-content {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
-            .reparatii-auto-text19 {
+            .reparatii-auto-text29 {
               padding-left: var(--dl-space-space-unit);
               padding-right: var(--dl-space-space-unit);
             }
-            .reparatii-auto-container2 {
+            .reparatii-auto-container3 {
               flex-flow: column;
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
-            }
-            .reparatii-auto-pricing-card {
-              width: 100%;
-              max-width: 450px;
-              align-items: center;
-              margin-right: 0px;
-              margin-bottom: var(--dl-space-space-twounits);
             }
             .reparatii-auto-pricing-card1 {
               width: 100%;
@@ -968,17 +961,24 @@ const ReparatiiAuto = (props) => {
               margin-right: 0px;
               margin-bottom: var(--dl-space-space-twounits);
             }
+            .reparatii-auto-pricing-card3 {
+              width: 100%;
+              max-width: 450px;
+              align-items: center;
+              margin-right: 0px;
+              margin-bottom: var(--dl-space-space-twounits);
+            }
             .reparatii-auto-image {
               max-height: 100%;
             }
-            .reparatii-auto-content-container1 {
+            .reparatii-auto-content-container2 {
               padding-left: var(--dl-space-space-twounits);
               padding-right: var(--dl-space-space-twounits);
             }
-            .reparatii-auto-text43 {
+            .reparatii-auto-text53 {
               margin-left: -24px;
             }
-            .reparatii-auto-btns-container1 {
+            .reparatii-auto-btns-container2 {
               width: 100%;
               align-items: stretch;
               flex-direction: column;
@@ -991,10 +991,10 @@ const ReparatiiAuto = (props) => {
             }
           }
           @media (max-width: 479px) {
-            .reparatii-auto-text {
+            .reparatii-auto-text10 {
               font-size: 60px;
             }
-            .reparatii-auto-container1 {
+            .reparatii-auto-container2 {
               width: 424px;
             }
             .reparatii-auto-text-content {
@@ -1003,29 +1003,29 @@ const ReparatiiAuto = (props) => {
               padding-right: var(--dl-space-space-unit);
               padding-bottom: var(--dl-space-space-twounits);
             }
-            .reparatii-auto-container2 {
+            .reparatii-auto-container3 {
               padding-top: var(--dl-space-space-twounits);
               padding-left: var(--dl-space-space-unit);
               padding-right: var(--dl-space-space-unit);
               padding-bottom: var(--dl-space-space-twounits);
             }
-            .reparatii-auto-pricing-card2 {
+            .reparatii-auto-pricing-card3 {
               margin-bottom: 0px;
             }
-            .reparatii-auto-text45 {
+            .reparatii-auto-text55 {
               font-size: 50px;
               margin-right: var(--dl-space-space-oneandhalfunits);
             }
-            .reparatii-auto-text47 {
+            .reparatii-auto-text57 {
               font-size: 50px;
               margin-right: var(--dl-space-space-oneandhalfunits);
             }
-            .reparatii-auto-text49 {
+            .reparatii-auto-text59 {
               font-size: 50px;
               margin-left: var(--dl-space-space-oneandhalfunits);
               margin-right: var(--dl-space-space-oneandhalfunits);
             }
-            .reparatii-auto-text52 {
+            .reparatii-auto-text62 {
               text-align: justify;
             }
           }
